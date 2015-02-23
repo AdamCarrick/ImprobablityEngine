@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 34eb0408a85fa3f468ca6f2b69fa4c66
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Burn1
+    100002: //RootNode
+    100004: Det
+    100006: EngineBurn1
+    100008: EngineNozzle1
+    100010: EngineShape1
+    100012: Main
+    100014: Main_LOD1
+    100016: Main_LOD2
+    100018: Main_LOD3
+    100020: Root
+    100022: Weapon_FrontGun1_Direction
+    100024: Weapon_FrontGun1_Muzzle
+    100026: Weapon_FrontGun1_Position
+    100028: Weapon_FrontGun1_Rest
+    100030: Weapon_FrontGun2_Direction
+    100032: Weapon_FrontGun2_Muzzle
+    100034: Weapon_FrontGun2_Position
+    100036: Weapon_FrontGun2_Rest
+    100038: Weapon_FrontGun_Direction
+    100040: Weapon_FrontGun_Muzzle
+    100042: Weapon_FrontGun_Position
+    100044: Weapon_FrontGun_Rest
+    400000: Burn1
+    400002: //RootNode
+    400004: Det
+    400006: EngineBurn1
+    400008: EngineNozzle1
+    400010: EngineShape1
+    400012: Main
+    400014: Main_LOD1
+    400016: Main_LOD2
+    400018: Main_LOD3
+    400020: Root
+    400022: Weapon_FrontGun1_Direction
+    400024: Weapon_FrontGun1_Muzzle
+    400026: Weapon_FrontGun1_Position
+    400028: Weapon_FrontGun1_Rest
+    400030: Weapon_FrontGun2_Direction
+    400032: Weapon_FrontGun2_Muzzle
+    400034: Weapon_FrontGun2_Position
+    400036: Weapon_FrontGun2_Rest
+    400038: Weapon_FrontGun_Direction
+    400040: Weapon_FrontGun_Muzzle
+    400042: Weapon_FrontGun_Position
+    400044: Weapon_FrontGun_Rest
+    2300000: Det
+    2300002: EngineBurn1
+    2300004: EngineShape1
+    2300006: Main
+    2300008: Main_LOD1
+    2300010: Main_LOD2
+    2300012: Main_LOD3
+    3300000: Det
+    3300002: EngineBurn1
+    3300004: EngineShape1
+    3300006: Main
+    3300008: Main_LOD1
+    3300010: Main_LOD2
+    3300012: Main_LOD3
+    4300000: EngineShape1
+    4300002: EngineBurn1
+    4300004: Main
+    4300006: Det
+    4300008: Main_LOD1
+    4300010: Main_LOD2
+    4300012: Main_LOD3
+    6400000: Det
+    6400002: EngineBurn1
+    6400004: EngineShape1
+    6400006: Main
+    6400008: Main_LOD1
+    6400010: Main_LOD2
+    6400012: Main_LOD3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

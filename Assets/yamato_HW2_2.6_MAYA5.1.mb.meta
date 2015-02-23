@@ -1,0 +1,5653 @@
+fileFormatVersion: 2
+guid: 0848e1d5688f2114491ef4855d3ac263
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Barrel 1
+    100004: Barrel 10
+    100006: Barrel 100
+    100008: Barrel 101
+    100010: Barrel 102
+    100012: Barrel 103
+    100014: Barrel 11
+    100016: Barrel 12
+    100018: Barrel 13
+    100020: Barrel 14
+    100022: Barrel 15
+    100024: Barrel 16
+    100026: Barrel 17
+    100028: Barrel 18
+    100030: Barrel 19
+    100032: Barrel 2
+    100034: Barrel 20
+    100036: Barrel 21
+    100038: Barrel 22
+    100040: Barrel 23
+    100042: Barrel 24
+    100044: Barrel 25
+    100046: Barrel 26
+    100048: Barrel 27
+    100050: Barrel 28
+    100052: Barrel 29
+    100054: Barrel 3
+    100056: Barrel 30
+    100058: Barrel 31
+    100060: Barrel 32
+    100062: Barrel 33
+    100064: Barrel 34
+    100066: Barrel 35
+    100068: Barrel 36
+    100070: Barrel 37
+    100072: Barrel 38
+    100074: Barrel 39
+    100076: Barrel 4
+    100078: Barrel 40
+    100080: Barrel 41
+    100082: Barrel 42
+    100084: Barrel 43
+    100086: Barrel 44
+    100088: Barrel 45
+    100090: Barrel 46
+    100092: Barrel 47
+    100094: Barrel 48
+    100096: Barrel 49
+    100098: Barrel 5
+    100100: Barrel 50
+    100102: Barrel 51
+    100104: Barrel 52
+    100106: Barrel 53
+    100108: Barrel 54
+    100110: Barrel 55
+    100112: Barrel 56
+    100114: Barrel 57
+    100116: Barrel 58
+    100118: Barrel 59
+    100120: Barrel 6
+    100122: Barrel 60
+    100124: Barrel 61
+    100126: Barrel 62
+    100128: Barrel 63
+    100130: Barrel 64
+    100132: Barrel 65
+    100134: Barrel 66
+    100136: Barrel 67
+    100138: Barrel 68
+    100140: Barrel 69
+    100142: Barrel 7
+    100144: Barrel 70
+    100146: Barrel 71
+    100148: Barrel 72
+    100150: Barrel 73
+    100152: Barrel 74
+    100154: Barrel 75
+    100156: Barrel 76
+    100158: Barrel 77
+    100160: Barrel 78
+    100162: Barrel 79
+    100164: Barrel 8
+    100166: Barrel 80
+    100168: Barrel 81
+    100170: Barrel 82
+    100172: Barrel 83
+    100174: Barrel 84
+    100176: Barrel 85
+    100178: Barrel 86
+    100180: Barrel 87
+    100182: Barrel 88
+    100184: Barrel 89
+    100186: Barrel 9
+    100188: Barrel 90
+    100190: Barrel 91
+    100192: Barrel 92
+    100194: Barrel 93
+    100196: Barrel 94
+    100198: Barrel 95
+    100200: Barrel 96
+    100202: Barrel 97
+    100204: Barrel 98
+    100206: Barrel 99
+    100208: Barrel1
+    100210: Barrel1 1
+    100212: Barrel1 2
+    100214: Barrel1 3
+    100216: Barrel1 4
+    100218: Barrel1 5
+    100220: Barrel1 6
+    100222: Barrel1 7
+    100224: Barrel1 8
+    100226: Barrel1_LOD1
+    100228: Barrel1_LOD1 1
+    100230: Barrel1_LOD1 2
+    100232: Barrel1_LOD1 3
+    100234: Barrel1_LOD1 4
+    100236: Barrel1_LOD1 5
+    100238: Barrel1_LOD1 6
+    100240: Barrel1_LOD1 7
+    100242: Barrel1_LOD1 8
+    100244: Barrel1_LOD2
+    100246: Barrel1_LOD2 1
+    100248: Barrel1_LOD2 2
+    100250: Barrel1_LOD2 3
+    100252: Barrel1_LOD2 4
+    100254: Barrel1_LOD2 5
+    100256: Barrel1_LOD2 6
+    100258: Barrel1_LOD2 7
+    100260: Barrel1_LOD2 8
+    100262: Barrel1_LOD3
+    100264: Barrel1_LOD3 1
+    100266: Barrel1_LOD3 2
+    100268: Barrel1_LOD3 3
+    100270: Barrel1_LOD3 4
+    100272: Barrel1_LOD3 5
+    100274: Barrel1_LOD3 6
+    100276: Barrel1_LOD3 7
+    100278: Barrel1_LOD3 8
+    100280: Barrel2
+    100282: Barrel2 1
+    100284: Barrel2 2
+    100286: Barrel2 3
+    100288: Barrel2 4
+    100290: Barrel2 5
+    100292: Barrel2_LOD1
+    100294: Barrel2_LOD1 1
+    100296: Barrel2_LOD1 2
+    100298: Barrel2_LOD1 3
+    100300: Barrel2_LOD1 4
+    100302: Barrel2_LOD1 5
+    100304: Barrel2_LOD2
+    100306: Barrel2_LOD2 1
+    100308: Barrel2_LOD2 2
+    100310: Barrel2_LOD2 3
+    100312: Barrel2_LOD2 4
+    100314: Barrel2_LOD2 5
+    100316: Barrel2_LOD3
+    100318: Barrel2_LOD3 1
+    100320: Barrel2_LOD3 2
+    100322: Barrel2_LOD3 3
+    100324: Barrel2_LOD3 4
+    100326: Barrel2_LOD3 5
+    100328: Barrel_LOD1
+    100330: Barrel_LOD1 1
+    100332: Barrel_LOD1 10
+    100334: Barrel_LOD1 100
+    100336: Barrel_LOD1 101
+    100338: Barrel_LOD1 102
+    100340: Barrel_LOD1 103
+    100342: Barrel_LOD1 11
+    100344: Barrel_LOD1 12
+    100346: Barrel_LOD1 13
+    100348: Barrel_LOD1 14
+    100350: Barrel_LOD1 15
+    100352: Barrel_LOD1 16
+    100354: Barrel_LOD1 17
+    100356: Barrel_LOD1 18
+    100358: Barrel_LOD1 19
+    100360: Barrel_LOD1 2
+    100362: Barrel_LOD1 20
+    100364: Barrel_LOD1 21
+    100366: Barrel_LOD1 22
+    100368: Barrel_LOD1 23
+    100370: Barrel_LOD1 24
+    100372: Barrel_LOD1 25
+    100374: Barrel_LOD1 26
+    100376: Barrel_LOD1 27
+    100378: Barrel_LOD1 28
+    100380: Barrel_LOD1 29
+    100382: Barrel_LOD1 3
+    100384: Barrel_LOD1 30
+    100386: Barrel_LOD1 31
+    100388: Barrel_LOD1 32
+    100390: Barrel_LOD1 33
+    100392: Barrel_LOD1 34
+    100394: Barrel_LOD1 35
+    100396: Barrel_LOD1 36
+    100398: Barrel_LOD1 37
+    100400: Barrel_LOD1 38
+    100402: Barrel_LOD1 39
+    100404: Barrel_LOD1 4
+    100406: Barrel_LOD1 40
+    100408: Barrel_LOD1 41
+    100410: Barrel_LOD1 42
+    100412: Barrel_LOD1 43
+    100414: Barrel_LOD1 44
+    100416: Barrel_LOD1 45
+    100418: Barrel_LOD1 46
+    100420: Barrel_LOD1 47
+    100422: Barrel_LOD1 48
+    100424: Barrel_LOD1 49
+    100426: Barrel_LOD1 5
+    100428: Barrel_LOD1 50
+    100430: Barrel_LOD1 51
+    100432: Barrel_LOD1 52
+    100434: Barrel_LOD1 53
+    100436: Barrel_LOD1 54
+    100438: Barrel_LOD1 55
+    100440: Barrel_LOD1 56
+    100442: Barrel_LOD1 57
+    100444: Barrel_LOD1 58
+    100446: Barrel_LOD1 59
+    100448: Barrel_LOD1 6
+    100450: Barrel_LOD1 60
+    100452: Barrel_LOD1 61
+    100454: Barrel_LOD1 62
+    100456: Barrel_LOD1 63
+    100458: Barrel_LOD1 64
+    100460: Barrel_LOD1 65
+    100462: Barrel_LOD1 66
+    100464: Barrel_LOD1 67
+    100466: Barrel_LOD1 68
+    100468: Barrel_LOD1 69
+    100470: Barrel_LOD1 7
+    100472: Barrel_LOD1 70
+    100474: Barrel_LOD1 71
+    100476: Barrel_LOD1 72
+    100478: Barrel_LOD1 73
+    100480: Barrel_LOD1 74
+    100482: Barrel_LOD1 75
+    100484: Barrel_LOD1 76
+    100486: Barrel_LOD1 77
+    100488: Barrel_LOD1 78
+    100490: Barrel_LOD1 79
+    100492: Barrel_LOD1 8
+    100494: Barrel_LOD1 80
+    100496: Barrel_LOD1 81
+    100498: Barrel_LOD1 82
+    100500: Barrel_LOD1 83
+    100502: Barrel_LOD1 84
+    100504: Barrel_LOD1 85
+    100506: Barrel_LOD1 86
+    100508: Barrel_LOD1 87
+    100510: Barrel_LOD1 88
+    100512: Barrel_LOD1 89
+    100514: Barrel_LOD1 9
+    100516: Barrel_LOD1 90
+    100518: Barrel_LOD1 91
+    100520: Barrel_LOD1 92
+    100522: Barrel_LOD1 93
+    100524: Barrel_LOD1 94
+    100526: Barrel_LOD1 95
+    100528: Barrel_LOD1 96
+    100530: Barrel_LOD1 97
+    100532: Barrel_LOD1 98
+    100534: Barrel_LOD1 99
+    100536: Barrel_LOD2
+    100538: Barrel_LOD2 1
+    100540: Barrel_LOD2 10
+    100542: Barrel_LOD2 100
+    100544: Barrel_LOD2 101
+    100546: Barrel_LOD2 102
+    100548: Barrel_LOD2 103
+    100550: Barrel_LOD2 11
+    100552: Barrel_LOD2 12
+    100554: Barrel_LOD2 13
+    100556: Barrel_LOD2 14
+    100558: Barrel_LOD2 15
+    100560: Barrel_LOD2 16
+    100562: Barrel_LOD2 17
+    100564: Barrel_LOD2 18
+    100566: Barrel_LOD2 19
+    100568: Barrel_LOD2 2
+    100570: Barrel_LOD2 20
+    100572: Barrel_LOD2 21
+    100574: Barrel_LOD2 22
+    100576: Barrel_LOD2 23
+    100578: Barrel_LOD2 24
+    100580: Barrel_LOD2 25
+    100582: Barrel_LOD2 26
+    100584: Barrel_LOD2 27
+    100586: Barrel_LOD2 28
+    100588: Barrel_LOD2 29
+    100590: Barrel_LOD2 3
+    100592: Barrel_LOD2 30
+    100594: Barrel_LOD2 31
+    100596: Barrel_LOD2 32
+    100598: Barrel_LOD2 33
+    100600: Barrel_LOD2 34
+    100602: Barrel_LOD2 35
+    100604: Barrel_LOD2 36
+    100606: Barrel_LOD2 37
+    100608: Barrel_LOD2 38
+    100610: Barrel_LOD2 39
+    100612: Barrel_LOD2 4
+    100614: Barrel_LOD2 40
+    100616: Barrel_LOD2 41
+    100618: Barrel_LOD2 42
+    100620: Barrel_LOD2 43
+    100622: Barrel_LOD2 44
+    100624: Barrel_LOD2 45
+    100626: Barrel_LOD2 46
+    100628: Barrel_LOD2 47
+    100630: Barrel_LOD2 48
+    100632: Barrel_LOD2 49
+    100634: Barrel_LOD2 5
+    100636: Barrel_LOD2 50
+    100638: Barrel_LOD2 51
+    100640: Barrel_LOD2 52
+    100642: Barrel_LOD2 53
+    100644: Barrel_LOD2 54
+    100646: Barrel_LOD2 55
+    100648: Barrel_LOD2 56
+    100650: Barrel_LOD2 57
+    100652: Barrel_LOD2 58
+    100654: Barrel_LOD2 59
+    100656: Barrel_LOD2 6
+    100658: Barrel_LOD2 60
+    100660: Barrel_LOD2 61
+    100662: Barrel_LOD2 62
+    100664: Barrel_LOD2 63
+    100666: Barrel_LOD2 64
+    100668: Barrel_LOD2 65
+    100670: Barrel_LOD2 66
+    100672: Barrel_LOD2 67
+    100674: Barrel_LOD2 68
+    100676: Barrel_LOD2 69
+    100678: Barrel_LOD2 7
+    100680: Barrel_LOD2 70
+    100682: Barrel_LOD2 71
+    100684: Barrel_LOD2 72
+    100686: Barrel_LOD2 73
+    100688: Barrel_LOD2 74
+    100690: Barrel_LOD2 75
+    100692: Barrel_LOD2 76
+    100694: Barrel_LOD2 77
+    100696: Barrel_LOD2 78
+    100698: Barrel_LOD2 79
+    100700: Barrel_LOD2 8
+    100702: Barrel_LOD2 80
+    100704: Barrel_LOD2 81
+    100706: Barrel_LOD2 82
+    100708: Barrel_LOD2 83
+    100710: Barrel_LOD2 84
+    100712: Barrel_LOD2 85
+    100714: Barrel_LOD2 86
+    100716: Barrel_LOD2 87
+    100718: Barrel_LOD2 88
+    100720: Barrel_LOD2 89
+    100722: Barrel_LOD2 9
+    100724: Barrel_LOD2 90
+    100726: Barrel_LOD2 91
+    100728: Barrel_LOD2 92
+    100730: Barrel_LOD2 93
+    100732: Barrel_LOD2 94
+    100734: Barrel_LOD2 95
+    100736: Barrel_LOD2 96
+    100738: Barrel_LOD2 97
+    100740: Barrel_LOD2 98
+    100742: Barrel_LOD2 99
+    100744: Barrel_LOD3
+    100746: Barrel_LOD3 1
+    100748: Barrel_LOD3 10
+    100750: Barrel_LOD3 100
+    100752: Barrel_LOD3 101
+    100754: Barrel_LOD3 102
+    100756: Barrel_LOD3 103
+    100758: Barrel_LOD3 11
+    100760: Barrel_LOD3 12
+    100762: Barrel_LOD3 13
+    100764: Barrel_LOD3 14
+    100766: Barrel_LOD3 15
+    100768: Barrel_LOD3 16
+    100770: Barrel_LOD3 17
+    100772: Barrel_LOD3 18
+    100774: Barrel_LOD3 19
+    100776: Barrel_LOD3 2
+    100778: Barrel_LOD3 20
+    100780: Barrel_LOD3 21
+    100782: Barrel_LOD3 22
+    100784: Barrel_LOD3 23
+    100786: Barrel_LOD3 24
+    100788: Barrel_LOD3 25
+    100790: Barrel_LOD3 26
+    100792: Barrel_LOD3 27
+    100794: Barrel_LOD3 28
+    100796: Barrel_LOD3 29
+    100798: Barrel_LOD3 3
+    100800: Barrel_LOD3 30
+    100802: Barrel_LOD3 31
+    100804: Barrel_LOD3 32
+    100806: Barrel_LOD3 33
+    100808: Barrel_LOD3 34
+    100810: Barrel_LOD3 35
+    100812: Barrel_LOD3 36
+    100814: Barrel_LOD3 37
+    100816: Barrel_LOD3 38
+    100818: Barrel_LOD3 39
+    100820: Barrel_LOD3 4
+    100822: Barrel_LOD3 40
+    100824: Barrel_LOD3 41
+    100826: Barrel_LOD3 42
+    100828: Barrel_LOD3 43
+    100830: Barrel_LOD3 44
+    100832: Barrel_LOD3 45
+    100834: Barrel_LOD3 46
+    100836: Barrel_LOD3 47
+    100838: Barrel_LOD3 48
+    100840: Barrel_LOD3 49
+    100842: Barrel_LOD3 5
+    100844: Barrel_LOD3 50
+    100846: Barrel_LOD3 51
+    100848: Barrel_LOD3 52
+    100850: Barrel_LOD3 53
+    100852: Barrel_LOD3 54
+    100854: Barrel_LOD3 55
+    100856: Barrel_LOD3 56
+    100858: Barrel_LOD3 57
+    100860: Barrel_LOD3 58
+    100862: Barrel_LOD3 59
+    100864: Barrel_LOD3 6
+    100866: Barrel_LOD3 60
+    100868: Barrel_LOD3 61
+    100870: Barrel_LOD3 62
+    100872: Barrel_LOD3 63
+    100874: Barrel_LOD3 64
+    100876: Barrel_LOD3 65
+    100878: Barrel_LOD3 66
+    100880: Barrel_LOD3 67
+    100882: Barrel_LOD3 68
+    100884: Barrel_LOD3 69
+    100886: Barrel_LOD3 7
+    100888: Barrel_LOD3 70
+    100890: Barrel_LOD3 71
+    100892: Barrel_LOD3 72
+    100894: Barrel_LOD3 73
+    100896: Barrel_LOD3 74
+    100898: Barrel_LOD3 75
+    100900: Barrel_LOD3 76
+    100902: Barrel_LOD3 77
+    100904: Barrel_LOD3 78
+    100906: Barrel_LOD3 79
+    100908: Barrel_LOD3 8
+    100910: Barrel_LOD3 80
+    100912: Barrel_LOD3 81
+    100914: Barrel_LOD3 82
+    100916: Barrel_LOD3 83
+    100918: Barrel_LOD3 84
+    100920: Barrel_LOD3 85
+    100922: Barrel_LOD3 86
+    100924: Barrel_LOD3 87
+    100926: Barrel_LOD3 88
+    100928: Barrel_LOD3 89
+    100930: Barrel_LOD3 9
+    100932: Barrel_LOD3 90
+    100934: Barrel_LOD3 91
+    100936: Barrel_LOD3 92
+    100938: Barrel_LOD3 93
+    100940: Barrel_LOD3 94
+    100942: Barrel_LOD3 95
+    100944: Barrel_LOD3 96
+    100946: Barrel_LOD3 97
+    100948: Barrel_LOD3 98
+    100950: Barrel_LOD3 99
+    100952: bay
+    100954: BayDoor
+    100956: BayDoor_LOD1
+    100958: BayDoor_LOD2
+    100960: BayDoor_LOD3
+    100962: CapturePoint0
+    100964: CapturePoint0Heading
+    100966: CapturePoint0Left
+    100968: CapturePoint0Up
+    100970: CapturePoint1
+    100972: CapturePoint1Heading
+    100974: CapturePoint1Left
+    100976: CapturePoint1Up
+    100978: CapturePoint2
+    100980: CapturePoint2Heading
+    100982: CapturePoint2Left
+    100984: CapturePoint2Up
+    100986: CapturePoint3
+    100988: CapturePoint3Heading
+    100990: CapturePoint3Left
+    100992: CapturePoint3Up
+    100994: CapturePoint4
+    100996: CapturePoint4Heading
+    100998: CapturePoint4Left
+    101000: CapturePoint4Up
+    101002: CapturePoint5
+    101004: CapturePoint5Heading
+    101006: CapturePoint5Left
+    101008: CapturePoint5Up
+    101010: CM_MainBody
+    101012: EngineGlow1
+    101014: EngineGlow1 1
+    101016: EngineGlow1 2
+    101018: EngineGlow2
+    101020: EngineGlow2 1
+    101022: EngineGlow2 2
+    101024: EngineGlow3
+    101026: EngineGlow3 1
+    101028: EngineGlow3 2
+    101030: EngineGlow4
+    101032: EngineGlow4 1
+    101034: EngineGlow4 2
+    101036: EngineNozzle1
+    101038: EngineNozzle2
+    101040: EngineNozzle3
+    101042: Hardpoint_Engine_Direction
+    101044: Hardpoint_Engine_Position
+    101046: Hardpoint_Engine_Rest
+    101048: MainBody
+    101050: MainBody_LOD1
+    101052: MainBody_LOD2
+    101054: MainBody_LOD3
+    101056: marker1
+    101058: marker10
+    101060: marker11
+    101062: marker12
+    101064: marker13
+    101066: marker14
+    101068: marker15
+    101070: marker16
+    101072: marker1b
+    101074: marker2
+    101076: marker27
+    101078: marker28
+    101080: marker29
+    101082: marker2b
+    101084: marker3
+    101086: marker30
+    101088: marker3b
+    101090: marker4
+    101092: marker4b
+    101094: marker5
+    101096: marker5b
+    101098: marker6
+    101100: marker7
+    101102: marker8
+    101104: marker9
+    101106: NavLight1
+    101108: NavLight2
+    101110: NavLight3
+    101112: NavLight4
+    101114: NavLight5
+    101116: NavLight6
+    101118: NavLight7
+    101120: NavLight8
+    101122: NavLight9
+    101124: NavLight_BigBay
+    101126: NavLight_Eng
+    101128: NavLight_FrontBay2
+    101130: NavLight_FrontBay3
+    101132: path1
+    101134: path2
+    101136: pCube39
+    101138: pCube40
+    101140: polySurface243
+    101142: polySurface270
+    101144: polySurface274
+    101146: polySurface278
+    101148: polySurface279
+    101150: polySurface293
+    101152: polySurface294
+    101154: polySurface295
+    101156: polySurface334
+    101158: polySurface335
+    101160: polySurface338
+    101162: polySurface341
+    101164: polySurface342
+    101166: polySurface355
+    101168: polySurface356
+    101170: polySurface357
+    101172: polySurface381
+    101174: polySurface384
+    101176: polySurface385
+    101178: polySurface408
+    101180: polySurface411
+    101182: polySurface458
+    101184: polySurface503
+    101186: polySurface504
+    101188: polySurface505
+    101190: polySurface506
+    101192: polySurface571
+    101194: polySurface571 1
+    101196: polySurface571 2
+    101198: polySurface571 3
+    101200: polySurface571 4
+    101202: polySurface571 5
+    101204: polySurface571 6
+    101206: polySurface571 7
+    101208: polySurface571 8
+    101210: polySurface571 9
+    101212: polySurface573
+    101214: polySurface574
+    101216: polySurface638
+    101218: polySurface644
+    101220: RepairPoint0
+    101222: RepairPoint0Heading
+    101224: RepairPoint0Left
+    101226: RepairPoint0Up
+    101228: RepairPoint1
+    101230: RepairPoint1Heading
+    101232: RepairPoint1Left
+    101234: RepairPoint1Up
+    101236: RepairPoint2
+    101238: RepairPoint2Heading
+    101240: RepairPoint2Left
+    101242: RepairPoint2Up
+    101244: Root
+    101246: S2Wpn
+    101248: S2Wpn 1
+    101250: S2Wpn 10
+    101252: S2Wpn 11
+    101254: S2Wpn 12
+    101256: S2Wpn 13
+    101258: S2Wpn 14
+    101260: S2Wpn 15
+    101262: S2Wpn 16
+    101264: S2Wpn 17
+    101266: S2Wpn 18
+    101268: S2Wpn 19
+    101270: S2Wpn 2
+    101272: S2Wpn 20
+    101274: S2Wpn 21
+    101276: S2Wpn 22
+    101278: S2Wpn 23
+    101280: S2Wpn 24
+    101282: S2Wpn 25
+    101284: S2Wpn 3
+    101286: S2Wpn 4
+    101288: S2Wpn 5
+    101290: S2Wpn 6
+    101292: S2Wpn 7
+    101294: S2Wpn 8
+    101296: S2Wpn 9
+    101298: S2Wpn_LOD1
+    101300: S2Wpn_LOD1 1
+    101302: S2Wpn_LOD1 10
+    101304: S2Wpn_LOD1 11
+    101306: S2Wpn_LOD1 12
+    101308: S2Wpn_LOD1 13
+    101310: S2Wpn_LOD1 14
+    101312: S2Wpn_LOD1 15
+    101314: S2Wpn_LOD1 16
+    101316: S2Wpn_LOD1 17
+    101318: S2Wpn_LOD1 18
+    101320: S2Wpn_LOD1 19
+    101322: S2Wpn_LOD1 2
+    101324: S2Wpn_LOD1 20
+    101326: S2Wpn_LOD1 21
+    101328: S2Wpn_LOD1 22
+    101330: S2Wpn_LOD1 23
+    101332: S2Wpn_LOD1 24
+    101334: S2Wpn_LOD1 25
+    101336: S2Wpn_LOD1 3
+    101338: S2Wpn_LOD1 4
+    101340: S2Wpn_LOD1 5
+    101342: S2Wpn_LOD1 6
+    101344: S2Wpn_LOD1 7
+    101346: S2Wpn_LOD1 8
+    101348: S2Wpn_LOD1 9
+    101350: S2Wpn_LOD2
+    101352: S2Wpn_LOD2 1
+    101354: S2Wpn_LOD2 10
+    101356: S2Wpn_LOD2 11
+    101358: S2Wpn_LOD2 12
+    101360: S2Wpn_LOD2 13
+    101362: S2Wpn_LOD2 14
+    101364: S2Wpn_LOD2 15
+    101366: S2Wpn_LOD2 16
+    101368: S2Wpn_LOD2 17
+    101370: S2Wpn_LOD2 18
+    101372: S2Wpn_LOD2 19
+    101374: S2Wpn_LOD2 2
+    101376: S2Wpn_LOD2 20
+    101378: S2Wpn_LOD2 21
+    101380: S2Wpn_LOD2 22
+    101382: S2Wpn_LOD2 23
+    101384: S2Wpn_LOD2 24
+    101386: S2Wpn_LOD2 25
+    101388: S2Wpn_LOD2 3
+    101390: S2Wpn_LOD2 4
+    101392: S2Wpn_LOD2 5
+    101394: S2Wpn_LOD2 6
+    101396: S2Wpn_LOD2 7
+    101398: S2Wpn_LOD2 8
+    101400: S2Wpn_LOD2 9
+    101402: S2Wpn_LOD3
+    101404: S2Wpn_LOD3 1
+    101406: S2Wpn_LOD3 10
+    101408: S2Wpn_LOD3 11
+    101410: S2Wpn_LOD3 12
+    101412: S2Wpn_LOD3 13
+    101414: S2Wpn_LOD3 14
+    101416: S2Wpn_LOD3 15
+    101418: S2Wpn_LOD3 16
+    101420: S2Wpn_LOD3 17
+    101422: S2Wpn_LOD3 18
+    101424: S2Wpn_LOD3 19
+    101426: S2Wpn_LOD3 2
+    101428: S2Wpn_LOD3 20
+    101430: S2Wpn_LOD3 21
+    101432: S2Wpn_LOD3 22
+    101434: S2Wpn_LOD3 23
+    101436: S2Wpn_LOD3 24
+    101438: S2Wpn_LOD3 25
+    101440: S2Wpn_LOD3 3
+    101442: S2Wpn_LOD3 4
+    101444: S2Wpn_LOD3 5
+    101446: S2Wpn_LOD3 6
+    101448: S2Wpn_LOD3 7
+    101450: S2Wpn_LOD3 8
+    101452: S2Wpn_LOD3 9
+    101454: SWpn
+    101456: SWpn 1
+    101458: SWpn 2
+    101460: SWpn 3
+    101462: SWpn 4
+    101464: SWpn 5
+    101466: SWpn 6
+    101468: SWpn 7
+    101470: SWpn 8
+    101472: SWpn 9
+    101474: SWpn_LOD1
+    101476: SWpn_LOD1 1
+    101478: SWpn_LOD1 2
+    101480: SWpn_LOD1 3
+    101482: SWpn_LOD1 4
+    101484: SWpn_LOD1 5
+    101486: SWpn_LOD1 6
+    101488: SWpn_LOD1 7
+    101490: SWpn_LOD1 8
+    101492: SWpn_LOD1 9
+    101494: SWpn_LOD2
+    101496: SWpn_LOD2 1
+    101498: SWpn_LOD2 2
+    101500: SWpn_LOD2 3
+    101502: SWpn_LOD2 4
+    101504: SWpn_LOD2 5
+    101506: SWpn_LOD2 6
+    101508: SWpn_LOD2 7
+    101510: SWpn_LOD2 8
+    101512: SWpn_LOD2 9
+    101514: SWpn_LOD3
+    101516: SWpn_LOD3 1
+    101518: SWpn_LOD3 2
+    101520: SWpn_LOD3 3
+    101522: SWpn_LOD3 4
+    101524: SWpn_LOD3 5
+    101526: SWpn_LOD3 6
+    101528: SWpn_LOD3 7
+    101530: SWpn_LOD3 8
+    101532: SWpn_LOD3 9
+    101534: Turret1
+    101536: Turret1 1
+    101538: Turret1 2
+    101540: Turret1_LOD1
+    101542: Turret1_LOD1 1
+    101544: Turret1_LOD1 2
+    101546: Turret1_LOD2
+    101548: Turret1_LOD2 1
+    101550: Turret1_LOD2 2
+    101552: Turret1_LOD3
+    101554: Turret1_LOD3 1
+    101556: Turret1_LOD3 2
+    101558: Turret2
+    101560: Turret2 1
+    101562: Turret2_LOD1
+    101564: Turret2_LOD1 1
+    101566: Turret2_LOD2
+    101568: Turret2_LOD2 1
+    101570: Turret2_LOD3
+    101572: Turret2_LOD3 1
+    101574: Weapon_BCannon1_Direction
+    101576: Weapon_BCannon1_Latitude
+    101578: Weapon_BCannon1_Muzzle
+    101580: Weapon_BCannon1_Position
+    101582: Weapon_BCannon1_Rest
+    101584: Weapon_BCannon1Slave1_Direction
+    101586: Weapon_BCannon1Slave1_Latitude
+    101588: Weapon_BCannon1Slave1_Muzzle
+    101590: Weapon_BCannon1Slave1_Position
+    101592: Weapon_BCannon1Slave1_Rest
+    101594: Weapon_BCannon1Slave_Direction
+    101596: Weapon_BCannon1Slave_Latitude
+    101598: Weapon_BCannon1Slave_Muzzle
+    101600: Weapon_BCannon1Slave_Position
+    101602: Weapon_BCannon1Slave_Rest
+    101604: Weapon_BCannon2_Direction
+    101606: Weapon_BCannon2_Latitude
+    101608: Weapon_BCannon2_Muzzle
+    101610: Weapon_BCannon2_Position
+    101612: Weapon_BCannon2_Rest
+    101614: Weapon_BCannon2Slave1_Direction
+    101616: Weapon_BCannon2Slave1_Latitude
+    101618: Weapon_BCannon2Slave1_Muzzle
+    101620: Weapon_BCannon2Slave1_Position
+    101622: Weapon_BCannon2Slave1_Rest
+    101624: Weapon_BCannon2Slave_Direction
+    101626: Weapon_BCannon2Slave_Latitude
+    101628: Weapon_BCannon2Slave_Muzzle
+    101630: Weapon_BCannon2Slave_Position
+    101632: Weapon_BCannon2Slave_Rest
+    101634: Weapon_BCannon3_Direction
+    101636: Weapon_BCannon3_Latitude
+    101638: Weapon_BCannon3_Muzzle
+    101640: Weapon_BCannon3_Position
+    101642: Weapon_BCannon3_Rest
+    101644: Weapon_BCannon3Slave1_Direction
+    101646: Weapon_BCannon3Slave1_Latitude
+    101648: Weapon_BCannon3Slave1_Muzzle
+    101650: Weapon_BCannon3Slave1_Position
+    101652: Weapon_BCannon3Slave1_Rest
+    101654: Weapon_BCannon3Slave_Direction
+    101656: Weapon_BCannon3Slave_Latitude
+    101658: Weapon_BCannon3Slave_Muzzle
+    101660: Weapon_BCannon3Slave_Position
+    101662: Weapon_BCannon3Slave_Rest
+    101664: Weapon_MCannon1_Direction
+    101666: Weapon_MCannon1_Latitude
+    101668: Weapon_MCannon1_Muzzle
+    101670: Weapon_MCannon1_Muzzle 1
+    101672: Weapon_MCannon1_Position
+    101674: Weapon_MCannon1_Rest
+    101676: Weapon_MCannon1Slave1_Direction
+    101678: Weapon_MCannon1Slave1_Latitude
+    101680: Weapon_MCannon1Slave1_Muzzle
+    101682: Weapon_MCannon1Slave1_Position
+    101684: Weapon_MCannon1Slave1_Rest
+    101686: Weapon_MCannon1Slave_Direction
+    101688: Weapon_MCannon1Slave_Latitude
+    101690: Weapon_MCannon1Slave_Muzzle
+    101692: Weapon_MCannon1Slave_Position
+    101694: Weapon_MCannon1Slave_Rest
+    101696: Weapon_MCannon2_Direction
+    101698: Weapon_MCannon2_Latitude
+    101700: Weapon_MCannon2_Position
+    101702: Weapon_MCannon2_Rest
+    101704: Weapon_MCannon2Slave1_Direction
+    101706: Weapon_MCannon2Slave1_Latitude
+    101708: Weapon_MCannon2Slave1_Muzzle
+    101710: Weapon_MCannon2Slave1_Position
+    101712: Weapon_MCannon2Slave1_Rest
+    101714: Weapon_MCannon2Slave_Direction
+    101716: Weapon_MCannon2Slave_Latitude
+    101718: Weapon_MCannon2Slave_Muzzle
+    101720: Weapon_MCannon2Slave_Position
+    101722: Weapon_MCannon2Slave_Rest
+    101724: Weapon_S2Wpn10_Direction
+    101726: Weapon_S2Wpn10_Latitude
+    101728: Weapon_S2Wpn10_Muzzle
+    101730: Weapon_S2Wpn10_Position
+    101732: Weapon_S2Wpn10_Rest
+    101734: Weapon_S2Wpn10Slave_Direction
+    101736: Weapon_S2Wpn10Slave_Latitude
+    101738: Weapon_S2Wpn10Slave_Muzzle
+    101740: Weapon_S2Wpn10Slave_Position
+    101742: Weapon_S2Wpn10Slave_Rest
+    101744: Weapon_S2Wpn11_Direction
+    101746: Weapon_S2Wpn11_Latitude
+    101748: Weapon_S2Wpn11_Muzzle
+    101750: Weapon_S2Wpn11_Position
+    101752: Weapon_S2Wpn11_Rest
+    101754: Weapon_S2Wpn11Slave_Direction
+    101756: Weapon_S2Wpn11Slave_Latitude
+    101758: Weapon_S2Wpn11Slave_Muzzle
+    101760: Weapon_S2Wpn11Slave_Position
+    101762: Weapon_S2Wpn11Slave_Rest
+    101764: Weapon_S2Wpn12_Direction
+    101766: Weapon_S2Wpn12_Latitude
+    101768: Weapon_S2Wpn12_Muzzle
+    101770: Weapon_S2Wpn12_Position
+    101772: Weapon_S2Wpn12_Rest
+    101774: Weapon_S2Wpn12Slave_Direction
+    101776: Weapon_S2Wpn12Slave_Latitude
+    101778: Weapon_S2Wpn12Slave_Muzzle
+    101780: Weapon_S2Wpn12Slave_Position
+    101782: Weapon_S2Wpn12Slave_Rest
+    101784: Weapon_S2Wpn13_Direction
+    101786: Weapon_S2Wpn13_Latitude
+    101788: Weapon_S2Wpn13_Muzzle
+    101790: Weapon_S2Wpn13_Position
+    101792: Weapon_S2Wpn13_Rest
+    101794: Weapon_S2Wpn13Slave_Direction
+    101796: Weapon_S2Wpn13Slave_Latitude
+    101798: Weapon_S2Wpn13Slave_Muzzle
+    101800: Weapon_S2Wpn13Slave_Position
+    101802: Weapon_S2Wpn13Slave_Rest
+    101804: Weapon_S2Wpn14_Direction
+    101806: Weapon_S2Wpn14_Latitude
+    101808: Weapon_S2Wpn14_Muzzle
+    101810: Weapon_S2Wpn14_Position
+    101812: Weapon_S2Wpn14_Rest
+    101814: Weapon_S2Wpn14Slave_Direction
+    101816: Weapon_S2Wpn14Slave_Latitude
+    101818: Weapon_S2Wpn14Slave_Muzzle
+    101820: Weapon_S2Wpn14Slave_Position
+    101822: Weapon_S2Wpn14Slave_Rest
+    101824: Weapon_S2Wpn1_Direction
+    101826: Weapon_S2Wpn1_Latitude
+    101828: Weapon_S2Wpn1_Muzzle
+    101830: Weapon_S2Wpn1_Position
+    101832: Weapon_S2Wpn1_Rest
+    101834: Weapon_S2Wpn1Slave_Direction
+    101836: Weapon_S2Wpn1Slave_Latitude
+    101838: Weapon_S2Wpn1Slave_Muzzle
+    101840: Weapon_S2Wpn1Slave_Position
+    101842: Weapon_S2Wpn1Slave_Rest
+    101844: Weapon_S2Wpn2_Direction
+    101846: Weapon_S2Wpn2_Latitude
+    101848: Weapon_S2Wpn2_Muzzle
+    101850: Weapon_S2Wpn2_Position
+    101852: Weapon_S2Wpn2_Rest
+    101854: Weapon_S2Wpn2Slave_Direction
+    101856: Weapon_S2Wpn2Slave_Latitude
+    101858: Weapon_S2Wpn2Slave_Muzzle
+    101860: Weapon_S2Wpn2Slave_Position
+    101862: Weapon_S2Wpn2Slave_Rest
+    101864: Weapon_S2Wpn3_Direction
+    101866: Weapon_S2Wpn3_Latitude
+    101868: Weapon_S2Wpn3_Muzzle
+    101870: Weapon_S2Wpn3_Position
+    101872: Weapon_S2Wpn3_Rest
+    101874: Weapon_S2Wpn3Slave_Direction
+    101876: Weapon_S2Wpn3Slave_Latitude
+    101878: Weapon_S2Wpn3Slave_Muzzle
+    101880: Weapon_S2Wpn3Slave_Position
+    101882: Weapon_S2Wpn3Slave_Rest
+    101884: Weapon_S2Wpn4_Direction
+    101886: Weapon_S2Wpn4_Latitude
+    101888: Weapon_S2Wpn4_Muzzle
+    101890: Weapon_S2Wpn4_Position
+    101892: Weapon_S2Wpn4_Rest
+    101894: Weapon_S2Wpn4Slave_Direction
+    101896: Weapon_S2Wpn4Slave_Latitude
+    101898: Weapon_S2Wpn4Slave_Muzzle
+    101900: Weapon_S2Wpn4Slave_Position
+    101902: Weapon_S2Wpn4Slave_Rest
+    101904: Weapon_S2Wpn5_Direction
+    101906: Weapon_S2Wpn5_Latitude
+    101908: Weapon_S2Wpn5_Muzzle
+    101910: Weapon_S2Wpn5_Position
+    101912: Weapon_S2Wpn5_Rest
+    101914: Weapon_S2Wpn5Slave_Direction
+    101916: Weapon_S2Wpn5Slave_Latitude
+    101918: Weapon_S2Wpn5Slave_Muzzle
+    101920: Weapon_S2Wpn5Slave_Position
+    101922: Weapon_S2Wpn5Slave_Rest
+    101924: Weapon_S2Wpn6_Direction
+    101926: Weapon_S2Wpn6_Latitude
+    101928: Weapon_S2Wpn6_Muzzle
+    101930: Weapon_S2Wpn6_Position
+    101932: Weapon_S2Wpn6_Rest
+    101934: Weapon_S2Wpn6Slave_Direction
+    101936: Weapon_S2Wpn6Slave_Latitude
+    101938: Weapon_S2Wpn6Slave_Muzzle
+    101940: Weapon_S2Wpn6Slave_Position
+    101942: Weapon_S2Wpn6Slave_Rest
+    101944: Weapon_S2Wpn7_Direction
+    101946: Weapon_S2Wpn7_Latitude
+    101948: Weapon_S2Wpn7_Muzzle
+    101950: Weapon_S2Wpn7_Position
+    101952: Weapon_S2Wpn7_Rest
+    101954: Weapon_S2Wpn7Slave_Direction
+    101956: Weapon_S2Wpn7Slave_Latitude
+    101958: Weapon_S2Wpn7Slave_Muzzle
+    101960: Weapon_S2Wpn7Slave_Position
+    101962: Weapon_S2Wpn7Slave_Rest
+    101964: Weapon_S2Wpn8_Direction
+    101966: Weapon_S2Wpn8_Latitude
+    101968: Weapon_S2Wpn8_Muzzle
+    101970: Weapon_S2Wpn8_Position
+    101972: Weapon_S2Wpn8_Rest
+    101974: Weapon_S2Wpn8Slave_Direction
+    101976: Weapon_S2Wpn8Slave_Latitude
+    101978: Weapon_S2Wpn8Slave_Muzzle
+    101980: Weapon_S2Wpn8Slave_Position
+    101982: Weapon_S2Wpn8Slave_Rest
+    101984: Weapon_S2Wpn9_Direction
+    101986: Weapon_S2Wpn9_Latitude
+    101988: Weapon_S2Wpn9_Muzzle
+    101990: Weapon_S2Wpn9_Position
+    101992: Weapon_S2Wpn9_Rest
+    101994: Weapon_S2Wpn9Slave_Direction
+    101996: Weapon_S2Wpn9Slave_Latitude
+    101998: Weapon_S2Wpn9Slave_Muzzle
+    102000: Weapon_S2Wpn9Slave_Position
+    102002: Weapon_S2Wpn9Slave_Rest
+    102004: Weapon_S3Wpn1_Direction
+    102006: Weapon_S3Wpn1_Latitude
+    102008: Weapon_S3Wpn1_Muzzle
+    102010: Weapon_S3Wpn1_Position
+    102012: Weapon_S3Wpn1_Rest
+    102014: Weapon_S3Wpn1Slave_Direction
+    102016: Weapon_S3Wpn1Slave_Latitude
+    102018: Weapon_S3Wpn1Slave_Muzzle
+    102020: Weapon_S3Wpn1Slave_Position
+    102022: Weapon_S3Wpn1Slave_Rest
+    102024: Weapon_S3Wpn2_Direction
+    102026: Weapon_S3Wpn2_Latitude
+    102028: Weapon_S3Wpn2_Muzzle
+    102030: Weapon_S3Wpn2_Position
+    102032: Weapon_S3Wpn2_Rest
+    102034: Weapon_S3Wpn2Slave_Direction
+    102036: Weapon_S3Wpn2Slave_Latitude
+    102038: Weapon_S3Wpn2Slave_Muzzle
+    102040: Weapon_S3Wpn2Slave_Position
+    102042: Weapon_S3Wpn2Slave_Rest
+    102044: Weapon_S3Wpn3_Direction
+    102046: Weapon_S3Wpn3_Latitude
+    102048: Weapon_S3Wpn3_Muzzle
+    102050: Weapon_S3Wpn3_Position
+    102052: Weapon_S3Wpn3_Rest
+    102054: Weapon_S3Wpn3Slave_Direction
+    102056: Weapon_S3Wpn3Slave_Latitude
+    102058: Weapon_S3Wpn3Slave_Muzzle
+    102060: Weapon_S3Wpn3Slave_Position
+    102062: Weapon_S3Wpn3Slave_Rest
+    102064: Weapon_S3Wpn4_Direction
+    102066: Weapon_S3Wpn4_Latitude
+    102068: Weapon_S3Wpn4_Muzzle
+    102070: Weapon_S3Wpn4_Position
+    102072: Weapon_S3Wpn4_Rest
+    102074: Weapon_S3Wpn4Slave_Direction
+    102076: Weapon_S3Wpn4Slave_Latitude
+    102078: Weapon_S3Wpn4Slave_Muzzle
+    102080: Weapon_S3Wpn4Slave_Position
+    102082: Weapon_S3Wpn4Slave_Rest
+    102084: Weapon_S3Wpn5_Direction
+    102086: Weapon_S3Wpn5_Latitude
+    102088: Weapon_S3Wpn5_Muzzle
+    102090: Weapon_S3Wpn5_Position
+    102092: Weapon_S3Wpn5_Rest
+    102094: Weapon_S3Wpn5Slave_Direction
+    102096: Weapon_S3Wpn5Slave_Latitude
+    102098: Weapon_S3Wpn5Slave_Muzzle
+    102100: Weapon_S3Wpn5Slave_Position
+    102102: Weapon_S3Wpn5Slave_Rest
+    102104: Weapon_S3Wpn6_Direction
+    102106: Weapon_S3Wpn6_Latitude
+    102108: Weapon_S3Wpn6_Muzzle
+    102110: Weapon_S3Wpn6_Position
+    102112: Weapon_S3Wpn6_Rest
+    102114: Weapon_S3Wpn6Slave_Direction
+    102116: Weapon_S3Wpn6Slave_Latitude
+    102118: Weapon_S3Wpn6Slave_Muzzle
+    102120: Weapon_S3Wpn6Slave_Position
+    102122: Weapon_S3Wpn6Slave_Rest
+    102124: Weapon_S4Wpn10_Direction
+    102126: Weapon_S4Wpn10_Latitude
+    102128: Weapon_S4Wpn10_Muzzle
+    102130: Weapon_S4Wpn10_Position
+    102132: Weapon_S4Wpn10_Rest
+    102134: Weapon_S4Wpn11_Direction
+    102136: Weapon_S4Wpn11_Latitude
+    102138: Weapon_S4Wpn11_Muzzle
+    102140: Weapon_S4Wpn11_Position
+    102142: Weapon_S4Wpn11_Rest
+    102144: Weapon_S4Wpn12_Direction
+    102146: Weapon_S4Wpn12_Latitude
+    102148: Weapon_S4Wpn12_Muzzle
+    102150: Weapon_S4Wpn12_Position
+    102152: Weapon_S4Wpn12_Rest
+    102154: Weapon_S4Wpn1_Direction
+    102156: Weapon_S4Wpn1_Latitude
+    102158: Weapon_S4Wpn1_Muzzle
+    102160: Weapon_S4Wpn1_Position
+    102162: Weapon_S4Wpn1_Rest
+    102164: Weapon_S4Wpn2_Direction
+    102166: Weapon_S4Wpn2_Latitude
+    102168: Weapon_S4Wpn2_Muzzle
+    102170: Weapon_S4Wpn2_Position
+    102172: Weapon_S4Wpn2_Rest
+    102174: Weapon_S4Wpn3_Direction
+    102176: Weapon_S4Wpn3_Latitude
+    102178: Weapon_S4Wpn3_Muzzle
+    102180: Weapon_S4Wpn3_Position
+    102182: Weapon_S4Wpn3_Rest
+    102184: Weapon_S4Wpn4_Direction
+    102186: Weapon_S4Wpn4_Latitude
+    102188: Weapon_S4Wpn4_Muzzle
+    102190: Weapon_S4Wpn4_Position
+    102192: Weapon_S4Wpn4_Rest
+    102194: Weapon_S4Wpn5_Direction
+    102196: Weapon_S4Wpn5_Latitude
+    102198: Weapon_S4Wpn5_Muzzle
+    102200: Weapon_S4Wpn5_Position
+    102202: Weapon_S4Wpn5_Rest
+    102204: Weapon_S4Wpn6_Direction
+    102206: Weapon_S4Wpn6_Latitude
+    102208: Weapon_S4Wpn6_Muzzle
+    102210: Weapon_S4Wpn6_Position
+    102212: Weapon_S4Wpn6_Rest
+    102214: Weapon_S4Wpn7_Direction
+    102216: Weapon_S4Wpn7_Latitude
+    102218: Weapon_S4Wpn7_Muzzle
+    102220: Weapon_S4Wpn7_Position
+    102222: Weapon_S4Wpn7_Rest
+    102224: Weapon_S4Wpn8_Direction
+    102226: Weapon_S4Wpn8_Latitude
+    102228: Weapon_S4Wpn8_Muzzle
+    102230: Weapon_S4Wpn8_Position
+    102232: Weapon_S4Wpn8_Rest
+    102234: Weapon_S4Wpn9_Direction
+    102236: Weapon_S4Wpn9_Latitude
+    102238: Weapon_S4Wpn9_Muzzle
+    102240: Weapon_S4Wpn9_Position
+    102242: Weapon_S4Wpn9_Rest
+    102244: Weapon_S5Wpn1_Direction
+    102246: Weapon_S5Wpn1_Latitude
+    102248: Weapon_S5Wpn1_Muzzle
+    102250: Weapon_S5Wpn1_Position
+    102252: Weapon_S5Wpn1_Rest
+    102254: Weapon_S5Wpn1Slave_Direction
+    102256: Weapon_S5Wpn1Slave_Latitude
+    102258: Weapon_S5Wpn1Slave_Muzzle
+    102260: Weapon_S5Wpn1Slave_Position
+    102262: Weapon_S5Wpn1Slave_Rest
+    102264: Weapon_S5Wpn2_Direction
+    102266: Weapon_S5Wpn2_Latitude
+    102268: Weapon_S5Wpn2_Muzzle
+    102270: Weapon_S5Wpn2_Position
+    102272: Weapon_S5Wpn2_Rest
+    102274: Weapon_S5Wpn2Slave_Direction
+    102276: Weapon_S5Wpn2Slave_Latitude
+    102278: Weapon_S5Wpn2Slave_Muzzle
+    102280: Weapon_S5Wpn2Slave_Position
+    102282: Weapon_S5Wpn2Slave_Rest
+    102284: Weapon_S5Wpn3_Direction
+    102286: Weapon_S5Wpn3_Latitude
+    102288: Weapon_S5Wpn3_Muzzle
+    102290: Weapon_S5Wpn3_Position
+    102292: Weapon_S5Wpn3_Rest
+    102294: Weapon_S5Wpn3Slave_Direction
+    102296: Weapon_S5Wpn3Slave_Latitude
+    102298: Weapon_S5Wpn3Slave_Muzzle
+    102300: Weapon_S5Wpn3Slave_Position
+    102302: Weapon_S5Wpn3Slave_Rest
+    102304: Weapon_S5Wpn4_Direction
+    102306: Weapon_S5Wpn4_Latitude
+    102308: Weapon_S5Wpn4_Muzzle
+    102310: Weapon_S5Wpn4_Position
+    102312: Weapon_S5Wpn4_Rest
+    102314: Weapon_S5Wpn4Slave_Direction
+    102316: Weapon_S5Wpn4Slave_Latitude
+    102318: Weapon_S5Wpn4Slave_Muzzle
+    102320: Weapon_S5Wpn4Slave_Position
+    102322: Weapon_S5Wpn4Slave_Rest
+    102324: Weapon_S5Wpn5_Direction
+    102326: Weapon_S5Wpn5_Latitude
+    102328: Weapon_S5Wpn5_Muzzle
+    102330: Weapon_S5Wpn5_Position
+    102332: Weapon_S5Wpn5_Rest
+    102334: Weapon_S5Wpn5Slave_Direction
+    102336: Weapon_S5Wpn5Slave_Latitude
+    102338: Weapon_S5Wpn5Slave_Muzzle
+    102340: Weapon_S5Wpn5Slave_Position
+    102342: Weapon_S5Wpn5Slave_Rest
+    102344: Weapon_S5Wpn6_Direction
+    102346: Weapon_S5Wpn6_Latitude
+    102348: Weapon_S5Wpn6_Muzzle
+    102350: Weapon_S5Wpn6_Position
+    102352: Weapon_S5Wpn6_Rest
+    102354: Weapon_S5Wpn6Slave_Direction
+    102356: Weapon_S5Wpn6Slave_Latitude
+    102358: Weapon_S5Wpn6Slave_Muzzle
+    102360: Weapon_S5Wpn6Slave_Position
+    102362: Weapon_S5Wpn6Slave_Rest
+    102364: Weapon_SWpn10_Direction
+    102366: Weapon_SWpn10_Latitude
+    102368: Weapon_SWpn10_Muzzle
+    102370: Weapon_SWpn10_Position
+    102372: Weapon_SWpn10_Rest
+    102374: Weapon_SWpn10Slave1_Direction
+    102376: Weapon_SWpn10Slave1_Latitude
+    102378: Weapon_SWpn10Slave1_Muzzle
+    102380: Weapon_SWpn10Slave1_Position
+    102382: Weapon_SWpn10Slave1_Rest
+    102384: Weapon_SWpn10Slave2_Direction
+    102386: Weapon_SWpn10Slave2_Latitude
+    102388: Weapon_SWpn10Slave2_Muzzle
+    102390: Weapon_SWpn10Slave2_Position
+    102392: Weapon_SWpn10Slave2_Rest
+    102394: Weapon_SWpn10Slave_Direction
+    102396: Weapon_SWpn10Slave_Latitude
+    102398: Weapon_SWpn10Slave_Muzzle
+    102400: Weapon_SWpn10Slave_Position
+    102402: Weapon_SWpn10Slave_Rest
+    102404: Weapon_SWpn1_Direction
+    102406: Weapon_SWpn1_Latitude
+    102408: Weapon_SWpn1_Muzzle
+    102410: Weapon_SWpn1_Position
+    102412: Weapon_SWpn1_Rest
+    102414: Weapon_SWpn1Slave1_Direction
+    102416: Weapon_SWpn1Slave1_Latitude
+    102418: Weapon_SWpn1Slave1_Muzzle
+    102420: Weapon_SWpn1Slave1_Position
+    102422: Weapon_SWpn1Slave1_Rest
+    102424: Weapon_SWpn1Slave2_Direction
+    102426: Weapon_SWpn1Slave2_Latitude
+    102428: Weapon_SWpn1Slave2_Muzzle
+    102430: Weapon_SWpn1Slave2_Muzzle 1
+    102432: Weapon_SWpn1Slave2_Position
+    102434: Weapon_SWpn1Slave2_Rest
+    102436: Weapon_SWpn1Slave_Direction
+    102438: Weapon_SWpn1Slave_Latitude
+    102440: Weapon_SWpn1Slave_Muzzle
+    102442: Weapon_SWpn1Slave_Position
+    102444: Weapon_SWpn1Slave_Rest
+    102446: Weapon_SWpn2_Direction
+    102448: Weapon_SWpn2_Latitude
+    102450: Weapon_SWpn2_Muzzle
+    102452: Weapon_SWpn2_Position
+    102454: Weapon_SWpn2_Rest
+    102456: Weapon_SWpn2Slave1_Direction
+    102458: Weapon_SWpn2Slave1_Latitude
+    102460: Weapon_SWpn2Slave1_Muzzle
+    102462: Weapon_SWpn2Slave1_Position
+    102464: Weapon_SWpn2Slave1_Rest
+    102466: Weapon_SWpn2Slave2_Direction
+    102468: Weapon_SWpn2Slave2_Latitude
+    102470: Weapon_SWpn2Slave2_Muzzle
+    102472: Weapon_SWpn2Slave2_Position
+    102474: Weapon_SWpn2Slave2_Rest
+    102476: Weapon_SWpn2Slave_Direction
+    102478: Weapon_SWpn2Slave_Latitude
+    102480: Weapon_SWpn2Slave_Muzzle
+    102482: Weapon_SWpn2Slave_Position
+    102484: Weapon_SWpn2Slave_Rest
+    102486: Weapon_SWpn3_Direction
+    102488: Weapon_SWpn3_Latitude
+    102490: Weapon_SWpn3_Muzzle
+    102492: Weapon_SWpn3_Position
+    102494: Weapon_SWpn3_Rest
+    102496: Weapon_SWpn3Slave1_Direction
+    102498: Weapon_SWpn3Slave1_Latitude
+    102500: Weapon_SWpn3Slave1_Muzzle
+    102502: Weapon_SWpn3Slave1_Position
+    102504: Weapon_SWpn3Slave1_Rest
+    102506: Weapon_SWpn3Slave2_Direction
+    102508: Weapon_SWpn3Slave2_Latitude
+    102510: Weapon_SWpn3Slave2_Position
+    102512: Weapon_SWpn3Slave2_Rest
+    102514: Weapon_SWpn3Slave_Direction
+    102516: Weapon_SWpn3Slave_Latitude
+    102518: Weapon_SWpn3Slave_Muzzle
+    102520: Weapon_SWpn3Slave_Position
+    102522: Weapon_SWpn3Slave_Rest
+    102524: Weapon_SWpn4_Direction
+    102526: Weapon_SWpn4_Latitude
+    102528: Weapon_SWpn4_Muzzle
+    102530: Weapon_SWpn4_Position
+    102532: Weapon_SWpn4_Rest
+    102534: Weapon_SWpn4Slave1_Direction
+    102536: Weapon_SWpn4Slave1_Latitude
+    102538: Weapon_SWpn4Slave1_Muzzle
+    102540: Weapon_SWpn4Slave1_Position
+    102542: Weapon_SWpn4Slave1_Rest
+    102544: Weapon_SWpn4Slave2_Direction
+    102546: Weapon_SWpn4Slave2_Latitude
+    102548: Weapon_SWpn4Slave2_Muzzle
+    102550: Weapon_SWpn4Slave2_Position
+    102552: Weapon_SWpn4Slave2_Rest
+    102554: Weapon_SWpn4Slave_Direction
+    102556: Weapon_SWpn4Slave_Latitude
+    102558: Weapon_SWpn4Slave_Muzzle
+    102560: Weapon_SWpn4Slave_Position
+    102562: Weapon_SWpn4Slave_Rest
+    102564: Weapon_SWpn5_Direction
+    102566: Weapon_SWpn5_Latitude
+    102568: Weapon_SWpn5_Muzzle
+    102570: Weapon_SWpn5_Position
+    102572: Weapon_SWpn5_Rest
+    102574: Weapon_SWpn5Slave1_Direction
+    102576: Weapon_SWpn5Slave1_Latitude
+    102578: Weapon_SWpn5Slave1_Muzzle
+    102580: Weapon_SWpn5Slave1_Position
+    102582: Weapon_SWpn5Slave1_Rest
+    102584: Weapon_SWpn5Slave2_Direction
+    102586: Weapon_SWpn5Slave2_Latitude
+    102588: Weapon_SWpn5Slave2_Muzzle
+    102590: Weapon_SWpn5Slave2_Position
+    102592: Weapon_SWpn5Slave2_Rest
+    102594: Weapon_SWpn5Slave_Direction
+    102596: Weapon_SWpn5Slave_Latitude
+    102598: Weapon_SWpn5Slave_Muzzle
+    102600: Weapon_SWpn5Slave_Position
+    102602: Weapon_SWpn5Slave_Rest
+    102604: Weapon_SWpn6_Direction
+    102606: Weapon_SWpn6_Latitude
+    102608: Weapon_SWpn6_Muzzle
+    102610: Weapon_SWpn6_Position
+    102612: Weapon_SWpn6_Rest
+    102614: Weapon_SWpn6Slave1_Direction
+    102616: Weapon_SWpn6Slave1_Latitude
+    102618: Weapon_SWpn6Slave1_Muzzle
+    102620: Weapon_SWpn6Slave1_Position
+    102622: Weapon_SWpn6Slave1_Rest
+    102624: Weapon_SWpn6Slave2_Direction
+    102626: Weapon_SWpn6Slave2_Direction 1
+    102628: Weapon_SWpn6Slave2_Latitude
+    102630: Weapon_SWpn6Slave2_Muzzle
+    102632: Weapon_SWpn6Slave2_Position
+    102634: Weapon_SWpn6Slave2_Rest
+    102636: Weapon_SWpn6Slave_Direction
+    102638: Weapon_SWpn6Slave_Latitude
+    102640: Weapon_SWpn6Slave_Muzzle
+    102642: Weapon_SWpn6Slave_Position
+    102644: Weapon_SWpn6Slave_Rest
+    102646: Weapon_SWpn7_Direction
+    102648: Weapon_SWpn7_Latitude
+    102650: Weapon_SWpn7_Muzzle
+    102652: Weapon_SWpn7_Position
+    102654: Weapon_SWpn7_Rest
+    102656: Weapon_SWpn7Slave1_Direction
+    102658: Weapon_SWpn7Slave1_Latitude
+    102660: Weapon_SWpn7Slave1_Muzzle
+    102662: Weapon_SWpn7Slave1_Position
+    102664: Weapon_SWpn7Slave1_Rest
+    102666: Weapon_SWpn7Slave2_Latitude
+    102668: Weapon_SWpn7Slave2_Muzzle
+    102670: Weapon_SWpn7Slave2_Position
+    102672: Weapon_SWpn7Slave2_Rest
+    102674: Weapon_SWpn7Slave_Direction
+    102676: Weapon_SWpn7Slave_Latitude
+    102678: Weapon_SWpn7Slave_Muzzle
+    102680: Weapon_SWpn7Slave_Position
+    102682: Weapon_SWpn7Slave_Rest
+    102684: Weapon_SWpn8_Direction
+    102686: Weapon_SWpn8_Latitude
+    102688: Weapon_SWpn8_Muzzle
+    102690: Weapon_SWpn8_Position
+    102692: Weapon_SWpn8_Rest
+    102694: Weapon_SWpn8Slave1_Direction
+    102696: Weapon_SWpn8Slave1_Latitude
+    102698: Weapon_SWpn8Slave1_Muzzle
+    102700: Weapon_SWpn8Slave1_Position
+    102702: Weapon_SWpn8Slave1_Rest
+    102704: Weapon_SWpn8Slave2_Direction
+    102706: Weapon_SWpn8Slave2_Latitude
+    102708: Weapon_SWpn8Slave2_Muzzle
+    102710: Weapon_SWpn8Slave2_Position
+    102712: Weapon_SWpn8Slave2_Rest
+    102714: Weapon_SWpn8Slave_Direction
+    102716: Weapon_SWpn8Slave_Latitude
+    102718: Weapon_SWpn8Slave_Muzzle
+    102720: Weapon_SWpn8Slave_Position
+    102722: Weapon_SWpn8Slave_Rest
+    102724: Weapon_SWpn9_Direction
+    102726: Weapon_SWpn9_Latitude
+    102728: Weapon_SWpn9_Muzzle
+    102730: Weapon_SWpn9_Position
+    102732: Weapon_SWpn9_Rest
+    102734: Weapon_SWpn9Slave1_Direction
+    102736: Weapon_SWpn9Slave1_Latitude
+    102738: Weapon_SWpn9Slave1_Muzzle
+    102740: Weapon_SWpn9Slave1_Position
+    102742: Weapon_SWpn9Slave1_Rest
+    102744: Weapon_SWpn9Slave2_Direction
+    102746: Weapon_SWpn9Slave2_Latitude
+    102748: Weapon_SWpn9Slave2_Muzzle
+    102750: Weapon_SWpn9Slave2_Position
+    102752: Weapon_SWpn9Slave2_Rest
+    102754: Weapon_SWpn9Slave_Direction
+    102756: Weapon_SWpn9Slave_Latitude
+    102758: Weapon_SWpn9Slave_Muzzle
+    102760: Weapon_SWpn9Slave_Position
+    102762: Weapon_SWpn9Slave_Rest
+    102764: Weapon_WM_Direction
+    102766: Weapon_WM_Position
+    102768: Weapon_WM_Rest
+    102770: //RootNode
+    400000: Barrel
+    400002: Barrel 1
+    400004: Barrel 10
+    400006: Barrel 100
+    400008: Barrel 101
+    400010: Barrel 102
+    400012: Barrel 103
+    400014: Barrel 11
+    400016: Barrel 12
+    400018: Barrel 13
+    400020: Barrel 14
+    400022: Barrel 15
+    400024: Barrel 16
+    400026: Barrel 17
+    400028: Barrel 18
+    400030: Barrel 19
+    400032: Barrel 2
+    400034: Barrel 20
+    400036: Barrel 21
+    400038: Barrel 22
+    400040: Barrel 23
+    400042: Barrel 24
+    400044: Barrel 25
+    400046: Barrel 26
+    400048: Barrel 27
+    400050: Barrel 28
+    400052: Barrel 29
+    400054: Barrel 3
+    400056: Barrel 30
+    400058: Barrel 31
+    400060: Barrel 32
+    400062: Barrel 33
+    400064: Barrel 34
+    400066: Barrel 35
+    400068: Barrel 36
+    400070: Barrel 37
+    400072: Barrel 38
+    400074: Barrel 39
+    400076: Barrel 4
+    400078: Barrel 40
+    400080: Barrel 41
+    400082: Barrel 42
+    400084: Barrel 43
+    400086: Barrel 44
+    400088: Barrel 45
+    400090: Barrel 46
+    400092: Barrel 47
+    400094: Barrel 48
+    400096: Barrel 49
+    400098: Barrel 5
+    400100: Barrel 50
+    400102: Barrel 51
+    400104: Barrel 52
+    400106: Barrel 53
+    400108: Barrel 54
+    400110: Barrel 55
+    400112: Barrel 56
+    400114: Barrel 57
+    400116: Barrel 58
+    400118: Barrel 59
+    400120: Barrel 6
+    400122: Barrel 60
+    400124: Barrel 61
+    400126: Barrel 62
+    400128: Barrel 63
+    400130: Barrel 64
+    400132: Barrel 65
+    400134: Barrel 66
+    400136: Barrel 67
+    400138: Barrel 68
+    400140: Barrel 69
+    400142: Barrel 7
+    400144: Barrel 70
+    400146: Barrel 71
+    400148: Barrel 72
+    400150: Barrel 73
+    400152: Barrel 74
+    400154: Barrel 75
+    400156: Barrel 76
+    400158: Barrel 77
+    400160: Barrel 78
+    400162: Barrel 79
+    400164: Barrel 8
+    400166: Barrel 80
+    400168: Barrel 81
+    400170: Barrel 82
+    400172: Barrel 83
+    400174: Barrel 84
+    400176: Barrel 85
+    400178: Barrel 86
+    400180: Barrel 87
+    400182: Barrel 88
+    400184: Barrel 89
+    400186: Barrel 9
+    400188: Barrel 90
+    400190: Barrel 91
+    400192: Barrel 92
+    400194: Barrel 93
+    400196: Barrel 94
+    400198: Barrel 95
+    400200: Barrel 96
+    400202: Barrel 97
+    400204: Barrel 98
+    400206: Barrel 99
+    400208: Barrel1
+    400210: Barrel1 1
+    400212: Barrel1 2
+    400214: Barrel1 3
+    400216: Barrel1 4
+    400218: Barrel1 5
+    400220: Barrel1 6
+    400222: Barrel1 7
+    400224: Barrel1 8
+    400226: Barrel1_LOD1
+    400228: Barrel1_LOD1 1
+    400230: Barrel1_LOD1 2
+    400232: Barrel1_LOD1 3
+    400234: Barrel1_LOD1 4
+    400236: Barrel1_LOD1 5
+    400238: Barrel1_LOD1 6
+    400240: Barrel1_LOD1 7
+    400242: Barrel1_LOD1 8
+    400244: Barrel1_LOD2
+    400246: Barrel1_LOD2 1
+    400248: Barrel1_LOD2 2
+    400250: Barrel1_LOD2 3
+    400252: Barrel1_LOD2 4
+    400254: Barrel1_LOD2 5
+    400256: Barrel1_LOD2 6
+    400258: Barrel1_LOD2 7
+    400260: Barrel1_LOD2 8
+    400262: Barrel1_LOD3
+    400264: Barrel1_LOD3 1
+    400266: Barrel1_LOD3 2
+    400268: Barrel1_LOD3 3
+    400270: Barrel1_LOD3 4
+    400272: Barrel1_LOD3 5
+    400274: Barrel1_LOD3 6
+    400276: Barrel1_LOD3 7
+    400278: Barrel1_LOD3 8
+    400280: Barrel2
+    400282: Barrel2 1
+    400284: Barrel2 2
+    400286: Barrel2 3
+    400288: Barrel2 4
+    400290: Barrel2 5
+    400292: Barrel2_LOD1
+    400294: Barrel2_LOD1 1
+    400296: Barrel2_LOD1 2
+    400298: Barrel2_LOD1 3
+    400300: Barrel2_LOD1 4
+    400302: Barrel2_LOD1 5
+    400304: Barrel2_LOD2
+    400306: Barrel2_LOD2 1
+    400308: Barrel2_LOD2 2
+    400310: Barrel2_LOD2 3
+    400312: Barrel2_LOD2 4
+    400314: Barrel2_LOD2 5
+    400316: Barrel2_LOD3
+    400318: Barrel2_LOD3 1
+    400320: Barrel2_LOD3 2
+    400322: Barrel2_LOD3 3
+    400324: Barrel2_LOD3 4
+    400326: Barrel2_LOD3 5
+    400328: Barrel_LOD1
+    400330: Barrel_LOD1 1
+    400332: Barrel_LOD1 10
+    400334: Barrel_LOD1 100
+    400336: Barrel_LOD1 101
+    400338: Barrel_LOD1 102
+    400340: Barrel_LOD1 103
+    400342: Barrel_LOD1 11
+    400344: Barrel_LOD1 12
+    400346: Barrel_LOD1 13
+    400348: Barrel_LOD1 14
+    400350: Barrel_LOD1 15
+    400352: Barrel_LOD1 16
+    400354: Barrel_LOD1 17
+    400356: Barrel_LOD1 18
+    400358: Barrel_LOD1 19
+    400360: Barrel_LOD1 2
+    400362: Barrel_LOD1 20
+    400364: Barrel_LOD1 21
+    400366: Barrel_LOD1 22
+    400368: Barrel_LOD1 23
+    400370: Barrel_LOD1 24
+    400372: Barrel_LOD1 25
+    400374: Barrel_LOD1 26
+    400376: Barrel_LOD1 27
+    400378: Barrel_LOD1 28
+    400380: Barrel_LOD1 29
+    400382: Barrel_LOD1 3
+    400384: Barrel_LOD1 30
+    400386: Barrel_LOD1 31
+    400388: Barrel_LOD1 32
+    400390: Barrel_LOD1 33
+    400392: Barrel_LOD1 34
+    400394: Barrel_LOD1 35
+    400396: Barrel_LOD1 36
+    400398: Barrel_LOD1 37
+    400400: Barrel_LOD1 38
+    400402: Barrel_LOD1 39
+    400404: Barrel_LOD1 4
+    400406: Barrel_LOD1 40
+    400408: Barrel_LOD1 41
+    400410: Barrel_LOD1 42
+    400412: Barrel_LOD1 43
+    400414: Barrel_LOD1 44
+    400416: Barrel_LOD1 45
+    400418: Barrel_LOD1 46
+    400420: Barrel_LOD1 47
+    400422: Barrel_LOD1 48
+    400424: Barrel_LOD1 49
+    400426: Barrel_LOD1 5
+    400428: Barrel_LOD1 50
+    400430: Barrel_LOD1 51
+    400432: Barrel_LOD1 52
+    400434: Barrel_LOD1 53
+    400436: Barrel_LOD1 54
+    400438: Barrel_LOD1 55
+    400440: Barrel_LOD1 56
+    400442: Barrel_LOD1 57
+    400444: Barrel_LOD1 58
+    400446: Barrel_LOD1 59
+    400448: Barrel_LOD1 6
+    400450: Barrel_LOD1 60
+    400452: Barrel_LOD1 61
+    400454: Barrel_LOD1 62
+    400456: Barrel_LOD1 63
+    400458: Barrel_LOD1 64
+    400460: Barrel_LOD1 65
+    400462: Barrel_LOD1 66
+    400464: Barrel_LOD1 67
+    400466: Barrel_LOD1 68
+    400468: Barrel_LOD1 69
+    400470: Barrel_LOD1 7
+    400472: Barrel_LOD1 70
+    400474: Barrel_LOD1 71
+    400476: Barrel_LOD1 72
+    400478: Barrel_LOD1 73
+    400480: Barrel_LOD1 74
+    400482: Barrel_LOD1 75
+    400484: Barrel_LOD1 76
+    400486: Barrel_LOD1 77
+    400488: Barrel_LOD1 78
+    400490: Barrel_LOD1 79
+    400492: Barrel_LOD1 8
+    400494: Barrel_LOD1 80
+    400496: Barrel_LOD1 81
+    400498: Barrel_LOD1 82
+    400500: Barrel_LOD1 83
+    400502: Barrel_LOD1 84
+    400504: Barrel_LOD1 85
+    400506: Barrel_LOD1 86
+    400508: Barrel_LOD1 87
+    400510: Barrel_LOD1 88
+    400512: Barrel_LOD1 89
+    400514: Barrel_LOD1 9
+    400516: Barrel_LOD1 90
+    400518: Barrel_LOD1 91
+    400520: Barrel_LOD1 92
+    400522: Barrel_LOD1 93
+    400524: Barrel_LOD1 94
+    400526: Barrel_LOD1 95
+    400528: Barrel_LOD1 96
+    400530: Barrel_LOD1 97
+    400532: Barrel_LOD1 98
+    400534: Barrel_LOD1 99
+    400536: Barrel_LOD2
+    400538: Barrel_LOD2 1
+    400540: Barrel_LOD2 10
+    400542: Barrel_LOD2 100
+    400544: Barrel_LOD2 101
+    400546: Barrel_LOD2 102
+    400548: Barrel_LOD2 103
+    400550: Barrel_LOD2 11
+    400552: Barrel_LOD2 12
+    400554: Barrel_LOD2 13
+    400556: Barrel_LOD2 14
+    400558: Barrel_LOD2 15
+    400560: Barrel_LOD2 16
+    400562: Barrel_LOD2 17
+    400564: Barrel_LOD2 18
+    400566: Barrel_LOD2 19
+    400568: Barrel_LOD2 2
+    400570: Barrel_LOD2 20
+    400572: Barrel_LOD2 21
+    400574: Barrel_LOD2 22
+    400576: Barrel_LOD2 23
+    400578: Barrel_LOD2 24
+    400580: Barrel_LOD2 25
+    400582: Barrel_LOD2 26
+    400584: Barrel_LOD2 27
+    400586: Barrel_LOD2 28
+    400588: Barrel_LOD2 29
+    400590: Barrel_LOD2 3
+    400592: Barrel_LOD2 30
+    400594: Barrel_LOD2 31
+    400596: Barrel_LOD2 32
+    400598: Barrel_LOD2 33
+    400600: Barrel_LOD2 34
+    400602: Barrel_LOD2 35
+    400604: Barrel_LOD2 36
+    400606: Barrel_LOD2 37
+    400608: Barrel_LOD2 38
+    400610: Barrel_LOD2 39
+    400612: Barrel_LOD2 4
+    400614: Barrel_LOD2 40
+    400616: Barrel_LOD2 41
+    400618: Barrel_LOD2 42
+    400620: Barrel_LOD2 43
+    400622: Barrel_LOD2 44
+    400624: Barrel_LOD2 45
+    400626: Barrel_LOD2 46
+    400628: Barrel_LOD2 47
+    400630: Barrel_LOD2 48
+    400632: Barrel_LOD2 49
+    400634: Barrel_LOD2 5
+    400636: Barrel_LOD2 50
+    400638: Barrel_LOD2 51
+    400640: Barrel_LOD2 52
+    400642: Barrel_LOD2 53
+    400644: Barrel_LOD2 54
+    400646: Barrel_LOD2 55
+    400648: Barrel_LOD2 56
+    400650: Barrel_LOD2 57
+    400652: Barrel_LOD2 58
+    400654: Barrel_LOD2 59
+    400656: Barrel_LOD2 6
+    400658: Barrel_LOD2 60
+    400660: Barrel_LOD2 61
+    400662: Barrel_LOD2 62
+    400664: Barrel_LOD2 63
+    400666: Barrel_LOD2 64
+    400668: Barrel_LOD2 65
+    400670: Barrel_LOD2 66
+    400672: Barrel_LOD2 67
+    400674: Barrel_LOD2 68
+    400676: Barrel_LOD2 69
+    400678: Barrel_LOD2 7
+    400680: Barrel_LOD2 70
+    400682: Barrel_LOD2 71
+    400684: Barrel_LOD2 72
+    400686: Barrel_LOD2 73
+    400688: Barrel_LOD2 74
+    400690: Barrel_LOD2 75
+    400692: Barrel_LOD2 76
+    400694: Barrel_LOD2 77
+    400696: Barrel_LOD2 78
+    400698: Barrel_LOD2 79
+    400700: Barrel_LOD2 8
+    400702: Barrel_LOD2 80
+    400704: Barrel_LOD2 81
+    400706: Barrel_LOD2 82
+    400708: Barrel_LOD2 83
+    400710: Barrel_LOD2 84
+    400712: Barrel_LOD2 85
+    400714: Barrel_LOD2 86
+    400716: Barrel_LOD2 87
+    400718: Barrel_LOD2 88
+    400720: Barrel_LOD2 89
+    400722: Barrel_LOD2 9
+    400724: Barrel_LOD2 90
+    400726: Barrel_LOD2 91
+    400728: Barrel_LOD2 92
+    400730: Barrel_LOD2 93
+    400732: Barrel_LOD2 94
+    400734: Barrel_LOD2 95
+    400736: Barrel_LOD2 96
+    400738: Barrel_LOD2 97
+    400740: Barrel_LOD2 98
+    400742: Barrel_LOD2 99
+    400744: Barrel_LOD3
+    400746: Barrel_LOD3 1
+    400748: Barrel_LOD3 10
+    400750: Barrel_LOD3 100
+    400752: Barrel_LOD3 101
+    400754: Barrel_LOD3 102
+    400756: Barrel_LOD3 103
+    400758: Barrel_LOD3 11
+    400760: Barrel_LOD3 12
+    400762: Barrel_LOD3 13
+    400764: Barrel_LOD3 14
+    400766: Barrel_LOD3 15
+    400768: Barrel_LOD3 16
+    400770: Barrel_LOD3 17
+    400772: Barrel_LOD3 18
+    400774: Barrel_LOD3 19
+    400776: Barrel_LOD3 2
+    400778: Barrel_LOD3 20
+    400780: Barrel_LOD3 21
+    400782: Barrel_LOD3 22
+    400784: Barrel_LOD3 23
+    400786: Barrel_LOD3 24
+    400788: Barrel_LOD3 25
+    400790: Barrel_LOD3 26
+    400792: Barrel_LOD3 27
+    400794: Barrel_LOD3 28
+    400796: Barrel_LOD3 29
+    400798: Barrel_LOD3 3
+    400800: Barrel_LOD3 30
+    400802: Barrel_LOD3 31
+    400804: Barrel_LOD3 32
+    400806: Barrel_LOD3 33
+    400808: Barrel_LOD3 34
+    400810: Barrel_LOD3 35
+    400812: Barrel_LOD3 36
+    400814: Barrel_LOD3 37
+    400816: Barrel_LOD3 38
+    400818: Barrel_LOD3 39
+    400820: Barrel_LOD3 4
+    400822: Barrel_LOD3 40
+    400824: Barrel_LOD3 41
+    400826: Barrel_LOD3 42
+    400828: Barrel_LOD3 43
+    400830: Barrel_LOD3 44
+    400832: Barrel_LOD3 45
+    400834: Barrel_LOD3 46
+    400836: Barrel_LOD3 47
+    400838: Barrel_LOD3 48
+    400840: Barrel_LOD3 49
+    400842: Barrel_LOD3 5
+    400844: Barrel_LOD3 50
+    400846: Barrel_LOD3 51
+    400848: Barrel_LOD3 52
+    400850: Barrel_LOD3 53
+    400852: Barrel_LOD3 54
+    400854: Barrel_LOD3 55
+    400856: Barrel_LOD3 56
+    400858: Barrel_LOD3 57
+    400860: Barrel_LOD3 58
+    400862: Barrel_LOD3 59
+    400864: Barrel_LOD3 6
+    400866: Barrel_LOD3 60
+    400868: Barrel_LOD3 61
+    400870: Barrel_LOD3 62
+    400872: Barrel_LOD3 63
+    400874: Barrel_LOD3 64
+    400876: Barrel_LOD3 65
+    400878: Barrel_LOD3 66
+    400880: Barrel_LOD3 67
+    400882: Barrel_LOD3 68
+    400884: Barrel_LOD3 69
+    400886: Barrel_LOD3 7
+    400888: Barrel_LOD3 70
+    400890: Barrel_LOD3 71
+    400892: Barrel_LOD3 72
+    400894: Barrel_LOD3 73
+    400896: Barrel_LOD3 74
+    400898: Barrel_LOD3 75
+    400900: Barrel_LOD3 76
+    400902: Barrel_LOD3 77
+    400904: Barrel_LOD3 78
+    400906: Barrel_LOD3 79
+    400908: Barrel_LOD3 8
+    400910: Barrel_LOD3 80
+    400912: Barrel_LOD3 81
+    400914: Barrel_LOD3 82
+    400916: Barrel_LOD3 83
+    400918: Barrel_LOD3 84
+    400920: Barrel_LOD3 85
+    400922: Barrel_LOD3 86
+    400924: Barrel_LOD3 87
+    400926: Barrel_LOD3 88
+    400928: Barrel_LOD3 89
+    400930: Barrel_LOD3 9
+    400932: Barrel_LOD3 90
+    400934: Barrel_LOD3 91
+    400936: Barrel_LOD3 92
+    400938: Barrel_LOD3 93
+    400940: Barrel_LOD3 94
+    400942: Barrel_LOD3 95
+    400944: Barrel_LOD3 96
+    400946: Barrel_LOD3 97
+    400948: Barrel_LOD3 98
+    400950: Barrel_LOD3 99
+    400952: bay
+    400954: BayDoor
+    400956: BayDoor_LOD1
+    400958: BayDoor_LOD2
+    400960: BayDoor_LOD3
+    400962: CapturePoint0
+    400964: CapturePoint0Heading
+    400966: CapturePoint0Left
+    400968: CapturePoint0Up
+    400970: CapturePoint1
+    400972: CapturePoint1Heading
+    400974: CapturePoint1Left
+    400976: CapturePoint1Up
+    400978: CapturePoint2
+    400980: CapturePoint2Heading
+    400982: CapturePoint2Left
+    400984: CapturePoint2Up
+    400986: CapturePoint3
+    400988: CapturePoint3Heading
+    400990: CapturePoint3Left
+    400992: CapturePoint3Up
+    400994: CapturePoint4
+    400996: CapturePoint4Heading
+    400998: CapturePoint4Left
+    401000: CapturePoint4Up
+    401002: CapturePoint5
+    401004: CapturePoint5Heading
+    401006: CapturePoint5Left
+    401008: CapturePoint5Up
+    401010: CM_MainBody
+    401012: EngineGlow1
+    401014: EngineGlow1 1
+    401016: EngineGlow1 2
+    401018: EngineGlow2
+    401020: EngineGlow2 1
+    401022: EngineGlow2 2
+    401024: EngineGlow3
+    401026: EngineGlow3 1
+    401028: EngineGlow3 2
+    401030: EngineGlow4
+    401032: EngineGlow4 1
+    401034: EngineGlow4 2
+    401036: EngineNozzle1
+    401038: EngineNozzle2
+    401040: EngineNozzle3
+    401042: Hardpoint_Engine_Direction
+    401044: Hardpoint_Engine_Position
+    401046: Hardpoint_Engine_Rest
+    401048: MainBody
+    401050: MainBody_LOD1
+    401052: MainBody_LOD2
+    401054: MainBody_LOD3
+    401056: marker1
+    401058: marker10
+    401060: marker11
+    401062: marker12
+    401064: marker13
+    401066: marker14
+    401068: marker15
+    401070: marker16
+    401072: marker1b
+    401074: marker2
+    401076: marker27
+    401078: marker28
+    401080: marker29
+    401082: marker2b
+    401084: marker3
+    401086: marker30
+    401088: marker3b
+    401090: marker4
+    401092: marker4b
+    401094: marker5
+    401096: marker5b
+    401098: marker6
+    401100: marker7
+    401102: marker8
+    401104: marker9
+    401106: NavLight1
+    401108: NavLight2
+    401110: NavLight3
+    401112: NavLight4
+    401114: NavLight5
+    401116: NavLight6
+    401118: NavLight7
+    401120: NavLight8
+    401122: NavLight9
+    401124: NavLight_BigBay
+    401126: NavLight_Eng
+    401128: NavLight_FrontBay2
+    401130: NavLight_FrontBay3
+    401132: path1
+    401134: path2
+    401136: pCube39
+    401138: pCube40
+    401140: polySurface243
+    401142: polySurface270
+    401144: polySurface274
+    401146: polySurface278
+    401148: polySurface279
+    401150: polySurface293
+    401152: polySurface294
+    401154: polySurface295
+    401156: polySurface334
+    401158: polySurface335
+    401160: polySurface338
+    401162: polySurface341
+    401164: polySurface342
+    401166: polySurface355
+    401168: polySurface356
+    401170: polySurface357
+    401172: polySurface381
+    401174: polySurface384
+    401176: polySurface385
+    401178: polySurface408
+    401180: polySurface411
+    401182: polySurface458
+    401184: polySurface503
+    401186: polySurface504
+    401188: polySurface505
+    401190: polySurface506
+    401192: polySurface571
+    401194: polySurface571 1
+    401196: polySurface571 2
+    401198: polySurface571 3
+    401200: polySurface571 4
+    401202: polySurface571 5
+    401204: polySurface571 6
+    401206: polySurface571 7
+    401208: polySurface571 8
+    401210: polySurface571 9
+    401212: polySurface573
+    401214: polySurface574
+    401216: polySurface638
+    401218: polySurface644
+    401220: RepairPoint0
+    401222: RepairPoint0Heading
+    401224: RepairPoint0Left
+    401226: RepairPoint0Up
+    401228: RepairPoint1
+    401230: RepairPoint1Heading
+    401232: RepairPoint1Left
+    401234: RepairPoint1Up
+    401236: RepairPoint2
+    401238: RepairPoint2Heading
+    401240: RepairPoint2Left
+    401242: RepairPoint2Up
+    401244: Root
+    401246: S2Wpn
+    401248: S2Wpn 1
+    401250: S2Wpn 10
+    401252: S2Wpn 11
+    401254: S2Wpn 12
+    401256: S2Wpn 13
+    401258: S2Wpn 14
+    401260: S2Wpn 15
+    401262: S2Wpn 16
+    401264: S2Wpn 17
+    401266: S2Wpn 18
+    401268: S2Wpn 19
+    401270: S2Wpn 2
+    401272: S2Wpn 20
+    401274: S2Wpn 21
+    401276: S2Wpn 22
+    401278: S2Wpn 23
+    401280: S2Wpn 24
+    401282: S2Wpn 25
+    401284: S2Wpn 3
+    401286: S2Wpn 4
+    401288: S2Wpn 5
+    401290: S2Wpn 6
+    401292: S2Wpn 7
+    401294: S2Wpn 8
+    401296: S2Wpn 9
+    401298: S2Wpn_LOD1
+    401300: S2Wpn_LOD1 1
+    401302: S2Wpn_LOD1 10
+    401304: S2Wpn_LOD1 11
+    401306: S2Wpn_LOD1 12
+    401308: S2Wpn_LOD1 13
+    401310: S2Wpn_LOD1 14
+    401312: S2Wpn_LOD1 15
+    401314: S2Wpn_LOD1 16
+    401316: S2Wpn_LOD1 17
+    401318: S2Wpn_LOD1 18
+    401320: S2Wpn_LOD1 19
+    401322: S2Wpn_LOD1 2
+    401324: S2Wpn_LOD1 20
+    401326: S2Wpn_LOD1 21
+    401328: S2Wpn_LOD1 22
+    401330: S2Wpn_LOD1 23
+    401332: S2Wpn_LOD1 24
+    401334: S2Wpn_LOD1 25
+    401336: S2Wpn_LOD1 3
+    401338: S2Wpn_LOD1 4
+    401340: S2Wpn_LOD1 5
+    401342: S2Wpn_LOD1 6
+    401344: S2Wpn_LOD1 7
+    401346: S2Wpn_LOD1 8
+    401348: S2Wpn_LOD1 9
+    401350: S2Wpn_LOD2
+    401352: S2Wpn_LOD2 1
+    401354: S2Wpn_LOD2 10
+    401356: S2Wpn_LOD2 11
+    401358: S2Wpn_LOD2 12
+    401360: S2Wpn_LOD2 13
+    401362: S2Wpn_LOD2 14
+    401364: S2Wpn_LOD2 15
+    401366: S2Wpn_LOD2 16
+    401368: S2Wpn_LOD2 17
+    401370: S2Wpn_LOD2 18
+    401372: S2Wpn_LOD2 19
+    401374: S2Wpn_LOD2 2
+    401376: S2Wpn_LOD2 20
+    401378: S2Wpn_LOD2 21
+    401380: S2Wpn_LOD2 22
+    401382: S2Wpn_LOD2 23
+    401384: S2Wpn_LOD2 24
+    401386: S2Wpn_LOD2 25
+    401388: S2Wpn_LOD2 3
+    401390: S2Wpn_LOD2 4
+    401392: S2Wpn_LOD2 5
+    401394: S2Wpn_LOD2 6
+    401396: S2Wpn_LOD2 7
+    401398: S2Wpn_LOD2 8
+    401400: S2Wpn_LOD2 9
+    401402: S2Wpn_LOD3
+    401404: S2Wpn_LOD3 1
+    401406: S2Wpn_LOD3 10
+    401408: S2Wpn_LOD3 11
+    401410: S2Wpn_LOD3 12
+    401412: S2Wpn_LOD3 13
+    401414: S2Wpn_LOD3 14
+    401416: S2Wpn_LOD3 15
+    401418: S2Wpn_LOD3 16
+    401420: S2Wpn_LOD3 17
+    401422: S2Wpn_LOD3 18
+    401424: S2Wpn_LOD3 19
+    401426: S2Wpn_LOD3 2
+    401428: S2Wpn_LOD3 20
+    401430: S2Wpn_LOD3 21
+    401432: S2Wpn_LOD3 22
+    401434: S2Wpn_LOD3 23
+    401436: S2Wpn_LOD3 24
+    401438: S2Wpn_LOD3 25
+    401440: S2Wpn_LOD3 3
+    401442: S2Wpn_LOD3 4
+    401444: S2Wpn_LOD3 5
+    401446: S2Wpn_LOD3 6
+    401448: S2Wpn_LOD3 7
+    401450: S2Wpn_LOD3 8
+    401452: S2Wpn_LOD3 9
+    401454: SWpn
+    401456: SWpn 1
+    401458: SWpn 2
+    401460: SWpn 3
+    401462: SWpn 4
+    401464: SWpn 5
+    401466: SWpn 6
+    401468: SWpn 7
+    401470: SWpn 8
+    401472: SWpn 9
+    401474: SWpn_LOD1
+    401476: SWpn_LOD1 1
+    401478: SWpn_LOD1 2
+    401480: SWpn_LOD1 3
+    401482: SWpn_LOD1 4
+    401484: SWpn_LOD1 5
+    401486: SWpn_LOD1 6
+    401488: SWpn_LOD1 7
+    401490: SWpn_LOD1 8
+    401492: SWpn_LOD1 9
+    401494: SWpn_LOD2
+    401496: SWpn_LOD2 1
+    401498: SWpn_LOD2 2
+    401500: SWpn_LOD2 3
+    401502: SWpn_LOD2 4
+    401504: SWpn_LOD2 5
+    401506: SWpn_LOD2 6
+    401508: SWpn_LOD2 7
+    401510: SWpn_LOD2 8
+    401512: SWpn_LOD2 9
+    401514: SWpn_LOD3
+    401516: SWpn_LOD3 1
+    401518: SWpn_LOD3 2
+    401520: SWpn_LOD3 3
+    401522: SWpn_LOD3 4
+    401524: SWpn_LOD3 5
+    401526: SWpn_LOD3 6
+    401528: SWpn_LOD3 7
+    401530: SWpn_LOD3 8
+    401532: SWpn_LOD3 9
+    401534: Turret1
+    401536: Turret1 1
+    401538: Turret1 2
+    401540: Turret1_LOD1
+    401542: Turret1_LOD1 1
+    401544: Turret1_LOD1 2
+    401546: Turret1_LOD2
+    401548: Turret1_LOD2 1
+    401550: Turret1_LOD2 2
+    401552: Turret1_LOD3
+    401554: Turret1_LOD3 1
+    401556: Turret1_LOD3 2
+    401558: Turret2
+    401560: Turret2 1
+    401562: Turret2_LOD1
+    401564: Turret2_LOD1 1
+    401566: Turret2_LOD2
+    401568: Turret2_LOD2 1
+    401570: Turret2_LOD3
+    401572: Turret2_LOD3 1
+    401574: Weapon_BCannon1_Direction
+    401576: Weapon_BCannon1_Latitude
+    401578: Weapon_BCannon1_Muzzle
+    401580: Weapon_BCannon1_Position
+    401582: Weapon_BCannon1_Rest
+    401584: Weapon_BCannon1Slave1_Direction
+    401586: Weapon_BCannon1Slave1_Latitude
+    401588: Weapon_BCannon1Slave1_Muzzle
+    401590: Weapon_BCannon1Slave1_Position
+    401592: Weapon_BCannon1Slave1_Rest
+    401594: Weapon_BCannon1Slave_Direction
+    401596: Weapon_BCannon1Slave_Latitude
+    401598: Weapon_BCannon1Slave_Muzzle
+    401600: Weapon_BCannon1Slave_Position
+    401602: Weapon_BCannon1Slave_Rest
+    401604: Weapon_BCannon2_Direction
+    401606: Weapon_BCannon2_Latitude
+    401608: Weapon_BCannon2_Muzzle
+    401610: Weapon_BCannon2_Position
+    401612: Weapon_BCannon2_Rest
+    401614: Weapon_BCannon2Slave1_Direction
+    401616: Weapon_BCannon2Slave1_Latitude
+    401618: Weapon_BCannon2Slave1_Muzzle
+    401620: Weapon_BCannon2Slave1_Position
+    401622: Weapon_BCannon2Slave1_Rest
+    401624: Weapon_BCannon2Slave_Direction
+    401626: Weapon_BCannon2Slave_Latitude
+    401628: Weapon_BCannon2Slave_Muzzle
+    401630: Weapon_BCannon2Slave_Position
+    401632: Weapon_BCannon2Slave_Rest
+    401634: Weapon_BCannon3_Direction
+    401636: Weapon_BCannon3_Latitude
+    401638: Weapon_BCannon3_Muzzle
+    401640: Weapon_BCannon3_Position
+    401642: Weapon_BCannon3_Rest
+    401644: Weapon_BCannon3Slave1_Direction
+    401646: Weapon_BCannon3Slave1_Latitude
+    401648: Weapon_BCannon3Slave1_Muzzle
+    401650: Weapon_BCannon3Slave1_Position
+    401652: Weapon_BCannon3Slave1_Rest
+    401654: Weapon_BCannon3Slave_Direction
+    401656: Weapon_BCannon3Slave_Latitude
+    401658: Weapon_BCannon3Slave_Muzzle
+    401660: Weapon_BCannon3Slave_Position
+    401662: Weapon_BCannon3Slave_Rest
+    401664: Weapon_MCannon1_Direction
+    401666: Weapon_MCannon1_Latitude
+    401668: Weapon_MCannon1_Muzzle
+    401670: Weapon_MCannon1_Muzzle 1
+    401672: Weapon_MCannon1_Position
+    401674: Weapon_MCannon1_Rest
+    401676: Weapon_MCannon1Slave1_Direction
+    401678: Weapon_MCannon1Slave1_Latitude
+    401680: Weapon_MCannon1Slave1_Muzzle
+    401682: Weapon_MCannon1Slave1_Position
+    401684: Weapon_MCannon1Slave1_Rest
+    401686: Weapon_MCannon1Slave_Direction
+    401688: Weapon_MCannon1Slave_Latitude
+    401690: Weapon_MCannon1Slave_Muzzle
+    401692: Weapon_MCannon1Slave_Position
+    401694: Weapon_MCannon1Slave_Rest
+    401696: Weapon_MCannon2_Direction
+    401698: Weapon_MCannon2_Latitude
+    401700: Weapon_MCannon2_Position
+    401702: Weapon_MCannon2_Rest
+    401704: Weapon_MCannon2Slave1_Direction
+    401706: Weapon_MCannon2Slave1_Latitude
+    401708: Weapon_MCannon2Slave1_Muzzle
+    401710: Weapon_MCannon2Slave1_Position
+    401712: Weapon_MCannon2Slave1_Rest
+    401714: Weapon_MCannon2Slave_Direction
+    401716: Weapon_MCannon2Slave_Latitude
+    401718: Weapon_MCannon2Slave_Muzzle
+    401720: Weapon_MCannon2Slave_Position
+    401722: Weapon_MCannon2Slave_Rest
+    401724: Weapon_S2Wpn10_Direction
+    401726: Weapon_S2Wpn10_Latitude
+    401728: Weapon_S2Wpn10_Muzzle
+    401730: Weapon_S2Wpn10_Position
+    401732: Weapon_S2Wpn10_Rest
+    401734: Weapon_S2Wpn10Slave_Direction
+    401736: Weapon_S2Wpn10Slave_Latitude
+    401738: Weapon_S2Wpn10Slave_Muzzle
+    401740: Weapon_S2Wpn10Slave_Position
+    401742: Weapon_S2Wpn10Slave_Rest
+    401744: Weapon_S2Wpn11_Direction
+    401746: Weapon_S2Wpn11_Latitude
+    401748: Weapon_S2Wpn11_Muzzle
+    401750: Weapon_S2Wpn11_Position
+    401752: Weapon_S2Wpn11_Rest
+    401754: Weapon_S2Wpn11Slave_Direction
+    401756: Weapon_S2Wpn11Slave_Latitude
+    401758: Weapon_S2Wpn11Slave_Muzzle
+    401760: Weapon_S2Wpn11Slave_Position
+    401762: Weapon_S2Wpn11Slave_Rest
+    401764: Weapon_S2Wpn12_Direction
+    401766: Weapon_S2Wpn12_Latitude
+    401768: Weapon_S2Wpn12_Muzzle
+    401770: Weapon_S2Wpn12_Position
+    401772: Weapon_S2Wpn12_Rest
+    401774: Weapon_S2Wpn12Slave_Direction
+    401776: Weapon_S2Wpn12Slave_Latitude
+    401778: Weapon_S2Wpn12Slave_Muzzle
+    401780: Weapon_S2Wpn12Slave_Position
+    401782: Weapon_S2Wpn12Slave_Rest
+    401784: Weapon_S2Wpn13_Direction
+    401786: Weapon_S2Wpn13_Latitude
+    401788: Weapon_S2Wpn13_Muzzle
+    401790: Weapon_S2Wpn13_Position
+    401792: Weapon_S2Wpn13_Rest
+    401794: Weapon_S2Wpn13Slave_Direction
+    401796: Weapon_S2Wpn13Slave_Latitude
+    401798: Weapon_S2Wpn13Slave_Muzzle
+    401800: Weapon_S2Wpn13Slave_Position
+    401802: Weapon_S2Wpn13Slave_Rest
+    401804: Weapon_S2Wpn14_Direction
+    401806: Weapon_S2Wpn14_Latitude
+    401808: Weapon_S2Wpn14_Muzzle
+    401810: Weapon_S2Wpn14_Position
+    401812: Weapon_S2Wpn14_Rest
+    401814: Weapon_S2Wpn14Slave_Direction
+    401816: Weapon_S2Wpn14Slave_Latitude
+    401818: Weapon_S2Wpn14Slave_Muzzle
+    401820: Weapon_S2Wpn14Slave_Position
+    401822: Weapon_S2Wpn14Slave_Rest
+    401824: Weapon_S2Wpn1_Direction
+    401826: Weapon_S2Wpn1_Latitude
+    401828: Weapon_S2Wpn1_Muzzle
+    401830: Weapon_S2Wpn1_Position
+    401832: Weapon_S2Wpn1_Rest
+    401834: Weapon_S2Wpn1Slave_Direction
+    401836: Weapon_S2Wpn1Slave_Latitude
+    401838: Weapon_S2Wpn1Slave_Muzzle
+    401840: Weapon_S2Wpn1Slave_Position
+    401842: Weapon_S2Wpn1Slave_Rest
+    401844: Weapon_S2Wpn2_Direction
+    401846: Weapon_S2Wpn2_Latitude
+    401848: Weapon_S2Wpn2_Muzzle
+    401850: Weapon_S2Wpn2_Position
+    401852: Weapon_S2Wpn2_Rest
+    401854: Weapon_S2Wpn2Slave_Direction
+    401856: Weapon_S2Wpn2Slave_Latitude
+    401858: Weapon_S2Wpn2Slave_Muzzle
+    401860: Weapon_S2Wpn2Slave_Position
+    401862: Weapon_S2Wpn2Slave_Rest
+    401864: Weapon_S2Wpn3_Direction
+    401866: Weapon_S2Wpn3_Latitude
+    401868: Weapon_S2Wpn3_Muzzle
+    401870: Weapon_S2Wpn3_Position
+    401872: Weapon_S2Wpn3_Rest
+    401874: Weapon_S2Wpn3Slave_Direction
+    401876: Weapon_S2Wpn3Slave_Latitude
+    401878: Weapon_S2Wpn3Slave_Muzzle
+    401880: Weapon_S2Wpn3Slave_Position
+    401882: Weapon_S2Wpn3Slave_Rest
+    401884: Weapon_S2Wpn4_Direction
+    401886: Weapon_S2Wpn4_Latitude
+    401888: Weapon_S2Wpn4_Muzzle
+    401890: Weapon_S2Wpn4_Position
+    401892: Weapon_S2Wpn4_Rest
+    401894: Weapon_S2Wpn4Slave_Direction
+    401896: Weapon_S2Wpn4Slave_Latitude
+    401898: Weapon_S2Wpn4Slave_Muzzle
+    401900: Weapon_S2Wpn4Slave_Position
+    401902: Weapon_S2Wpn4Slave_Rest
+    401904: Weapon_S2Wpn5_Direction
+    401906: Weapon_S2Wpn5_Latitude
+    401908: Weapon_S2Wpn5_Muzzle
+    401910: Weapon_S2Wpn5_Position
+    401912: Weapon_S2Wpn5_Rest
+    401914: Weapon_S2Wpn5Slave_Direction
+    401916: Weapon_S2Wpn5Slave_Latitude
+    401918: Weapon_S2Wpn5Slave_Muzzle
+    401920: Weapon_S2Wpn5Slave_Position
+    401922: Weapon_S2Wpn5Slave_Rest
+    401924: Weapon_S2Wpn6_Direction
+    401926: Weapon_S2Wpn6_Latitude
+    401928: Weapon_S2Wpn6_Muzzle
+    401930: Weapon_S2Wpn6_Position
+    401932: Weapon_S2Wpn6_Rest
+    401934: Weapon_S2Wpn6Slave_Direction
+    401936: Weapon_S2Wpn6Slave_Latitude
+    401938: Weapon_S2Wpn6Slave_Muzzle
+    401940: Weapon_S2Wpn6Slave_Position
+    401942: Weapon_S2Wpn6Slave_Rest
+    401944: Weapon_S2Wpn7_Direction
+    401946: Weapon_S2Wpn7_Latitude
+    401948: Weapon_S2Wpn7_Muzzle
+    401950: Weapon_S2Wpn7_Position
+    401952: Weapon_S2Wpn7_Rest
+    401954: Weapon_S2Wpn7Slave_Direction
+    401956: Weapon_S2Wpn7Slave_Latitude
+    401958: Weapon_S2Wpn7Slave_Muzzle
+    401960: Weapon_S2Wpn7Slave_Position
+    401962: Weapon_S2Wpn7Slave_Rest
+    401964: Weapon_S2Wpn8_Direction
+    401966: Weapon_S2Wpn8_Latitude
+    401968: Weapon_S2Wpn8_Muzzle
+    401970: Weapon_S2Wpn8_Position
+    401972: Weapon_S2Wpn8_Rest
+    401974: Weapon_S2Wpn8Slave_Direction
+    401976: Weapon_S2Wpn8Slave_Latitude
+    401978: Weapon_S2Wpn8Slave_Muzzle
+    401980: Weapon_S2Wpn8Slave_Position
+    401982: Weapon_S2Wpn8Slave_Rest
+    401984: Weapon_S2Wpn9_Direction
+    401986: Weapon_S2Wpn9_Latitude
+    401988: Weapon_S2Wpn9_Muzzle
+    401990: Weapon_S2Wpn9_Position
+    401992: Weapon_S2Wpn9_Rest
+    401994: Weapon_S2Wpn9Slave_Direction
+    401996: Weapon_S2Wpn9Slave_Latitude
+    401998: Weapon_S2Wpn9Slave_Muzzle
+    402000: Weapon_S2Wpn9Slave_Position
+    402002: Weapon_S2Wpn9Slave_Rest
+    402004: Weapon_S3Wpn1_Direction
+    402006: Weapon_S3Wpn1_Latitude
+    402008: Weapon_S3Wpn1_Muzzle
+    402010: Weapon_S3Wpn1_Position
+    402012: Weapon_S3Wpn1_Rest
+    402014: Weapon_S3Wpn1Slave_Direction
+    402016: Weapon_S3Wpn1Slave_Latitude
+    402018: Weapon_S3Wpn1Slave_Muzzle
+    402020: Weapon_S3Wpn1Slave_Position
+    402022: Weapon_S3Wpn1Slave_Rest
+    402024: Weapon_S3Wpn2_Direction
+    402026: Weapon_S3Wpn2_Latitude
+    402028: Weapon_S3Wpn2_Muzzle
+    402030: Weapon_S3Wpn2_Position
+    402032: Weapon_S3Wpn2_Rest
+    402034: Weapon_S3Wpn2Slave_Direction
+    402036: Weapon_S3Wpn2Slave_Latitude
+    402038: Weapon_S3Wpn2Slave_Muzzle
+    402040: Weapon_S3Wpn2Slave_Position
+    402042: Weapon_S3Wpn2Slave_Rest
+    402044: Weapon_S3Wpn3_Direction
+    402046: Weapon_S3Wpn3_Latitude
+    402048: Weapon_S3Wpn3_Muzzle
+    402050: Weapon_S3Wpn3_Position
+    402052: Weapon_S3Wpn3_Rest
+    402054: Weapon_S3Wpn3Slave_Direction
+    402056: Weapon_S3Wpn3Slave_Latitude
+    402058: Weapon_S3Wpn3Slave_Muzzle
+    402060: Weapon_S3Wpn3Slave_Position
+    402062: Weapon_S3Wpn3Slave_Rest
+    402064: Weapon_S3Wpn4_Direction
+    402066: Weapon_S3Wpn4_Latitude
+    402068: Weapon_S3Wpn4_Muzzle
+    402070: Weapon_S3Wpn4_Position
+    402072: Weapon_S3Wpn4_Rest
+    402074: Weapon_S3Wpn4Slave_Direction
+    402076: Weapon_S3Wpn4Slave_Latitude
+    402078: Weapon_S3Wpn4Slave_Muzzle
+    402080: Weapon_S3Wpn4Slave_Position
+    402082: Weapon_S3Wpn4Slave_Rest
+    402084: Weapon_S3Wpn5_Direction
+    402086: Weapon_S3Wpn5_Latitude
+    402088: Weapon_S3Wpn5_Muzzle
+    402090: Weapon_S3Wpn5_Position
+    402092: Weapon_S3Wpn5_Rest
+    402094: Weapon_S3Wpn5Slave_Direction
+    402096: Weapon_S3Wpn5Slave_Latitude
+    402098: Weapon_S3Wpn5Slave_Muzzle
+    402100: Weapon_S3Wpn5Slave_Position
+    402102: Weapon_S3Wpn5Slave_Rest
+    402104: Weapon_S3Wpn6_Direction
+    402106: Weapon_S3Wpn6_Latitude
+    402108: Weapon_S3Wpn6_Muzzle
+    402110: Weapon_S3Wpn6_Position
+    402112: Weapon_S3Wpn6_Rest
+    402114: Weapon_S3Wpn6Slave_Direction
+    402116: Weapon_S3Wpn6Slave_Latitude
+    402118: Weapon_S3Wpn6Slave_Muzzle
+    402120: Weapon_S3Wpn6Slave_Position
+    402122: Weapon_S3Wpn6Slave_Rest
+    402124: Weapon_S4Wpn10_Direction
+    402126: Weapon_S4Wpn10_Latitude
+    402128: Weapon_S4Wpn10_Muzzle
+    402130: Weapon_S4Wpn10_Position
+    402132: Weapon_S4Wpn10_Rest
+    402134: Weapon_S4Wpn11_Direction
+    402136: Weapon_S4Wpn11_Latitude
+    402138: Weapon_S4Wpn11_Muzzle
+    402140: Weapon_S4Wpn11_Position
+    402142: Weapon_S4Wpn11_Rest
+    402144: Weapon_S4Wpn12_Direction
+    402146: Weapon_S4Wpn12_Latitude
+    402148: Weapon_S4Wpn12_Muzzle
+    402150: Weapon_S4Wpn12_Position
+    402152: Weapon_S4Wpn12_Rest
+    402154: Weapon_S4Wpn1_Direction
+    402156: Weapon_S4Wpn1_Latitude
+    402158: Weapon_S4Wpn1_Muzzle
+    402160: Weapon_S4Wpn1_Position
+    402162: Weapon_S4Wpn1_Rest
+    402164: Weapon_S4Wpn2_Direction
+    402166: Weapon_S4Wpn2_Latitude
+    402168: Weapon_S4Wpn2_Muzzle
+    402170: Weapon_S4Wpn2_Position
+    402172: Weapon_S4Wpn2_Rest
+    402174: Weapon_S4Wpn3_Direction
+    402176: Weapon_S4Wpn3_Latitude
+    402178: Weapon_S4Wpn3_Muzzle
+    402180: Weapon_S4Wpn3_Position
+    402182: Weapon_S4Wpn3_Rest
+    402184: Weapon_S4Wpn4_Direction
+    402186: Weapon_S4Wpn4_Latitude
+    402188: Weapon_S4Wpn4_Muzzle
+    402190: Weapon_S4Wpn4_Position
+    402192: Weapon_S4Wpn4_Rest
+    402194: Weapon_S4Wpn5_Direction
+    402196: Weapon_S4Wpn5_Latitude
+    402198: Weapon_S4Wpn5_Muzzle
+    402200: Weapon_S4Wpn5_Position
+    402202: Weapon_S4Wpn5_Rest
+    402204: Weapon_S4Wpn6_Direction
+    402206: Weapon_S4Wpn6_Latitude
+    402208: Weapon_S4Wpn6_Muzzle
+    402210: Weapon_S4Wpn6_Position
+    402212: Weapon_S4Wpn6_Rest
+    402214: Weapon_S4Wpn7_Direction
+    402216: Weapon_S4Wpn7_Latitude
+    402218: Weapon_S4Wpn7_Muzzle
+    402220: Weapon_S4Wpn7_Position
+    402222: Weapon_S4Wpn7_Rest
+    402224: Weapon_S4Wpn8_Direction
+    402226: Weapon_S4Wpn8_Latitude
+    402228: Weapon_S4Wpn8_Muzzle
+    402230: Weapon_S4Wpn8_Position
+    402232: Weapon_S4Wpn8_Rest
+    402234: Weapon_S4Wpn9_Direction
+    402236: Weapon_S4Wpn9_Latitude
+    402238: Weapon_S4Wpn9_Muzzle
+    402240: Weapon_S4Wpn9_Position
+    402242: Weapon_S4Wpn9_Rest
+    402244: Weapon_S5Wpn1_Direction
+    402246: Weapon_S5Wpn1_Latitude
+    402248: Weapon_S5Wpn1_Muzzle
+    402250: Weapon_S5Wpn1_Position
+    402252: Weapon_S5Wpn1_Rest
+    402254: Weapon_S5Wpn1Slave_Direction
+    402256: Weapon_S5Wpn1Slave_Latitude
+    402258: Weapon_S5Wpn1Slave_Muzzle
+    402260: Weapon_S5Wpn1Slave_Position
+    402262: Weapon_S5Wpn1Slave_Rest
+    402264: Weapon_S5Wpn2_Direction
+    402266: Weapon_S5Wpn2_Latitude
+    402268: Weapon_S5Wpn2_Muzzle
+    402270: Weapon_S5Wpn2_Position
+    402272: Weapon_S5Wpn2_Rest
+    402274: Weapon_S5Wpn2Slave_Direction
+    402276: Weapon_S5Wpn2Slave_Latitude
+    402278: Weapon_S5Wpn2Slave_Muzzle
+    402280: Weapon_S5Wpn2Slave_Position
+    402282: Weapon_S5Wpn2Slave_Rest
+    402284: Weapon_S5Wpn3_Direction
+    402286: Weapon_S5Wpn3_Latitude
+    402288: Weapon_S5Wpn3_Muzzle
+    402290: Weapon_S5Wpn3_Position
+    402292: Weapon_S5Wpn3_Rest
+    402294: Weapon_S5Wpn3Slave_Direction
+    402296: Weapon_S5Wpn3Slave_Latitude
+    402298: Weapon_S5Wpn3Slave_Muzzle
+    402300: Weapon_S5Wpn3Slave_Position
+    402302: Weapon_S5Wpn3Slave_Rest
+    402304: Weapon_S5Wpn4_Direction
+    402306: Weapon_S5Wpn4_Latitude
+    402308: Weapon_S5Wpn4_Muzzle
+    402310: Weapon_S5Wpn4_Position
+    402312: Weapon_S5Wpn4_Rest
+    402314: Weapon_S5Wpn4Slave_Direction
+    402316: Weapon_S5Wpn4Slave_Latitude
+    402318: Weapon_S5Wpn4Slave_Muzzle
+    402320: Weapon_S5Wpn4Slave_Position
+    402322: Weapon_S5Wpn4Slave_Rest
+    402324: Weapon_S5Wpn5_Direction
+    402326: Weapon_S5Wpn5_Latitude
+    402328: Weapon_S5Wpn5_Muzzle
+    402330: Weapon_S5Wpn5_Position
+    402332: Weapon_S5Wpn5_Rest
+    402334: Weapon_S5Wpn5Slave_Direction
+    402336: Weapon_S5Wpn5Slave_Latitude
+    402338: Weapon_S5Wpn5Slave_Muzzle
+    402340: Weapon_S5Wpn5Slave_Position
+    402342: Weapon_S5Wpn5Slave_Rest
+    402344: Weapon_S5Wpn6_Direction
+    402346: Weapon_S5Wpn6_Latitude
+    402348: Weapon_S5Wpn6_Muzzle
+    402350: Weapon_S5Wpn6_Position
+    402352: Weapon_S5Wpn6_Rest
+    402354: Weapon_S5Wpn6Slave_Direction
+    402356: Weapon_S5Wpn6Slave_Latitude
+    402358: Weapon_S5Wpn6Slave_Muzzle
+    402360: Weapon_S5Wpn6Slave_Position
+    402362: Weapon_S5Wpn6Slave_Rest
+    402364: Weapon_SWpn10_Direction
+    402366: Weapon_SWpn10_Latitude
+    402368: Weapon_SWpn10_Muzzle
+    402370: Weapon_SWpn10_Position
+    402372: Weapon_SWpn10_Rest
+    402374: Weapon_SWpn10Slave1_Direction
+    402376: Weapon_SWpn10Slave1_Latitude
+    402378: Weapon_SWpn10Slave1_Muzzle
+    402380: Weapon_SWpn10Slave1_Position
+    402382: Weapon_SWpn10Slave1_Rest
+    402384: Weapon_SWpn10Slave2_Direction
+    402386: Weapon_SWpn10Slave2_Latitude
+    402388: Weapon_SWpn10Slave2_Muzzle
+    402390: Weapon_SWpn10Slave2_Position
+    402392: Weapon_SWpn10Slave2_Rest
+    402394: Weapon_SWpn10Slave_Direction
+    402396: Weapon_SWpn10Slave_Latitude
+    402398: Weapon_SWpn10Slave_Muzzle
+    402400: Weapon_SWpn10Slave_Position
+    402402: Weapon_SWpn10Slave_Rest
+    402404: Weapon_SWpn1_Direction
+    402406: Weapon_SWpn1_Latitude
+    402408: Weapon_SWpn1_Muzzle
+    402410: Weapon_SWpn1_Position
+    402412: Weapon_SWpn1_Rest
+    402414: Weapon_SWpn1Slave1_Direction
+    402416: Weapon_SWpn1Slave1_Latitude
+    402418: Weapon_SWpn1Slave1_Muzzle
+    402420: Weapon_SWpn1Slave1_Position
+    402422: Weapon_SWpn1Slave1_Rest
+    402424: Weapon_SWpn1Slave2_Direction
+    402426: Weapon_SWpn1Slave2_Latitude
+    402428: Weapon_SWpn1Slave2_Muzzle
+    402430: Weapon_SWpn1Slave2_Muzzle 1
+    402432: Weapon_SWpn1Slave2_Position
+    402434: Weapon_SWpn1Slave2_Rest
+    402436: Weapon_SWpn1Slave_Direction
+    402438: Weapon_SWpn1Slave_Latitude
+    402440: Weapon_SWpn1Slave_Muzzle
+    402442: Weapon_SWpn1Slave_Position
+    402444: Weapon_SWpn1Slave_Rest
+    402446: Weapon_SWpn2_Direction
+    402448: Weapon_SWpn2_Latitude
+    402450: Weapon_SWpn2_Muzzle
+    402452: Weapon_SWpn2_Position
+    402454: Weapon_SWpn2_Rest
+    402456: Weapon_SWpn2Slave1_Direction
+    402458: Weapon_SWpn2Slave1_Latitude
+    402460: Weapon_SWpn2Slave1_Muzzle
+    402462: Weapon_SWpn2Slave1_Position
+    402464: Weapon_SWpn2Slave1_Rest
+    402466: Weapon_SWpn2Slave2_Direction
+    402468: Weapon_SWpn2Slave2_Latitude
+    402470: Weapon_SWpn2Slave2_Muzzle
+    402472: Weapon_SWpn2Slave2_Position
+    402474: Weapon_SWpn2Slave2_Rest
+    402476: Weapon_SWpn2Slave_Direction
+    402478: Weapon_SWpn2Slave_Latitude
+    402480: Weapon_SWpn2Slave_Muzzle
+    402482: Weapon_SWpn2Slave_Position
+    402484: Weapon_SWpn2Slave_Rest
+    402486: Weapon_SWpn3_Direction
+    402488: Weapon_SWpn3_Latitude
+    402490: Weapon_SWpn3_Muzzle
+    402492: Weapon_SWpn3_Position
+    402494: Weapon_SWpn3_Rest
+    402496: Weapon_SWpn3Slave1_Direction
+    402498: Weapon_SWpn3Slave1_Latitude
+    402500: Weapon_SWpn3Slave1_Muzzle
+    402502: Weapon_SWpn3Slave1_Position
+    402504: Weapon_SWpn3Slave1_Rest
+    402506: Weapon_SWpn3Slave2_Direction
+    402508: Weapon_SWpn3Slave2_Latitude
+    402510: Weapon_SWpn3Slave2_Position
+    402512: Weapon_SWpn3Slave2_Rest
+    402514: Weapon_SWpn3Slave_Direction
+    402516: Weapon_SWpn3Slave_Latitude
+    402518: Weapon_SWpn3Slave_Muzzle
+    402520: Weapon_SWpn3Slave_Position
+    402522: Weapon_SWpn3Slave_Rest
+    402524: Weapon_SWpn4_Direction
+    402526: Weapon_SWpn4_Latitude
+    402528: Weapon_SWpn4_Muzzle
+    402530: Weapon_SWpn4_Position
+    402532: Weapon_SWpn4_Rest
+    402534: Weapon_SWpn4Slave1_Direction
+    402536: Weapon_SWpn4Slave1_Latitude
+    402538: Weapon_SWpn4Slave1_Muzzle
+    402540: Weapon_SWpn4Slave1_Position
+    402542: Weapon_SWpn4Slave1_Rest
+    402544: Weapon_SWpn4Slave2_Direction
+    402546: Weapon_SWpn4Slave2_Latitude
+    402548: Weapon_SWpn4Slave2_Muzzle
+    402550: Weapon_SWpn4Slave2_Position
+    402552: Weapon_SWpn4Slave2_Rest
+    402554: Weapon_SWpn4Slave_Direction
+    402556: Weapon_SWpn4Slave_Latitude
+    402558: Weapon_SWpn4Slave_Muzzle
+    402560: Weapon_SWpn4Slave_Position
+    402562: Weapon_SWpn4Slave_Rest
+    402564: Weapon_SWpn5_Direction
+    402566: Weapon_SWpn5_Latitude
+    402568: Weapon_SWpn5_Muzzle
+    402570: Weapon_SWpn5_Position
+    402572: Weapon_SWpn5_Rest
+    402574: Weapon_SWpn5Slave1_Direction
+    402576: Weapon_SWpn5Slave1_Latitude
+    402578: Weapon_SWpn5Slave1_Muzzle
+    402580: Weapon_SWpn5Slave1_Position
+    402582: Weapon_SWpn5Slave1_Rest
+    402584: Weapon_SWpn5Slave2_Direction
+    402586: Weapon_SWpn5Slave2_Latitude
+    402588: Weapon_SWpn5Slave2_Muzzle
+    402590: Weapon_SWpn5Slave2_Position
+    402592: Weapon_SWpn5Slave2_Rest
+    402594: Weapon_SWpn5Slave_Direction
+    402596: Weapon_SWpn5Slave_Latitude
+    402598: Weapon_SWpn5Slave_Muzzle
+    402600: Weapon_SWpn5Slave_Position
+    402602: Weapon_SWpn5Slave_Rest
+    402604: Weapon_SWpn6_Direction
+    402606: Weapon_SWpn6_Latitude
+    402608: Weapon_SWpn6_Muzzle
+    402610: Weapon_SWpn6_Position
+    402612: Weapon_SWpn6_Rest
+    402614: Weapon_SWpn6Slave1_Direction
+    402616: Weapon_SWpn6Slave1_Latitude
+    402618: Weapon_SWpn6Slave1_Muzzle
+    402620: Weapon_SWpn6Slave1_Position
+    402622: Weapon_SWpn6Slave1_Rest
+    402624: Weapon_SWpn6Slave2_Direction
+    402626: Weapon_SWpn6Slave2_Direction 1
+    402628: Weapon_SWpn6Slave2_Latitude
+    402630: Weapon_SWpn6Slave2_Muzzle
+    402632: Weapon_SWpn6Slave2_Position
+    402634: Weapon_SWpn6Slave2_Rest
+    402636: Weapon_SWpn6Slave_Direction
+    402638: Weapon_SWpn6Slave_Latitude
+    402640: Weapon_SWpn6Slave_Muzzle
+    402642: Weapon_SWpn6Slave_Position
+    402644: Weapon_SWpn6Slave_Rest
+    402646: Weapon_SWpn7_Direction
+    402648: Weapon_SWpn7_Latitude
+    402650: Weapon_SWpn7_Muzzle
+    402652: Weapon_SWpn7_Position
+    402654: Weapon_SWpn7_Rest
+    402656: Weapon_SWpn7Slave1_Direction
+    402658: Weapon_SWpn7Slave1_Latitude
+    402660: Weapon_SWpn7Slave1_Muzzle
+    402662: Weapon_SWpn7Slave1_Position
+    402664: Weapon_SWpn7Slave1_Rest
+    402666: Weapon_SWpn7Slave2_Latitude
+    402668: Weapon_SWpn7Slave2_Muzzle
+    402670: Weapon_SWpn7Slave2_Position
+    402672: Weapon_SWpn7Slave2_Rest
+    402674: Weapon_SWpn7Slave_Direction
+    402676: Weapon_SWpn7Slave_Latitude
+    402678: Weapon_SWpn7Slave_Muzzle
+    402680: Weapon_SWpn7Slave_Position
+    402682: Weapon_SWpn7Slave_Rest
+    402684: Weapon_SWpn8_Direction
+    402686: Weapon_SWpn8_Latitude
+    402688: Weapon_SWpn8_Muzzle
+    402690: Weapon_SWpn8_Position
+    402692: Weapon_SWpn8_Rest
+    402694: Weapon_SWpn8Slave1_Direction
+    402696: Weapon_SWpn8Slave1_Latitude
+    402698: Weapon_SWpn8Slave1_Muzzle
+    402700: Weapon_SWpn8Slave1_Position
+    402702: Weapon_SWpn8Slave1_Rest
+    402704: Weapon_SWpn8Slave2_Direction
+    402706: Weapon_SWpn8Slave2_Latitude
+    402708: Weapon_SWpn8Slave2_Muzzle
+    402710: Weapon_SWpn8Slave2_Position
+    402712: Weapon_SWpn8Slave2_Rest
+    402714: Weapon_SWpn8Slave_Direction
+    402716: Weapon_SWpn8Slave_Latitude
+    402718: Weapon_SWpn8Slave_Muzzle
+    402720: Weapon_SWpn8Slave_Position
+    402722: Weapon_SWpn8Slave_Rest
+    402724: Weapon_SWpn9_Direction
+    402726: Weapon_SWpn9_Latitude
+    402728: Weapon_SWpn9_Muzzle
+    402730: Weapon_SWpn9_Position
+    402732: Weapon_SWpn9_Rest
+    402734: Weapon_SWpn9Slave1_Direction
+    402736: Weapon_SWpn9Slave1_Latitude
+    402738: Weapon_SWpn9Slave1_Muzzle
+    402740: Weapon_SWpn9Slave1_Position
+    402742: Weapon_SWpn9Slave1_Rest
+    402744: Weapon_SWpn9Slave2_Direction
+    402746: Weapon_SWpn9Slave2_Latitude
+    402748: Weapon_SWpn9Slave2_Muzzle
+    402750: Weapon_SWpn9Slave2_Position
+    402752: Weapon_SWpn9Slave2_Rest
+    402754: Weapon_SWpn9Slave_Direction
+    402756: Weapon_SWpn9Slave_Latitude
+    402758: Weapon_SWpn9Slave_Muzzle
+    402760: Weapon_SWpn9Slave_Position
+    402762: Weapon_SWpn9Slave_Rest
+    402764: Weapon_WM_Direction
+    402766: Weapon_WM_Position
+    402768: Weapon_WM_Rest
+    402770: //RootNode
+    2300000: Barrel
+    2300002: Barrel 1
+    2300004: Barrel 10
+    2300006: Barrel 100
+    2300008: Barrel 101
+    2300010: Barrel 102
+    2300012: Barrel 103
+    2300014: Barrel 11
+    2300016: Barrel 12
+    2300018: Barrel 13
+    2300020: Barrel 14
+    2300022: Barrel 15
+    2300024: Barrel 16
+    2300026: Barrel 17
+    2300028: Barrel 18
+    2300030: Barrel 19
+    2300032: Barrel 2
+    2300034: Barrel 20
+    2300036: Barrel 21
+    2300038: Barrel 22
+    2300040: Barrel 23
+    2300042: Barrel 24
+    2300044: Barrel 25
+    2300046: Barrel 26
+    2300048: Barrel 27
+    2300050: Barrel 28
+    2300052: Barrel 29
+    2300054: Barrel 3
+    2300056: Barrel 30
+    2300058: Barrel 31
+    2300060: Barrel 32
+    2300062: Barrel 33
+    2300064: Barrel 34
+    2300066: Barrel 35
+    2300068: Barrel 36
+    2300070: Barrel 37
+    2300072: Barrel 38
+    2300074: Barrel 39
+    2300076: Barrel 4
+    2300078: Barrel 40
+    2300080: Barrel 41
+    2300082: Barrel 42
+    2300084: Barrel 43
+    2300086: Barrel 44
+    2300088: Barrel 45
+    2300090: Barrel 46
+    2300092: Barrel 47
+    2300094: Barrel 48
+    2300096: Barrel 49
+    2300098: Barrel 5
+    2300100: Barrel 50
+    2300102: Barrel 51
+    2300104: Barrel 52
+    2300106: Barrel 53
+    2300108: Barrel 54
+    2300110: Barrel 55
+    2300112: Barrel 56
+    2300114: Barrel 57
+    2300116: Barrel 58
+    2300118: Barrel 59
+    2300120: Barrel 6
+    2300122: Barrel 60
+    2300124: Barrel 61
+    2300126: Barrel 62
+    2300128: Barrel 63
+    2300130: Barrel 64
+    2300132: Barrel 65
+    2300134: Barrel 66
+    2300136: Barrel 67
+    2300138: Barrel 68
+    2300140: Barrel 69
+    2300142: Barrel 7
+    2300144: Barrel 70
+    2300146: Barrel 71
+    2300148: Barrel 72
+    2300150: Barrel 73
+    2300152: Barrel 74
+    2300154: Barrel 75
+    2300156: Barrel 76
+    2300158: Barrel 77
+    2300160: Barrel 78
+    2300162: Barrel 79
+    2300164: Barrel 8
+    2300166: Barrel 80
+    2300168: Barrel 81
+    2300170: Barrel 82
+    2300172: Barrel 83
+    2300174: Barrel 84
+    2300176: Barrel 85
+    2300178: Barrel 86
+    2300180: Barrel 87
+    2300182: Barrel 88
+    2300184: Barrel 89
+    2300186: Barrel 9
+    2300188: Barrel 90
+    2300190: Barrel 91
+    2300192: Barrel 92
+    2300194: Barrel 93
+    2300196: Barrel 94
+    2300198: Barrel 95
+    2300200: Barrel 96
+    2300202: Barrel 97
+    2300204: Barrel 98
+    2300206: Barrel 99
+    2300208: Barrel1
+    2300210: Barrel1 1
+    2300212: Barrel1 2
+    2300214: Barrel1 3
+    2300216: Barrel1 4
+    2300218: Barrel1 5
+    2300220: Barrel1 6
+    2300222: Barrel1 7
+    2300224: Barrel1 8
+    2300226: Barrel1_LOD1
+    2300228: Barrel1_LOD1 1
+    2300230: Barrel1_LOD1 2
+    2300232: Barrel1_LOD1 3
+    2300234: Barrel1_LOD1 4
+    2300236: Barrel1_LOD1 5
+    2300238: Barrel1_LOD1 6
+    2300240: Barrel1_LOD1 7
+    2300242: Barrel1_LOD1 8
+    2300244: Barrel1_LOD2
+    2300246: Barrel1_LOD2 1
+    2300248: Barrel1_LOD2 2
+    2300250: Barrel1_LOD2 3
+    2300252: Barrel1_LOD2 4
+    2300254: Barrel1_LOD2 5
+    2300256: Barrel1_LOD2 6
+    2300258: Barrel1_LOD2 7
+    2300260: Barrel1_LOD2 8
+    2300262: Barrel1_LOD3
+    2300264: Barrel1_LOD3 1
+    2300266: Barrel1_LOD3 2
+    2300268: Barrel1_LOD3 3
+    2300270: Barrel1_LOD3 4
+    2300272: Barrel1_LOD3 5
+    2300274: Barrel1_LOD3 6
+    2300276: Barrel1_LOD3 7
+    2300278: Barrel1_LOD3 8
+    2300280: Barrel2
+    2300282: Barrel2 1
+    2300284: Barrel2 2
+    2300286: Barrel2 3
+    2300288: Barrel2 4
+    2300290: Barrel2 5
+    2300292: Barrel2_LOD1
+    2300294: Barrel2_LOD1 1
+    2300296: Barrel2_LOD1 2
+    2300298: Barrel2_LOD1 3
+    2300300: Barrel2_LOD1 4
+    2300302: Barrel2_LOD1 5
+    2300304: Barrel2_LOD2
+    2300306: Barrel2_LOD2 1
+    2300308: Barrel2_LOD2 2
+    2300310: Barrel2_LOD2 3
+    2300312: Barrel2_LOD2 4
+    2300314: Barrel2_LOD2 5
+    2300316: Barrel2_LOD3
+    2300318: Barrel2_LOD3 1
+    2300320: Barrel2_LOD3 2
+    2300322: Barrel2_LOD3 3
+    2300324: Barrel2_LOD3 4
+    2300326: Barrel2_LOD3 5
+    2300328: Barrel_LOD1
+    2300330: Barrel_LOD1 1
+    2300332: Barrel_LOD1 10
+    2300334: Barrel_LOD1 100
+    2300336: Barrel_LOD1 101
+    2300338: Barrel_LOD1 102
+    2300340: Barrel_LOD1 103
+    2300342: Barrel_LOD1 11
+    2300344: Barrel_LOD1 12
+    2300346: Barrel_LOD1 13
+    2300348: Barrel_LOD1 14
+    2300350: Barrel_LOD1 15
+    2300352: Barrel_LOD1 16
+    2300354: Barrel_LOD1 17
+    2300356: Barrel_LOD1 18
+    2300358: Barrel_LOD1 19
+    2300360: Barrel_LOD1 2
+    2300362: Barrel_LOD1 20
+    2300364: Barrel_LOD1 21
+    2300366: Barrel_LOD1 22
+    2300368: Barrel_LOD1 23
+    2300370: Barrel_LOD1 24
+    2300372: Barrel_LOD1 25
+    2300374: Barrel_LOD1 26
+    2300376: Barrel_LOD1 27
+    2300378: Barrel_LOD1 28
+    2300380: Barrel_LOD1 29
+    2300382: Barrel_LOD1 3
+    2300384: Barrel_LOD1 30
+    2300386: Barrel_LOD1 31
+    2300388: Barrel_LOD1 32
+    2300390: Barrel_LOD1 33
+    2300392: Barrel_LOD1 34
+    2300394: Barrel_LOD1 35
+    2300396: Barrel_LOD1 36
+    2300398: Barrel_LOD1 37
+    2300400: Barrel_LOD1 38
+    2300402: Barrel_LOD1 39
+    2300404: Barrel_LOD1 4
+    2300406: Barrel_LOD1 40
+    2300408: Barrel_LOD1 41
+    2300410: Barrel_LOD1 42
+    2300412: Barrel_LOD1 43
+    2300414: Barrel_LOD1 44
+    2300416: Barrel_LOD1 45
+    2300418: Barrel_LOD1 46
+    2300420: Barrel_LOD1 47
+    2300422: Barrel_LOD1 48
+    2300424: Barrel_LOD1 49
+    2300426: Barrel_LOD1 5
+    2300428: Barrel_LOD1 50
+    2300430: Barrel_LOD1 51
+    2300432: Barrel_LOD1 52
+    2300434: Barrel_LOD1 53
+    2300436: Barrel_LOD1 54
+    2300438: Barrel_LOD1 55
+    2300440: Barrel_LOD1 56
+    2300442: Barrel_LOD1 57
+    2300444: Barrel_LOD1 58
+    2300446: Barrel_LOD1 59
+    2300448: Barrel_LOD1 6
+    2300450: Barrel_LOD1 60
+    2300452: Barrel_LOD1 61
+    2300454: Barrel_LOD1 62
+    2300456: Barrel_LOD1 63
+    2300458: Barrel_LOD1 64
+    2300460: Barrel_LOD1 65
+    2300462: Barrel_LOD1 66
+    2300464: Barrel_LOD1 67
+    2300466: Barrel_LOD1 68
+    2300468: Barrel_LOD1 69
+    2300470: Barrel_LOD1 7
+    2300472: Barrel_LOD1 70
+    2300474: Barrel_LOD1 71
+    2300476: Barrel_LOD1 72
+    2300478: Barrel_LOD1 73
+    2300480: Barrel_LOD1 74
+    2300482: Barrel_LOD1 75
+    2300484: Barrel_LOD1 76
+    2300486: Barrel_LOD1 77
+    2300488: Barrel_LOD1 78
+    2300490: Barrel_LOD1 79
+    2300492: Barrel_LOD1 8
+    2300494: Barrel_LOD1 80
+    2300496: Barrel_LOD1 81
+    2300498: Barrel_LOD1 82
+    2300500: Barrel_LOD1 83
+    2300502: Barrel_LOD1 84
+    2300504: Barrel_LOD1 85
+    2300506: Barrel_LOD1 86
+    2300508: Barrel_LOD1 87
+    2300510: Barrel_LOD1 88
+    2300512: Barrel_LOD1 89
+    2300514: Barrel_LOD1 9
+    2300516: Barrel_LOD1 90
+    2300518: Barrel_LOD1 91
+    2300520: Barrel_LOD1 92
+    2300522: Barrel_LOD1 93
+    2300524: Barrel_LOD1 94
+    2300526: Barrel_LOD1 95
+    2300528: Barrel_LOD1 96
+    2300530: Barrel_LOD1 97
+    2300532: Barrel_LOD1 98
+    2300534: Barrel_LOD1 99
+    2300536: Barrel_LOD2
+    2300538: Barrel_LOD2 1
+    2300540: Barrel_LOD2 10
+    2300542: Barrel_LOD2 100
+    2300544: Barrel_LOD2 101
+    2300546: Barrel_LOD2 102
+    2300548: Barrel_LOD2 103
+    2300550: Barrel_LOD2 11
+    2300552: Barrel_LOD2 12
+    2300554: Barrel_LOD2 13
+    2300556: Barrel_LOD2 14
+    2300558: Barrel_LOD2 15
+    2300560: Barrel_LOD2 16
+    2300562: Barrel_LOD2 17
+    2300564: Barrel_LOD2 18
+    2300566: Barrel_LOD2 19
+    2300568: Barrel_LOD2 2
+    2300570: Barrel_LOD2 20
+    2300572: Barrel_LOD2 21
+    2300574: Barrel_LOD2 22
+    2300576: Barrel_LOD2 23
+    2300578: Barrel_LOD2 24
+    2300580: Barrel_LOD2 25
+    2300582: Barrel_LOD2 26
+    2300584: Barrel_LOD2 27
+    2300586: Barrel_LOD2 28
+    2300588: Barrel_LOD2 29
+    2300590: Barrel_LOD2 3
+    2300592: Barrel_LOD2 30
+    2300594: Barrel_LOD2 31
+    2300596: Barrel_LOD2 32
+    2300598: Barrel_LOD2 33
+    2300600: Barrel_LOD2 34
+    2300602: Barrel_LOD2 35
+    2300604: Barrel_LOD2 36
+    2300606: Barrel_LOD2 37
+    2300608: Barrel_LOD2 38
+    2300610: Barrel_LOD2 39
+    2300612: Barrel_LOD2 4
+    2300614: Barrel_LOD2 40
+    2300616: Barrel_LOD2 41
+    2300618: Barrel_LOD2 42
+    2300620: Barrel_LOD2 43
+    2300622: Barrel_LOD2 44
+    2300624: Barrel_LOD2 45
+    2300626: Barrel_LOD2 46
+    2300628: Barrel_LOD2 47
+    2300630: Barrel_LOD2 48
+    2300632: Barrel_LOD2 49
+    2300634: Barrel_LOD2 5
+    2300636: Barrel_LOD2 50
+    2300638: Barrel_LOD2 51
+    2300640: Barrel_LOD2 52
+    2300642: Barrel_LOD2 53
+    2300644: Barrel_LOD2 54
+    2300646: Barrel_LOD2 55
+    2300648: Barrel_LOD2 56
+    2300650: Barrel_LOD2 57
+    2300652: Barrel_LOD2 58
+    2300654: Barrel_LOD2 59
+    2300656: Barrel_LOD2 6
+    2300658: Barrel_LOD2 60
+    2300660: Barrel_LOD2 61
+    2300662: Barrel_LOD2 62
+    2300664: Barrel_LOD2 63
+    2300666: Barrel_LOD2 64
+    2300668: Barrel_LOD2 65
+    2300670: Barrel_LOD2 66
+    2300672: Barrel_LOD2 67
+    2300674: Barrel_LOD2 68
+    2300676: Barrel_LOD2 69
+    2300678: Barrel_LOD2 7
+    2300680: Barrel_LOD2 70
+    2300682: Barrel_LOD2 71
+    2300684: Barrel_LOD2 72
+    2300686: Barrel_LOD2 73
+    2300688: Barrel_LOD2 74
+    2300690: Barrel_LOD2 75
+    2300692: Barrel_LOD2 76
+    2300694: Barrel_LOD2 77
+    2300696: Barrel_LOD2 78
+    2300698: Barrel_LOD2 79
+    2300700: Barrel_LOD2 8
+    2300702: Barrel_LOD2 80
+    2300704: Barrel_LOD2 81
+    2300706: Barrel_LOD2 82
+    2300708: Barrel_LOD2 83
+    2300710: Barrel_LOD2 84
+    2300712: Barrel_LOD2 85
+    2300714: Barrel_LOD2 86
+    2300716: Barrel_LOD2 87
+    2300718: Barrel_LOD2 88
+    2300720: Barrel_LOD2 89
+    2300722: Barrel_LOD2 9
+    2300724: Barrel_LOD2 90
+    2300726: Barrel_LOD2 91
+    2300728: Barrel_LOD2 92
+    2300730: Barrel_LOD2 93
+    2300732: Barrel_LOD2 94
+    2300734: Barrel_LOD2 95
+    2300736: Barrel_LOD2 96
+    2300738: Barrel_LOD2 97
+    2300740: Barrel_LOD2 98
+    2300742: Barrel_LOD2 99
+    2300744: Barrel_LOD3
+    2300746: Barrel_LOD3 1
+    2300748: Barrel_LOD3 10
+    2300750: Barrel_LOD3 100
+    2300752: Barrel_LOD3 101
+    2300754: Barrel_LOD3 102
+    2300756: Barrel_LOD3 103
+    2300758: Barrel_LOD3 11
+    2300760: Barrel_LOD3 12
+    2300762: Barrel_LOD3 13
+    2300764: Barrel_LOD3 14
+    2300766: Barrel_LOD3 15
+    2300768: Barrel_LOD3 16
+    2300770: Barrel_LOD3 17
+    2300772: Barrel_LOD3 18
+    2300774: Barrel_LOD3 19
+    2300776: Barrel_LOD3 2
+    2300778: Barrel_LOD3 20
+    2300780: Barrel_LOD3 21
+    2300782: Barrel_LOD3 22
+    2300784: Barrel_LOD3 23
+    2300786: Barrel_LOD3 24
+    2300788: Barrel_LOD3 25
+    2300790: Barrel_LOD3 26
+    2300792: Barrel_LOD3 27
+    2300794: Barrel_LOD3 28
+    2300796: Barrel_LOD3 29
+    2300798: Barrel_LOD3 3
+    2300800: Barrel_LOD3 30
+    2300802: Barrel_LOD3 31
+    2300804: Barrel_LOD3 32
+    2300806: Barrel_LOD3 33
+    2300808: Barrel_LOD3 34
+    2300810: Barrel_LOD3 35
+    2300812: Barrel_LOD3 36
+    2300814: Barrel_LOD3 37
+    2300816: Barrel_LOD3 38
+    2300818: Barrel_LOD3 39
+    2300820: Barrel_LOD3 4
+    2300822: Barrel_LOD3 40
+    2300824: Barrel_LOD3 41
+    2300826: Barrel_LOD3 42
+    2300828: Barrel_LOD3 43
+    2300830: Barrel_LOD3 44
+    2300832: Barrel_LOD3 45
+    2300834: Barrel_LOD3 46
+    2300836: Barrel_LOD3 47
+    2300838: Barrel_LOD3 48
+    2300840: Barrel_LOD3 49
+    2300842: Barrel_LOD3 5
+    2300844: Barrel_LOD3 50
+    2300846: Barrel_LOD3 51
+    2300848: Barrel_LOD3 52
+    2300850: Barrel_LOD3 53
+    2300852: Barrel_LOD3 54
+    2300854: Barrel_LOD3 55
+    2300856: Barrel_LOD3 56
+    2300858: Barrel_LOD3 57
+    2300860: Barrel_LOD3 58
+    2300862: Barrel_LOD3 59
+    2300864: Barrel_LOD3 6
+    2300866: Barrel_LOD3 60
+    2300868: Barrel_LOD3 61
+    2300870: Barrel_LOD3 62
+    2300872: Barrel_LOD3 63
+    2300874: Barrel_LOD3 64
+    2300876: Barrel_LOD3 65
+    2300878: Barrel_LOD3 66
+    2300880: Barrel_LOD3 67
+    2300882: Barrel_LOD3 68
+    2300884: Barrel_LOD3 69
+    2300886: Barrel_LOD3 7
+    2300888: Barrel_LOD3 70
+    2300890: Barrel_LOD3 71
+    2300892: Barrel_LOD3 72
+    2300894: Barrel_LOD3 73
+    2300896: Barrel_LOD3 74
+    2300898: Barrel_LOD3 75
+    2300900: Barrel_LOD3 76
+    2300902: Barrel_LOD3 77
+    2300904: Barrel_LOD3 78
+    2300906: Barrel_LOD3 79
+    2300908: Barrel_LOD3 8
+    2300910: Barrel_LOD3 80
+    2300912: Barrel_LOD3 81
+    2300914: Barrel_LOD3 82
+    2300916: Barrel_LOD3 83
+    2300918: Barrel_LOD3 84
+    2300920: Barrel_LOD3 85
+    2300922: Barrel_LOD3 86
+    2300924: Barrel_LOD3 87
+    2300926: Barrel_LOD3 88
+    2300928: Barrel_LOD3 89
+    2300930: Barrel_LOD3 9
+    2300932: Barrel_LOD3 90
+    2300934: Barrel_LOD3 91
+    2300936: Barrel_LOD3 92
+    2300938: Barrel_LOD3 93
+    2300940: Barrel_LOD3 94
+    2300942: Barrel_LOD3 95
+    2300944: Barrel_LOD3 96
+    2300946: Barrel_LOD3 97
+    2300948: Barrel_LOD3 98
+    2300950: Barrel_LOD3 99
+    2300952: BayDoor
+    2300954: BayDoor_LOD1
+    2300956: BayDoor_LOD2
+    2300958: BayDoor_LOD3
+    2300960: CM_MainBody
+    2300962: EngineGlow1
+    2300964: EngineGlow1 1
+    2300966: EngineGlow1 2
+    2300968: EngineGlow2
+    2300970: EngineGlow2 1
+    2300972: EngineGlow2 2
+    2300974: EngineGlow3
+    2300976: EngineGlow3 1
+    2300978: EngineGlow3 2
+    2300980: EngineGlow4
+    2300982: EngineGlow4 1
+    2300984: EngineGlow4 2
+    2300986: MainBody
+    2300988: MainBody_LOD1
+    2300990: MainBody_LOD2
+    2300992: MainBody_LOD3
+    2300994: path1
+    2300996: path2
+    2300998: pCube39
+    2301000: pCube40
+    2301002: polySurface243
+    2301004: polySurface270
+    2301006: polySurface274
+    2301008: polySurface278
+    2301010: polySurface279
+    2301012: polySurface293
+    2301014: polySurface294
+    2301016: polySurface295
+    2301018: polySurface334
+    2301020: polySurface335
+    2301022: polySurface338
+    2301024: polySurface341
+    2301026: polySurface342
+    2301028: polySurface355
+    2301030: polySurface356
+    2301032: polySurface357
+    2301034: polySurface381
+    2301036: polySurface384
+    2301038: polySurface385
+    2301040: polySurface408
+    2301042: polySurface411
+    2301044: polySurface458
+    2301046: polySurface503
+    2301048: polySurface504
+    2301050: polySurface505
+    2301052: polySurface506
+    2301054: polySurface571
+    2301056: polySurface571 1
+    2301058: polySurface571 2
+    2301060: polySurface571 3
+    2301062: polySurface571 4
+    2301064: polySurface571 5
+    2301066: polySurface571 6
+    2301068: polySurface571 7
+    2301070: polySurface571 8
+    2301072: polySurface571 9
+    2301074: polySurface573
+    2301076: polySurface574
+    2301078: polySurface638
+    2301080: polySurface644
+    2301082: S2Wpn
+    2301084: S2Wpn 1
+    2301086: S2Wpn 10
+    2301088: S2Wpn 11
+    2301090: S2Wpn 12
+    2301092: S2Wpn 13
+    2301094: S2Wpn 14
+    2301096: S2Wpn 15
+    2301098: S2Wpn 16
+    2301100: S2Wpn 17
+    2301102: S2Wpn 18
+    2301104: S2Wpn 19
+    2301106: S2Wpn 2
+    2301108: S2Wpn 20
+    2301110: S2Wpn 21
+    2301112: S2Wpn 22
+    2301114: S2Wpn 23
+    2301116: S2Wpn 24
+    2301118: S2Wpn 25
+    2301120: S2Wpn 3
+    2301122: S2Wpn 4
+    2301124: S2Wpn 5
+    2301126: S2Wpn 6
+    2301128: S2Wpn 7
+    2301130: S2Wpn 8
+    2301132: S2Wpn 9
+    2301134: S2Wpn_LOD1
+    2301136: S2Wpn_LOD1 1
+    2301138: S2Wpn_LOD1 10
+    2301140: S2Wpn_LOD1 11
+    2301142: S2Wpn_LOD1 12
+    2301144: S2Wpn_LOD1 13
+    2301146: S2Wpn_LOD1 14
+    2301148: S2Wpn_LOD1 15
+    2301150: S2Wpn_LOD1 16
+    2301152: S2Wpn_LOD1 17
+    2301154: S2Wpn_LOD1 18
+    2301156: S2Wpn_LOD1 19
+    2301158: S2Wpn_LOD1 2
+    2301160: S2Wpn_LOD1 20
+    2301162: S2Wpn_LOD1 21
+    2301164: S2Wpn_LOD1 22
+    2301166: S2Wpn_LOD1 23
+    2301168: S2Wpn_LOD1 24
+    2301170: S2Wpn_LOD1 25
+    2301172: S2Wpn_LOD1 3
+    2301174: S2Wpn_LOD1 4
+    2301176: S2Wpn_LOD1 5
+    2301178: S2Wpn_LOD1 6
+    2301180: S2Wpn_LOD1 7
+    2301182: S2Wpn_LOD1 8
+    2301184: S2Wpn_LOD1 9
+    2301186: S2Wpn_LOD2
+    2301188: S2Wpn_LOD2 1
+    2301190: S2Wpn_LOD2 10
+    2301192: S2Wpn_LOD2 11
+    2301194: S2Wpn_LOD2 12
+    2301196: S2Wpn_LOD2 13
+    2301198: S2Wpn_LOD2 14
+    2301200: S2Wpn_LOD2 15
+    2301202: S2Wpn_LOD2 16
+    2301204: S2Wpn_LOD2 17
+    2301206: S2Wpn_LOD2 18
+    2301208: S2Wpn_LOD2 19
+    2301210: S2Wpn_LOD2 2
+    2301212: S2Wpn_LOD2 20
+    2301214: S2Wpn_LOD2 21
+    2301216: S2Wpn_LOD2 22
+    2301218: S2Wpn_LOD2 23
+    2301220: S2Wpn_LOD2 24
+    2301222: S2Wpn_LOD2 25
+    2301224: S2Wpn_LOD2 3
+    2301226: S2Wpn_LOD2 4
+    2301228: S2Wpn_LOD2 5
+    2301230: S2Wpn_LOD2 6
+    2301232: S2Wpn_LOD2 7
+    2301234: S2Wpn_LOD2 8
+    2301236: S2Wpn_LOD2 9
+    2301238: S2Wpn_LOD3
+    2301240: S2Wpn_LOD3 1
+    2301242: S2Wpn_LOD3 10
+    2301244: S2Wpn_LOD3 11
+    2301246: S2Wpn_LOD3 12
+    2301248: S2Wpn_LOD3 13
+    2301250: S2Wpn_LOD3 14
+    2301252: S2Wpn_LOD3 15
+    2301254: S2Wpn_LOD3 16
+    2301256: S2Wpn_LOD3 17
+    2301258: S2Wpn_LOD3 18
+    2301260: S2Wpn_LOD3 19
+    2301262: S2Wpn_LOD3 2
+    2301264: S2Wpn_LOD3 20
+    2301266: S2Wpn_LOD3 21
+    2301268: S2Wpn_LOD3 22
+    2301270: S2Wpn_LOD3 23
+    2301272: S2Wpn_LOD3 24
+    2301274: S2Wpn_LOD3 25
+    2301276: S2Wpn_LOD3 3
+    2301278: S2Wpn_LOD3 4
+    2301280: S2Wpn_LOD3 5
+    2301282: S2Wpn_LOD3 6
+    2301284: S2Wpn_LOD3 7
+    2301286: S2Wpn_LOD3 8
+    2301288: S2Wpn_LOD3 9
+    2301290: SWpn
+    2301292: SWpn 1
+    2301294: SWpn 2
+    2301296: SWpn 3
+    2301298: SWpn 4
+    2301300: SWpn 5
+    2301302: SWpn 6
+    2301304: SWpn 7
+    2301306: SWpn 8
+    2301308: SWpn 9
+    2301310: SWpn_LOD1
+    2301312: SWpn_LOD1 1
+    2301314: SWpn_LOD1 2
+    2301316: SWpn_LOD1 3
+    2301318: SWpn_LOD1 4
+    2301320: SWpn_LOD1 5
+    2301322: SWpn_LOD1 6
+    2301324: SWpn_LOD1 7
+    2301326: SWpn_LOD1 8
+    2301328: SWpn_LOD1 9
+    2301330: SWpn_LOD2
+    2301332: SWpn_LOD2 1
+    2301334: SWpn_LOD2 2
+    2301336: SWpn_LOD2 3
+    2301338: SWpn_LOD2 4
+    2301340: SWpn_LOD2 5
+    2301342: SWpn_LOD2 6
+    2301344: SWpn_LOD2 7
+    2301346: SWpn_LOD2 8
+    2301348: SWpn_LOD2 9
+    2301350: SWpn_LOD3
+    2301352: SWpn_LOD3 1
+    2301354: SWpn_LOD3 2
+    2301356: SWpn_LOD3 3
+    2301358: SWpn_LOD3 4
+    2301360: SWpn_LOD3 5
+    2301362: SWpn_LOD3 6
+    2301364: SWpn_LOD3 7
+    2301366: SWpn_LOD3 8
+    2301368: SWpn_LOD3 9
+    2301370: Turret1
+    2301372: Turret1 1
+    2301374: Turret1 2
+    2301376: Turret1_LOD1
+    2301378: Turret1_LOD1 1
+    2301380: Turret1_LOD1 2
+    2301382: Turret1_LOD2
+    2301384: Turret1_LOD2 1
+    2301386: Turret1_LOD2 2
+    2301388: Turret1_LOD3
+    2301390: Turret1_LOD3 1
+    2301392: Turret1_LOD3 2
+    2301394: Turret2
+    2301396: Turret2 1
+    2301398: Turret2_LOD1
+    2301400: Turret2_LOD1 1
+    2301402: Turret2_LOD2
+    2301404: Turret2_LOD2 1
+    2301406: Turret2_LOD3
+    2301408: Turret2_LOD3 1
+    3300000: Barrel
+    3300002: Barrel 1
+    3300004: Barrel 10
+    3300006: Barrel 100
+    3300008: Barrel 101
+    3300010: Barrel 102
+    3300012: Barrel 103
+    3300014: Barrel 11
+    3300016: Barrel 12
+    3300018: Barrel 13
+    3300020: Barrel 14
+    3300022: Barrel 15
+    3300024: Barrel 16
+    3300026: Barrel 17
+    3300028: Barrel 18
+    3300030: Barrel 19
+    3300032: Barrel 2
+    3300034: Barrel 20
+    3300036: Barrel 21
+    3300038: Barrel 22
+    3300040: Barrel 23
+    3300042: Barrel 24
+    3300044: Barrel 25
+    3300046: Barrel 26
+    3300048: Barrel 27
+    3300050: Barrel 28
+    3300052: Barrel 29
+    3300054: Barrel 3
+    3300056: Barrel 30
+    3300058: Barrel 31
+    3300060: Barrel 32
+    3300062: Barrel 33
+    3300064: Barrel 34
+    3300066: Barrel 35
+    3300068: Barrel 36
+    3300070: Barrel 37
+    3300072: Barrel 38
+    3300074: Barrel 39
+    3300076: Barrel 4
+    3300078: Barrel 40
+    3300080: Barrel 41
+    3300082: Barrel 42
+    3300084: Barrel 43
+    3300086: Barrel 44
+    3300088: Barrel 45
+    3300090: Barrel 46
+    3300092: Barrel 47
+    3300094: Barrel 48
+    3300096: Barrel 49
+    3300098: Barrel 5
+    3300100: Barrel 50
+    3300102: Barrel 51
+    3300104: Barrel 52
+    3300106: Barrel 53
+    3300108: Barrel 54
+    3300110: Barrel 55
+    3300112: Barrel 56
+    3300114: Barrel 57
+    3300116: Barrel 58
+    3300118: Barrel 59
+    3300120: Barrel 6
+    3300122: Barrel 60
+    3300124: Barrel 61
+    3300126: Barrel 62
+    3300128: Barrel 63
+    3300130: Barrel 64
+    3300132: Barrel 65
+    3300134: Barrel 66
+    3300136: Barrel 67
+    3300138: Barrel 68
+    3300140: Barrel 69
+    3300142: Barrel 7
+    3300144: Barrel 70
+    3300146: Barrel 71
+    3300148: Barrel 72
+    3300150: Barrel 73
+    3300152: Barrel 74
+    3300154: Barrel 75
+    3300156: Barrel 76
+    3300158: Barrel 77
+    3300160: Barrel 78
+    3300162: Barrel 79
+    3300164: Barrel 8
+    3300166: Barrel 80
+    3300168: Barrel 81
+    3300170: Barrel 82
+    3300172: Barrel 83
+    3300174: Barrel 84
+    3300176: Barrel 85
+    3300178: Barrel 86
+    3300180: Barrel 87
+    3300182: Barrel 88
+    3300184: Barrel 89
+    3300186: Barrel 9
+    3300188: Barrel 90
+    3300190: Barrel 91
+    3300192: Barrel 92
+    3300194: Barrel 93
+    3300196: Barrel 94
+    3300198: Barrel 95
+    3300200: Barrel 96
+    3300202: Barrel 97
+    3300204: Barrel 98
+    3300206: Barrel 99
+    3300208: Barrel1
+    3300210: Barrel1 1
+    3300212: Barrel1 2
+    3300214: Barrel1 3
+    3300216: Barrel1 4
+    3300218: Barrel1 5
+    3300220: Barrel1 6
+    3300222: Barrel1 7
+    3300224: Barrel1 8
+    3300226: Barrel1_LOD1
+    3300228: Barrel1_LOD1 1
+    3300230: Barrel1_LOD1 2
+    3300232: Barrel1_LOD1 3
+    3300234: Barrel1_LOD1 4
+    3300236: Barrel1_LOD1 5
+    3300238: Barrel1_LOD1 6
+    3300240: Barrel1_LOD1 7
+    3300242: Barrel1_LOD1 8
+    3300244: Barrel1_LOD2
+    3300246: Barrel1_LOD2 1
+    3300248: Barrel1_LOD2 2
+    3300250: Barrel1_LOD2 3
+    3300252: Barrel1_LOD2 4
+    3300254: Barrel1_LOD2 5
+    3300256: Barrel1_LOD2 6
+    3300258: Barrel1_LOD2 7
+    3300260: Barrel1_LOD2 8
+    3300262: Barrel1_LOD3
+    3300264: Barrel1_LOD3 1
+    3300266: Barrel1_LOD3 2
+    3300268: Barrel1_LOD3 3
+    3300270: Barrel1_LOD3 4
+    3300272: Barrel1_LOD3 5
+    3300274: Barrel1_LOD3 6
+    3300276: Barrel1_LOD3 7
+    3300278: Barrel1_LOD3 8
+    3300280: Barrel2
+    3300282: Barrel2 1
+    3300284: Barrel2 2
+    3300286: Barrel2 3
+    3300288: Barrel2 4
+    3300290: Barrel2 5
+    3300292: Barrel2_LOD1
+    3300294: Barrel2_LOD1 1
+    3300296: Barrel2_LOD1 2
+    3300298: Barrel2_LOD1 3
+    3300300: Barrel2_LOD1 4
+    3300302: Barrel2_LOD1 5
+    3300304: Barrel2_LOD2
+    3300306: Barrel2_LOD2 1
+    3300308: Barrel2_LOD2 2
+    3300310: Barrel2_LOD2 3
+    3300312: Barrel2_LOD2 4
+    3300314: Barrel2_LOD2 5
+    3300316: Barrel2_LOD3
+    3300318: Barrel2_LOD3 1
+    3300320: Barrel2_LOD3 2
+    3300322: Barrel2_LOD3 3
+    3300324: Barrel2_LOD3 4
+    3300326: Barrel2_LOD3 5
+    3300328: Barrel_LOD1
+    3300330: Barrel_LOD1 1
+    3300332: Barrel_LOD1 10
+    3300334: Barrel_LOD1 100
+    3300336: Barrel_LOD1 101
+    3300338: Barrel_LOD1 102
+    3300340: Barrel_LOD1 103
+    3300342: Barrel_LOD1 11
+    3300344: Barrel_LOD1 12
+    3300346: Barrel_LOD1 13
+    3300348: Barrel_LOD1 14
+    3300350: Barrel_LOD1 15
+    3300352: Barrel_LOD1 16
+    3300354: Barrel_LOD1 17
+    3300356: Barrel_LOD1 18
+    3300358: Barrel_LOD1 19
+    3300360: Barrel_LOD1 2
+    3300362: Barrel_LOD1 20
+    3300364: Barrel_LOD1 21
+    3300366: Barrel_LOD1 22
+    3300368: Barrel_LOD1 23
+    3300370: Barrel_LOD1 24
+    3300372: Barrel_LOD1 25
+    3300374: Barrel_LOD1 26
+    3300376: Barrel_LOD1 27
+    3300378: Barrel_LOD1 28
+    3300380: Barrel_LOD1 29
+    3300382: Barrel_LOD1 3
+    3300384: Barrel_LOD1 30
+    3300386: Barrel_LOD1 31
+    3300388: Barrel_LOD1 32
+    3300390: Barrel_LOD1 33
+    3300392: Barrel_LOD1 34
+    3300394: Barrel_LOD1 35
+    3300396: Barrel_LOD1 36
+    3300398: Barrel_LOD1 37
+    3300400: Barrel_LOD1 38
+    3300402: Barrel_LOD1 39
+    3300404: Barrel_LOD1 4
+    3300406: Barrel_LOD1 40
+    3300408: Barrel_LOD1 41
+    3300410: Barrel_LOD1 42
+    3300412: Barrel_LOD1 43
+    3300414: Barrel_LOD1 44
+    3300416: Barrel_LOD1 45
+    3300418: Barrel_LOD1 46
+    3300420: Barrel_LOD1 47
+    3300422: Barrel_LOD1 48
+    3300424: Barrel_LOD1 49
+    3300426: Barrel_LOD1 5
+    3300428: Barrel_LOD1 50
+    3300430: Barrel_LOD1 51
+    3300432: Barrel_LOD1 52
+    3300434: Barrel_LOD1 53
+    3300436: Barrel_LOD1 54
+    3300438: Barrel_LOD1 55
+    3300440: Barrel_LOD1 56
+    3300442: Barrel_LOD1 57
+    3300444: Barrel_LOD1 58
+    3300446: Barrel_LOD1 59
+    3300448: Barrel_LOD1 6
+    3300450: Barrel_LOD1 60
+    3300452: Barrel_LOD1 61
+    3300454: Barrel_LOD1 62
+    3300456: Barrel_LOD1 63
+    3300458: Barrel_LOD1 64
+    3300460: Barrel_LOD1 65
+    3300462: Barrel_LOD1 66
+    3300464: Barrel_LOD1 67
+    3300466: Barrel_LOD1 68
+    3300468: Barrel_LOD1 69
+    3300470: Barrel_LOD1 7
+    3300472: Barrel_LOD1 70
+    3300474: Barrel_LOD1 71
+    3300476: Barrel_LOD1 72
+    3300478: Barrel_LOD1 73
+    3300480: Barrel_LOD1 74
+    3300482: Barrel_LOD1 75
+    3300484: Barrel_LOD1 76
+    3300486: Barrel_LOD1 77
+    3300488: Barrel_LOD1 78
+    3300490: Barrel_LOD1 79
+    3300492: Barrel_LOD1 8
+    3300494: Barrel_LOD1 80
+    3300496: Barrel_LOD1 81
+    3300498: Barrel_LOD1 82
+    3300500: Barrel_LOD1 83
+    3300502: Barrel_LOD1 84
+    3300504: Barrel_LOD1 85
+    3300506: Barrel_LOD1 86
+    3300508: Barrel_LOD1 87
+    3300510: Barrel_LOD1 88
+    3300512: Barrel_LOD1 89
+    3300514: Barrel_LOD1 9
+    3300516: Barrel_LOD1 90
+    3300518: Barrel_LOD1 91
+    3300520: Barrel_LOD1 92
+    3300522: Barrel_LOD1 93
+    3300524: Barrel_LOD1 94
+    3300526: Barrel_LOD1 95
+    3300528: Barrel_LOD1 96
+    3300530: Barrel_LOD1 97
+    3300532: Barrel_LOD1 98
+    3300534: Barrel_LOD1 99
+    3300536: Barrel_LOD2
+    3300538: Barrel_LOD2 1
+    3300540: Barrel_LOD2 10
+    3300542: Barrel_LOD2 100
+    3300544: Barrel_LOD2 101
+    3300546: Barrel_LOD2 102
+    3300548: Barrel_LOD2 103
+    3300550: Barrel_LOD2 11
+    3300552: Barrel_LOD2 12
+    3300554: Barrel_LOD2 13
+    3300556: Barrel_LOD2 14
+    3300558: Barrel_LOD2 15
+    3300560: Barrel_LOD2 16
+    3300562: Barrel_LOD2 17
+    3300564: Barrel_LOD2 18
+    3300566: Barrel_LOD2 19
+    3300568: Barrel_LOD2 2
+    3300570: Barrel_LOD2 20
+    3300572: Barrel_LOD2 21
+    3300574: Barrel_LOD2 22
+    3300576: Barrel_LOD2 23
+    3300578: Barrel_LOD2 24
+    3300580: Barrel_LOD2 25
+    3300582: Barrel_LOD2 26
+    3300584: Barrel_LOD2 27
+    3300586: Barrel_LOD2 28
+    3300588: Barrel_LOD2 29
+    3300590: Barrel_LOD2 3
+    3300592: Barrel_LOD2 30
+    3300594: Barrel_LOD2 31
+    3300596: Barrel_LOD2 32
+    3300598: Barrel_LOD2 33
+    3300600: Barrel_LOD2 34
+    3300602: Barrel_LOD2 35
+    3300604: Barrel_LOD2 36
+    3300606: Barrel_LOD2 37
+    3300608: Barrel_LOD2 38
+    3300610: Barrel_LOD2 39
+    3300612: Barrel_LOD2 4
+    3300614: Barrel_LOD2 40
+    3300616: Barrel_LOD2 41
+    3300618: Barrel_LOD2 42
+    3300620: Barrel_LOD2 43
+    3300622: Barrel_LOD2 44
+    3300624: Barrel_LOD2 45
+    3300626: Barrel_LOD2 46
+    3300628: Barrel_LOD2 47
+    3300630: Barrel_LOD2 48
+    3300632: Barrel_LOD2 49
+    3300634: Barrel_LOD2 5
+    3300636: Barrel_LOD2 50
+    3300638: Barrel_LOD2 51
+    3300640: Barrel_LOD2 52
+    3300642: Barrel_LOD2 53
+    3300644: Barrel_LOD2 54
+    3300646: Barrel_LOD2 55
+    3300648: Barrel_LOD2 56
+    3300650: Barrel_LOD2 57
+    3300652: Barrel_LOD2 58
+    3300654: Barrel_LOD2 59
+    3300656: Barrel_LOD2 6
+    3300658: Barrel_LOD2 60
+    3300660: Barrel_LOD2 61
+    3300662: Barrel_LOD2 62
+    3300664: Barrel_LOD2 63
+    3300666: Barrel_LOD2 64
+    3300668: Barrel_LOD2 65
+    3300670: Barrel_LOD2 66
+    3300672: Barrel_LOD2 67
+    3300674: Barrel_LOD2 68
+    3300676: Barrel_LOD2 69
+    3300678: Barrel_LOD2 7
+    3300680: Barrel_LOD2 70
+    3300682: Barrel_LOD2 71
+    3300684: Barrel_LOD2 72
+    3300686: Barrel_LOD2 73
+    3300688: Barrel_LOD2 74
+    3300690: Barrel_LOD2 75
+    3300692: Barrel_LOD2 76
+    3300694: Barrel_LOD2 77
+    3300696: Barrel_LOD2 78
+    3300698: Barrel_LOD2 79
+    3300700: Barrel_LOD2 8
+    3300702: Barrel_LOD2 80
+    3300704: Barrel_LOD2 81
+    3300706: Barrel_LOD2 82
+    3300708: Barrel_LOD2 83
+    3300710: Barrel_LOD2 84
+    3300712: Barrel_LOD2 85
+    3300714: Barrel_LOD2 86
+    3300716: Barrel_LOD2 87
+    3300718: Barrel_LOD2 88
+    3300720: Barrel_LOD2 89
+    3300722: Barrel_LOD2 9
+    3300724: Barrel_LOD2 90
+    3300726: Barrel_LOD2 91
+    3300728: Barrel_LOD2 92
+    3300730: Barrel_LOD2 93
+    3300732: Barrel_LOD2 94
+    3300734: Barrel_LOD2 95
+    3300736: Barrel_LOD2 96
+    3300738: Barrel_LOD2 97
+    3300740: Barrel_LOD2 98
+    3300742: Barrel_LOD2 99
+    3300744: Barrel_LOD3
+    3300746: Barrel_LOD3 1
+    3300748: Barrel_LOD3 10
+    3300750: Barrel_LOD3 100
+    3300752: Barrel_LOD3 101
+    3300754: Barrel_LOD3 102
+    3300756: Barrel_LOD3 103
+    3300758: Barrel_LOD3 11
+    3300760: Barrel_LOD3 12
+    3300762: Barrel_LOD3 13
+    3300764: Barrel_LOD3 14
+    3300766: Barrel_LOD3 15
+    3300768: Barrel_LOD3 16
+    3300770: Barrel_LOD3 17
+    3300772: Barrel_LOD3 18
+    3300774: Barrel_LOD3 19
+    3300776: Barrel_LOD3 2
+    3300778: Barrel_LOD3 20
+    3300780: Barrel_LOD3 21
+    3300782: Barrel_LOD3 22
+    3300784: Barrel_LOD3 23
+    3300786: Barrel_LOD3 24
+    3300788: Barrel_LOD3 25
+    3300790: Barrel_LOD3 26
+    3300792: Barrel_LOD3 27
+    3300794: Barrel_LOD3 28
+    3300796: Barrel_LOD3 29
+    3300798: Barrel_LOD3 3
+    3300800: Barrel_LOD3 30
+    3300802: Barrel_LOD3 31
+    3300804: Barrel_LOD3 32
+    3300806: Barrel_LOD3 33
+    3300808: Barrel_LOD3 34
+    3300810: Barrel_LOD3 35
+    3300812: Barrel_LOD3 36
+    3300814: Barrel_LOD3 37
+    3300816: Barrel_LOD3 38
+    3300818: Barrel_LOD3 39
+    3300820: Barrel_LOD3 4
+    3300822: Barrel_LOD3 40
+    3300824: Barrel_LOD3 41
+    3300826: Barrel_LOD3 42
+    3300828: Barrel_LOD3 43
+    3300830: Barrel_LOD3 44
+    3300832: Barrel_LOD3 45
+    3300834: Barrel_LOD3 46
+    3300836: Barrel_LOD3 47
+    3300838: Barrel_LOD3 48
+    3300840: Barrel_LOD3 49
+    3300842: Barrel_LOD3 5
+    3300844: Barrel_LOD3 50
+    3300846: Barrel_LOD3 51
+    3300848: Barrel_LOD3 52
+    3300850: Barrel_LOD3 53
+    3300852: Barrel_LOD3 54
+    3300854: Barrel_LOD3 55
+    3300856: Barrel_LOD3 56
+    3300858: Barrel_LOD3 57
+    3300860: Barrel_LOD3 58
+    3300862: Barrel_LOD3 59
+    3300864: Barrel_LOD3 6
+    3300866: Barrel_LOD3 60
+    3300868: Barrel_LOD3 61
+    3300870: Barrel_LOD3 62
+    3300872: Barrel_LOD3 63
+    3300874: Barrel_LOD3 64
+    3300876: Barrel_LOD3 65
+    3300878: Barrel_LOD3 66
+    3300880: Barrel_LOD3 67
+    3300882: Barrel_LOD3 68
+    3300884: Barrel_LOD3 69
+    3300886: Barrel_LOD3 7
+    3300888: Barrel_LOD3 70
+    3300890: Barrel_LOD3 71
+    3300892: Barrel_LOD3 72
+    3300894: Barrel_LOD3 73
+    3300896: Barrel_LOD3 74
+    3300898: Barrel_LOD3 75
+    3300900: Barrel_LOD3 76
+    3300902: Barrel_LOD3 77
+    3300904: Barrel_LOD3 78
+    3300906: Barrel_LOD3 79
+    3300908: Barrel_LOD3 8
+    3300910: Barrel_LOD3 80
+    3300912: Barrel_LOD3 81
+    3300914: Barrel_LOD3 82
+    3300916: Barrel_LOD3 83
+    3300918: Barrel_LOD3 84
+    3300920: Barrel_LOD3 85
+    3300922: Barrel_LOD3 86
+    3300924: Barrel_LOD3 87
+    3300926: Barrel_LOD3 88
+    3300928: Barrel_LOD3 89
+    3300930: Barrel_LOD3 9
+    3300932: Barrel_LOD3 90
+    3300934: Barrel_LOD3 91
+    3300936: Barrel_LOD3 92
+    3300938: Barrel_LOD3 93
+    3300940: Barrel_LOD3 94
+    3300942: Barrel_LOD3 95
+    3300944: Barrel_LOD3 96
+    3300946: Barrel_LOD3 97
+    3300948: Barrel_LOD3 98
+    3300950: Barrel_LOD3 99
+    3300952: BayDoor
+    3300954: BayDoor_LOD1
+    3300956: BayDoor_LOD2
+    3300958: BayDoor_LOD3
+    3300960: CM_MainBody
+    3300962: EngineGlow1
+    3300964: EngineGlow1 1
+    3300966: EngineGlow1 2
+    3300968: EngineGlow2
+    3300970: EngineGlow2 1
+    3300972: EngineGlow2 2
+    3300974: EngineGlow3
+    3300976: EngineGlow3 1
+    3300978: EngineGlow3 2
+    3300980: EngineGlow4
+    3300982: EngineGlow4 1
+    3300984: EngineGlow4 2
+    3300986: MainBody
+    3300988: MainBody_LOD1
+    3300990: MainBody_LOD2
+    3300992: MainBody_LOD3
+    3300994: path1
+    3300996: path2
+    3300998: pCube39
+    3301000: pCube40
+    3301002: polySurface243
+    3301004: polySurface270
+    3301006: polySurface274
+    3301008: polySurface278
+    3301010: polySurface279
+    3301012: polySurface293
+    3301014: polySurface294
+    3301016: polySurface295
+    3301018: polySurface334
+    3301020: polySurface335
+    3301022: polySurface338
+    3301024: polySurface341
+    3301026: polySurface342
+    3301028: polySurface355
+    3301030: polySurface356
+    3301032: polySurface357
+    3301034: polySurface381
+    3301036: polySurface384
+    3301038: polySurface385
+    3301040: polySurface408
+    3301042: polySurface411
+    3301044: polySurface458
+    3301046: polySurface503
+    3301048: polySurface504
+    3301050: polySurface505
+    3301052: polySurface506
+    3301054: polySurface571
+    3301056: polySurface571 1
+    3301058: polySurface571 2
+    3301060: polySurface571 3
+    3301062: polySurface571 4
+    3301064: polySurface571 5
+    3301066: polySurface571 6
+    3301068: polySurface571 7
+    3301070: polySurface571 8
+    3301072: polySurface571 9
+    3301074: polySurface573
+    3301076: polySurface574
+    3301078: polySurface638
+    3301080: polySurface644
+    3301082: S2Wpn
+    3301084: S2Wpn 1
+    3301086: S2Wpn 10
+    3301088: S2Wpn 11
+    3301090: S2Wpn 12
+    3301092: S2Wpn 13
+    3301094: S2Wpn 14
+    3301096: S2Wpn 15
+    3301098: S2Wpn 16
+    3301100: S2Wpn 17
+    3301102: S2Wpn 18
+    3301104: S2Wpn 19
+    3301106: S2Wpn 2
+    3301108: S2Wpn 20
+    3301110: S2Wpn 21
+    3301112: S2Wpn 22
+    3301114: S2Wpn 23
+    3301116: S2Wpn 24
+    3301118: S2Wpn 25
+    3301120: S2Wpn 3
+    3301122: S2Wpn 4
+    3301124: S2Wpn 5
+    3301126: S2Wpn 6
+    3301128: S2Wpn 7
+    3301130: S2Wpn 8
+    3301132: S2Wpn 9
+    3301134: S2Wpn_LOD1
+    3301136: S2Wpn_LOD1 1
+    3301138: S2Wpn_LOD1 10
+    3301140: S2Wpn_LOD1 11
+    3301142: S2Wpn_LOD1 12
+    3301144: S2Wpn_LOD1 13
+    3301146: S2Wpn_LOD1 14
+    3301148: S2Wpn_LOD1 15
+    3301150: S2Wpn_LOD1 16
+    3301152: S2Wpn_LOD1 17
+    3301154: S2Wpn_LOD1 18
+    3301156: S2Wpn_LOD1 19
+    3301158: S2Wpn_LOD1 2
+    3301160: S2Wpn_LOD1 20
+    3301162: S2Wpn_LOD1 21
+    3301164: S2Wpn_LOD1 22
+    3301166: S2Wpn_LOD1 23
+    3301168: S2Wpn_LOD1 24
+    3301170: S2Wpn_LOD1 25
+    3301172: S2Wpn_LOD1 3
+    3301174: S2Wpn_LOD1 4
+    3301176: S2Wpn_LOD1 5
+    3301178: S2Wpn_LOD1 6
+    3301180: S2Wpn_LOD1 7
+    3301182: S2Wpn_LOD1 8
+    3301184: S2Wpn_LOD1 9
+    3301186: S2Wpn_LOD2
+    3301188: S2Wpn_LOD2 1
+    3301190: S2Wpn_LOD2 10
+    3301192: S2Wpn_LOD2 11
+    3301194: S2Wpn_LOD2 12
+    3301196: S2Wpn_LOD2 13
+    3301198: S2Wpn_LOD2 14
+    3301200: S2Wpn_LOD2 15
+    3301202: S2Wpn_LOD2 16
+    3301204: S2Wpn_LOD2 17
+    3301206: S2Wpn_LOD2 18
+    3301208: S2Wpn_LOD2 19
+    3301210: S2Wpn_LOD2 2
+    3301212: S2Wpn_LOD2 20
+    3301214: S2Wpn_LOD2 21
+    3301216: S2Wpn_LOD2 22
+    3301218: S2Wpn_LOD2 23
+    3301220: S2Wpn_LOD2 24
+    3301222: S2Wpn_LOD2 25
+    3301224: S2Wpn_LOD2 3
+    3301226: S2Wpn_LOD2 4
+    3301228: S2Wpn_LOD2 5
+    3301230: S2Wpn_LOD2 6
+    3301232: S2Wpn_LOD2 7
+    3301234: S2Wpn_LOD2 8
+    3301236: S2Wpn_LOD2 9
+    3301238: S2Wpn_LOD3
+    3301240: S2Wpn_LOD3 1
+    3301242: S2Wpn_LOD3 10
+    3301244: S2Wpn_LOD3 11
+    3301246: S2Wpn_LOD3 12
+    3301248: S2Wpn_LOD3 13
+    3301250: S2Wpn_LOD3 14
+    3301252: S2Wpn_LOD3 15
+    3301254: S2Wpn_LOD3 16
+    3301256: S2Wpn_LOD3 17
+    3301258: S2Wpn_LOD3 18
+    3301260: S2Wpn_LOD3 19
+    3301262: S2Wpn_LOD3 2
+    3301264: S2Wpn_LOD3 20
+    3301266: S2Wpn_LOD3 21
+    3301268: S2Wpn_LOD3 22
+    3301270: S2Wpn_LOD3 23
+    3301272: S2Wpn_LOD3 24
+    3301274: S2Wpn_LOD3 25
+    3301276: S2Wpn_LOD3 3
+    3301278: S2Wpn_LOD3 4
+    3301280: S2Wpn_LOD3 5
+    3301282: S2Wpn_LOD3 6
+    3301284: S2Wpn_LOD3 7
+    3301286: S2Wpn_LOD3 8
+    3301288: S2Wpn_LOD3 9
+    3301290: SWpn
+    3301292: SWpn 1
+    3301294: SWpn 2
+    3301296: SWpn 3
+    3301298: SWpn 4
+    3301300: SWpn 5
+    3301302: SWpn 6
+    3301304: SWpn 7
+    3301306: SWpn 8
+    3301308: SWpn 9
+    3301310: SWpn_LOD1
+    3301312: SWpn_LOD1 1
+    3301314: SWpn_LOD1 2
+    3301316: SWpn_LOD1 3
+    3301318: SWpn_LOD1 4
+    3301320: SWpn_LOD1 5
+    3301322: SWpn_LOD1 6
+    3301324: SWpn_LOD1 7
+    3301326: SWpn_LOD1 8
+    3301328: SWpn_LOD1 9
+    3301330: SWpn_LOD2
+    3301332: SWpn_LOD2 1
+    3301334: SWpn_LOD2 2
+    3301336: SWpn_LOD2 3
+    3301338: SWpn_LOD2 4
+    3301340: SWpn_LOD2 5
+    3301342: SWpn_LOD2 6
+    3301344: SWpn_LOD2 7
+    3301346: SWpn_LOD2 8
+    3301348: SWpn_LOD2 9
+    3301350: SWpn_LOD3
+    3301352: SWpn_LOD3 1
+    3301354: SWpn_LOD3 2
+    3301356: SWpn_LOD3 3
+    3301358: SWpn_LOD3 4
+    3301360: SWpn_LOD3 5
+    3301362: SWpn_LOD3 6
+    3301364: SWpn_LOD3 7
+    3301366: SWpn_LOD3 8
+    3301368: SWpn_LOD3 9
+    3301370: Turret1
+    3301372: Turret1 1
+    3301374: Turret1 2
+    3301376: Turret1_LOD1
+    3301378: Turret1_LOD1 1
+    3301380: Turret1_LOD1 2
+    3301382: Turret1_LOD2
+    3301384: Turret1_LOD2 1
+    3301386: Turret1_LOD2 2
+    3301388: Turret1_LOD3
+    3301390: Turret1_LOD3 1
+    3301392: Turret1_LOD3 2
+    3301394: Turret2
+    3301396: Turret2 1
+    3301398: Turret2_LOD1
+    3301400: Turret2_LOD1 1
+    3301402: Turret2_LOD2
+    3301404: Turret2_LOD2 1
+    3301406: Turret2_LOD3
+    3301408: Turret2_LOD3 1
+    4300000: path1
+    4300002: path2
+    4300004: polySurface243
+    4300006: polySurface270
+    4300008: polySurface274
+    4300010: polySurface278
+    4300012: polySurface279
+    4300014: polySurface293
+    4300016: polySurface294
+    4300018: polySurface295
+    4300020: polySurface334
+    4300022: polySurface335
+    4300024: polySurface338
+    4300026: polySurface341
+    4300028: polySurface342
+    4300030: polySurface355
+    4300032: polySurface356
+    4300034: polySurface357
+    4300036: polySurface381
+    4300038: polySurface384
+    4300040: polySurface408
+    4300042: polySurface411
+    4300044: polySurface458
+    4300046: polySurface503
+    4300048: polySurface504
+    4300050: polySurface505
+    4300052: polySurface506
+    4300054: polySurface638
+    4300056: MainBody
+    4300058: polySurface644
+    4300060: EngineGlow1
+    4300062: EngineGlow2
+    4300064: EngineGlow3
+    4300066: EngineGlow4
+    4300068: Barrel1
+    4300070: Barrel1_LOD1
+    4300072: Barrel1_LOD2
+    4300074: Barrel1_LOD3
+    4300076: Turret1
+    4300078: Turret1_LOD1
+    4300080: Turret1_LOD2
+    4300082: Turret1_LOD3
+    4300084: polySurface385
+    4300086: Barrel1
+    4300088: Barrel1_LOD1
+    4300090: Barrel1_LOD2
+    4300092: Barrel1_LOD3
+    4300094: Barrel1
+    4300096: Barrel1_LOD1
+    4300098: Barrel1_LOD2
+    4300100: Barrel1_LOD3
+    4300102: Barrel1
+    4300104: Barrel1_LOD1
+    4300106: Barrel1_LOD2
+    4300108: Barrel1_LOD3
+    4300110: Turret1
+    4300112: Turret1_LOD1
+    4300114: Turret1_LOD2
+    4300116: Turret1_LOD3
+    4300118: polySurface573
+    4300120: Barrel1
+    4300122: Barrel1_LOD1
+    4300124: Barrel1_LOD2
+    4300126: Barrel1_LOD3
+    4300128: Barrel1
+    4300130: Barrel1_LOD1
+    4300132: Barrel1_LOD2
+    4300134: Barrel1_LOD3
+    4300136: Barrel1
+    4300138: Barrel1_LOD1
+    4300140: Barrel1_LOD2
+    4300142: Barrel1_LOD3
+    4300144: Turret1
+    4300146: Turret1_LOD1
+    4300148: Turret1_LOD2
+    4300150: Turret1_LOD3
+    4300152: polySurface574
+    4300154: Barrel1
+    4300156: Barrel1_LOD1
+    4300158: Barrel1_LOD2
+    4300160: Barrel1_LOD3
+    4300162: Barrel1
+    4300164: Barrel1_LOD1
+    4300166: Barrel1_LOD2
+    4300168: Barrel1_LOD3
+    4300170: Barrel2
+    4300172: Barrel2_LOD1
+    4300174: Barrel2_LOD2
+    4300176: Barrel2_LOD3
+    4300178: Turret2
+    4300180: Turret2_LOD1
+    4300182: Turret2_LOD2
+    4300184: Turret2_LOD3
+    4300186: Barrel2
+    4300188: Barrel2_LOD1
+    4300190: Barrel2_LOD2
+    4300192: Barrel2_LOD3
+    4300194: Barrel2
+    4300196: Barrel2_LOD1
+    4300198: Barrel2_LOD2
+    4300200: Barrel2_LOD3
+    4300202: Barrel2
+    4300204: Barrel2_LOD1
+    4300206: Barrel2_LOD2
+    4300208: Barrel2_LOD3
+    4300210: Turret2
+    4300212: Turret2_LOD1
+    4300214: Turret2_LOD2
+    4300216: Turret2_LOD3
+    4300218: Barrel2
+    4300220: Barrel2_LOD1
+    4300222: Barrel2_LOD2
+    4300224: Barrel2_LOD3
+    4300226: Barrel2
+    4300228: Barrel2_LOD1
+    4300230: Barrel2_LOD2
+    4300232: Barrel2_LOD3
+    4300234: SWpn
+    4300236: SWpn_LOD1
+    4300238: SWpn_LOD2
+    4300240: SWpn_LOD3
+    4300242: Barrel
+    4300244: Barrel_LOD1
+    4300246: Barrel_LOD2
+    4300248: Barrel_LOD3
+    4300250: polySurface571
+    4300252: Barrel
+    4300254: Barrel_LOD1
+    4300256: Barrel_LOD2
+    4300258: Barrel_LOD3
+    4300260: Barrel
+    4300262: Barrel_LOD1
+    4300264: Barrel_LOD2
+    4300266: Barrel_LOD3
+    4300268: Barrel
+    4300270: Barrel_LOD1
+    4300272: Barrel_LOD2
+    4300274: Barrel_LOD3
+    4300276: SWpn
+    4300278: SWpn_LOD1
+    4300280: SWpn_LOD2
+    4300282: SWpn_LOD3
+    4300284: Barrel
+    4300286: Barrel_LOD1
+    4300288: Barrel_LOD2
+    4300290: Barrel_LOD3
+    4300292: polySurface571
+    4300294: Barrel
+    4300296: Barrel_LOD1
+    4300298: Barrel_LOD2
+    4300300: Barrel_LOD3
+    4300302: Barrel
+    4300304: Barrel_LOD1
+    4300306: Barrel_LOD2
+    4300308: Barrel_LOD3
+    4300310: Barrel
+    4300312: Barrel_LOD1
+    4300314: Barrel_LOD2
+    4300316: Barrel_LOD3
+    4300318: SWpn
+    4300320: SWpn_LOD1
+    4300322: SWpn_LOD2
+    4300324: SWpn_LOD3
+    4300326: Barrel
+    4300328: Barrel_LOD1
+    4300330: Barrel_LOD2
+    4300332: Barrel_LOD3
+    4300334: polySurface571
+    4300336: Barrel
+    4300338: Barrel_LOD1
+    4300340: Barrel_LOD2
+    4300342: Barrel_LOD3
+    4300344: Barrel
+    4300346: Barrel_LOD1
+    4300348: Barrel_LOD2
+    4300350: Barrel_LOD3
+    4300352: Barrel
+    4300354: Barrel_LOD1
+    4300356: Barrel_LOD2
+    4300358: Barrel_LOD3
+    4300360: SWpn
+    4300362: SWpn_LOD1
+    4300364: SWpn_LOD2
+    4300366: SWpn_LOD3
+    4300368: Barrel
+    4300370: Barrel_LOD1
+    4300372: Barrel_LOD2
+    4300374: Barrel_LOD3
+    4300376: polySurface571
+    4300378: Barrel
+    4300380: Barrel_LOD1
+    4300382: Barrel_LOD2
+    4300384: Barrel_LOD3
+    4300386: Barrel
+    4300388: Barrel_LOD1
+    4300390: Barrel_LOD2
+    4300392: Barrel_LOD3
+    4300394: Barrel
+    4300396: Barrel_LOD1
+    4300398: Barrel_LOD2
+    4300400: Barrel_LOD3
+    4300402: Barrel
+    4300404: Barrel_LOD1
+    4300406: Barrel_LOD2
+    4300408: Barrel_LOD3
+    4300410: Barrel
+    4300412: Barrel_LOD1
+    4300414: Barrel_LOD2
+    4300416: Barrel_LOD3
+    4300418: Barrel
+    4300420: Barrel_LOD1
+    4300422: Barrel_LOD2
+    4300424: Barrel_LOD3
+    4300426: SWpn
+    4300428: SWpn_LOD1
+    4300430: SWpn_LOD2
+    4300432: SWpn_LOD3
+    4300434: Barrel
+    4300436: Barrel_LOD1
+    4300438: Barrel_LOD2
+    4300440: Barrel_LOD3
+    4300442: polySurface571
+    4300444: SWpn
+    4300446: SWpn_LOD1
+    4300448: SWpn_LOD2
+    4300450: SWpn_LOD3
+    4300452: Barrel
+    4300454: Barrel_LOD1
+    4300456: Barrel_LOD2
+    4300458: Barrel_LOD3
+    4300460: polySurface571
+    4300462: Barrel
+    4300464: Barrel_LOD1
+    4300466: Barrel_LOD2
+    4300468: Barrel_LOD3
+    4300470: Barrel
+    4300472: Barrel_LOD1
+    4300474: Barrel_LOD2
+    4300476: Barrel_LOD3
+    4300478: Barrel
+    4300480: Barrel_LOD1
+    4300482: Barrel_LOD2
+    4300484: Barrel_LOD3
+    4300486: SWpn
+    4300488: SWpn_LOD1
+    4300490: SWpn_LOD2
+    4300492: SWpn_LOD3
+    4300494: Barrel
+    4300496: Barrel_LOD1
+    4300498: Barrel_LOD2
+    4300500: Barrel_LOD3
+    4300502: polySurface571
+    4300504: Barrel
+    4300506: Barrel_LOD1
+    4300508: Barrel_LOD2
+    4300510: Barrel_LOD3
+    4300512: Barrel
+    4300514: Barrel_LOD1
+    4300516: Barrel_LOD2
+    4300518: Barrel_LOD3
+    4300520: Barrel
+    4300522: Barrel_LOD1
+    4300524: Barrel_LOD2
+    4300526: Barrel_LOD3
+    4300528: SWpn
+    4300530: SWpn_LOD1
+    4300532: SWpn_LOD2
+    4300534: SWpn_LOD3
+    4300536: Barrel
+    4300538: Barrel_LOD1
+    4300540: Barrel_LOD2
+    4300542: Barrel_LOD3
+    4300544: polySurface571
+    4300546: Barrel
+    4300548: Barrel_LOD1
+    4300550: Barrel_LOD2
+    4300552: Barrel_LOD3
+    4300554: Barrel
+    4300556: Barrel_LOD1
+    4300558: Barrel_LOD2
+    4300560: Barrel_LOD3
+    4300562: Barrel
+    4300564: Barrel_LOD1
+    4300566: Barrel_LOD2
+    4300568: Barrel_LOD3
+    4300570: SWpn
+    4300572: SWpn_LOD1
+    4300574: SWpn_LOD2
+    4300576: SWpn_LOD3
+    4300578: Barrel
+    4300580: Barrel_LOD1
+    4300582: Barrel_LOD2
+    4300584: Barrel_LOD3
+    4300586: polySurface571
+    4300588: Barrel
+    4300590: Barrel_LOD1
+    4300592: Barrel_LOD2
+    4300594: Barrel_LOD3
+    4300596: Barrel
+    4300598: Barrel_LOD1
+    4300600: Barrel_LOD2
+    4300602: Barrel_LOD3
+    4300604: Barrel
+    4300606: Barrel_LOD1
+    4300608: Barrel_LOD2
+    4300610: Barrel_LOD3
+    4300612: SWpn
+    4300614: SWpn_LOD1
+    4300616: SWpn_LOD2
+    4300618: SWpn_LOD3
+    4300620: Barrel
+    4300622: Barrel_LOD1
+    4300624: Barrel_LOD2
+    4300626: Barrel_LOD3
+    4300628: polySurface571
+    4300630: Barrel
+    4300632: Barrel_LOD1
+    4300634: Barrel_LOD2
+    4300636: Barrel_LOD3
+    4300638: Barrel
+    4300640: Barrel_LOD1
+    4300642: Barrel_LOD2
+    4300644: Barrel_LOD3
+    4300646: Barrel
+    4300648: Barrel_LOD1
+    4300650: Barrel_LOD2
+    4300652: Barrel_LOD3
+    4300654: S2Wpn
+    4300656: S2Wpn_LOD1
+    4300658: S2Wpn_LOD2
+    4300660: S2Wpn_LOD3
+    4300662: Barrel
+    4300664: Barrel_LOD1
+    4300666: Barrel_LOD2
+    4300668: Barrel_LOD3
+    4300670: Barrel
+    4300672: Barrel_LOD1
+    4300674: Barrel_LOD2
+    4300676: Barrel_LOD3
+    4300678: Barrel
+    4300680: Barrel_LOD1
+    4300682: Barrel_LOD2
+    4300684: Barrel_LOD3
+    4300686: S2Wpn
+    4300688: S2Wpn_LOD1
+    4300690: S2Wpn_LOD2
+    4300692: S2Wpn_LOD3
+    4300694: Barrel
+    4300696: Barrel_LOD1
+    4300698: Barrel_LOD2
+    4300700: Barrel_LOD3
+    4300702: Barrel
+    4300704: Barrel_LOD1
+    4300706: Barrel_LOD2
+    4300708: Barrel_LOD3
+    4300710: S2Wpn
+    4300712: S2Wpn_LOD1
+    4300714: S2Wpn_LOD2
+    4300716: S2Wpn_LOD3
+    4300718: Barrel
+    4300720: Barrel_LOD1
+    4300722: Barrel_LOD2
+    4300724: Barrel_LOD3
+    4300726: Barrel
+    4300728: Barrel_LOD1
+    4300730: Barrel_LOD2
+    4300732: Barrel_LOD3
+    4300734: S2Wpn
+    4300736: S2Wpn_LOD1
+    4300738: S2Wpn_LOD2
+    4300740: S2Wpn_LOD3
+    4300742: Barrel
+    4300744: Barrel_LOD1
+    4300746: Barrel_LOD2
+    4300748: Barrel_LOD3
+    4300750: Barrel
+    4300752: Barrel_LOD1
+    4300754: Barrel_LOD2
+    4300756: Barrel_LOD3
+    4300758: S2Wpn
+    4300760: S2Wpn_LOD1
+    4300762: S2Wpn_LOD2
+    4300764: S2Wpn_LOD3
+    4300766: Barrel
+    4300768: Barrel_LOD1
+    4300770: Barrel_LOD2
+    4300772: Barrel_LOD3
+    4300774: Barrel
+    4300776: Barrel_LOD1
+    4300778: Barrel_LOD2
+    4300780: Barrel_LOD3
+    4300782: S2Wpn
+    4300784: S2Wpn_LOD1
+    4300786: S2Wpn_LOD2
+    4300788: S2Wpn_LOD3
+    4300790: Barrel
+    4300792: Barrel_LOD1
+    4300794: Barrel_LOD2
+    4300796: Barrel_LOD3
+    4300798: Barrel
+    4300800: Barrel_LOD1
+    4300802: Barrel_LOD2
+    4300804: Barrel_LOD3
+    4300806: S2Wpn
+    4300808: S2Wpn_LOD1
+    4300810: S2Wpn_LOD2
+    4300812: S2Wpn_LOD3
+    4300814: Barrel
+    4300816: Barrel_LOD1
+    4300818: Barrel_LOD2
+    4300820: Barrel_LOD3
+    4300822: S2Wpn
+    4300824: S2Wpn_LOD1
+    4300826: S2Wpn_LOD2
+    4300828: S2Wpn_LOD3
+    4300830: Barrel
+    4300832: Barrel_LOD1
+    4300834: Barrel_LOD2
+    4300836: Barrel_LOD3
+    4300838: Barrel
+    4300840: Barrel_LOD1
+    4300842: Barrel_LOD2
+    4300844: Barrel_LOD3
+    4300846: Barrel
+    4300848: Barrel_LOD1
+    4300850: Barrel_LOD2
+    4300852: Barrel_LOD3
+    4300854: S2Wpn
+    4300856: S2Wpn_LOD1
+    4300858: S2Wpn_LOD2
+    4300860: S2Wpn_LOD3
+    4300862: Barrel
+    4300864: Barrel_LOD1
+    4300866: Barrel_LOD2
+    4300868: Barrel_LOD3
+    4300870: Barrel
+    4300872: Barrel_LOD1
+    4300874: Barrel_LOD2
+    4300876: Barrel_LOD3
+    4300878: S2Wpn
+    4300880: S2Wpn_LOD1
+    4300882: S2Wpn_LOD2
+    4300884: S2Wpn_LOD3
+    4300886: Barrel
+    4300888: Barrel_LOD1
+    4300890: Barrel_LOD2
+    4300892: Barrel_LOD3
+    4300894: Barrel
+    4300896: Barrel_LOD1
+    4300898: Barrel_LOD2
+    4300900: Barrel_LOD3
+    4300902: S2Wpn
+    4300904: S2Wpn_LOD1
+    4300906: S2Wpn_LOD2
+    4300908: S2Wpn_LOD3
+    4300910: Barrel
+    4300912: Barrel_LOD1
+    4300914: Barrel_LOD2
+    4300916: Barrel_LOD3
+    4300918: Barrel
+    4300920: Barrel_LOD1
+    4300922: Barrel_LOD2
+    4300924: Barrel_LOD3
+    4300926: S2Wpn
+    4300928: S2Wpn_LOD1
+    4300930: S2Wpn_LOD2
+    4300932: S2Wpn_LOD3
+    4300934: Barrel
+    4300936: Barrel_LOD1
+    4300938: Barrel_LOD2
+    4300940: Barrel_LOD3
+    4300942: S2Wpn
+    4300944: S2Wpn_LOD1
+    4300946: S2Wpn_LOD2
+    4300948: S2Wpn_LOD3
+    4300950: Barrel
+    4300952: Barrel_LOD1
+    4300954: Barrel_LOD2
+    4300956: Barrel_LOD3
+    4300958: Barrel
+    4300960: Barrel_LOD1
+    4300962: Barrel_LOD2
+    4300964: Barrel_LOD3
+    4300966: S2Wpn
+    4300968: S2Wpn_LOD1
+    4300970: S2Wpn_LOD2
+    4300972: S2Wpn_LOD3
+    4300974: Barrel
+    4300976: Barrel_LOD1
+    4300978: Barrel_LOD2
+    4300980: Barrel_LOD3
+    4300982: Barrel
+    4300984: Barrel_LOD1
+    4300986: Barrel_LOD2
+    4300988: Barrel_LOD3
+    4300990: S2Wpn
+    4300992: S2Wpn_LOD1
+    4300994: S2Wpn_LOD2
+    4300996: S2Wpn_LOD3
+    4300998: Barrel
+    4301000: Barrel_LOD1
+    4301002: Barrel_LOD2
+    4301004: Barrel_LOD3
+    4301006: Barrel
+    4301008: Barrel_LOD1
+    4301010: Barrel_LOD2
+    4301012: Barrel_LOD3
+    4301014: Barrel
+    4301016: Barrel_LOD1
+    4301018: Barrel_LOD2
+    4301020: Barrel_LOD3
+    4301022: S2Wpn
+    4301024: S2Wpn_LOD1
+    4301026: S2Wpn_LOD2
+    4301028: S2Wpn_LOD3
+    4301030: Barrel
+    4301032: Barrel_LOD1
+    4301034: Barrel_LOD2
+    4301036: Barrel_LOD3
+    4301038: Barrel
+    4301040: Barrel_LOD1
+    4301042: Barrel_LOD2
+    4301044: Barrel_LOD3
+    4301046: S2Wpn
+    4301048: S2Wpn_LOD1
+    4301050: S2Wpn_LOD2
+    4301052: S2Wpn_LOD3
+    4301054: Barrel
+    4301056: Barrel_LOD1
+    4301058: Barrel_LOD2
+    4301060: Barrel_LOD3
+    4301062: Barrel
+    4301064: Barrel_LOD1
+    4301066: Barrel_LOD2
+    4301068: Barrel_LOD3
+    4301070: S2Wpn
+    4301072: S2Wpn_LOD1
+    4301074: S2Wpn_LOD2
+    4301076: S2Wpn_LOD3
+    4301078: Barrel
+    4301080: Barrel_LOD1
+    4301082: Barrel_LOD2
+    4301084: Barrel_LOD3
+    4301086: Barrel
+    4301088: Barrel_LOD1
+    4301090: Barrel_LOD2
+    4301092: Barrel_LOD3
+    4301094: S2Wpn
+    4301096: S2Wpn_LOD1
+    4301098: S2Wpn_LOD2
+    4301100: S2Wpn_LOD3
+    4301102: Barrel
+    4301104: Barrel_LOD1
+    4301106: Barrel_LOD2
+    4301108: Barrel_LOD3
+    4301110: S2Wpn
+    4301112: S2Wpn_LOD1
+    4301114: S2Wpn_LOD2
+    4301116: S2Wpn_LOD3
+    4301118: Barrel
+    4301120: Barrel_LOD1
+    4301122: Barrel_LOD2
+    4301124: Barrel_LOD3
+    4301126: Barrel
+    4301128: Barrel_LOD1
+    4301130: Barrel_LOD2
+    4301132: Barrel_LOD3
+    4301134: S2Wpn
+    4301136: S2Wpn_LOD1
+    4301138: S2Wpn_LOD2
+    4301140: S2Wpn_LOD3
+    4301142: Barrel
+    4301144: Barrel_LOD1
+    4301146: Barrel_LOD2
+    4301148: Barrel_LOD3
+    4301150: Barrel
+    4301152: Barrel_LOD1
+    4301154: Barrel_LOD2
+    4301156: Barrel_LOD3
+    4301158: Barrel
+    4301160: Barrel_LOD1
+    4301162: Barrel_LOD2
+    4301164: Barrel_LOD3
+    4301166: S2Wpn
+    4301168: S2Wpn_LOD1
+    4301170: S2Wpn_LOD2
+    4301172: S2Wpn_LOD3
+    4301174: Barrel
+    4301176: Barrel_LOD1
+    4301178: Barrel_LOD2
+    4301180: Barrel_LOD3
+    4301182: Barrel
+    4301184: Barrel_LOD1
+    4301186: Barrel_LOD2
+    4301188: Barrel_LOD3
+    4301190: S2Wpn
+    4301192: S2Wpn_LOD1
+    4301194: S2Wpn_LOD2
+    4301196: S2Wpn_LOD3
+    4301198: Barrel
+    4301200: Barrel_LOD1
+    4301202: Barrel_LOD2
+    4301204: Barrel_LOD3
+    4301206: Barrel
+    4301208: Barrel_LOD1
+    4301210: Barrel_LOD2
+    4301212: Barrel_LOD3
+    4301214: S2Wpn
+    4301216: S2Wpn_LOD1
+    4301218: S2Wpn_LOD2
+    4301220: S2Wpn_LOD3
+    4301222: Barrel
+    4301224: Barrel_LOD1
+    4301226: Barrel_LOD2
+    4301228: Barrel_LOD3
+    4301230: Barrel
+    4301232: Barrel_LOD1
+    4301234: Barrel_LOD2
+    4301236: Barrel_LOD3
+    4301238: S2Wpn
+    4301240: S2Wpn_LOD1
+    4301242: S2Wpn_LOD2
+    4301244: S2Wpn_LOD3
+    4301246: Barrel
+    4301248: Barrel_LOD1
+    4301250: Barrel_LOD2
+    4301252: Barrel_LOD3
+    4301254: Barrel
+    4301256: Barrel_LOD1
+    4301258: Barrel_LOD2
+    4301260: Barrel_LOD3
+    4301262: S2Wpn
+    4301264: S2Wpn_LOD1
+    4301266: S2Wpn_LOD2
+    4301268: S2Wpn_LOD3
+    4301270: Barrel
+    4301272: Barrel_LOD1
+    4301274: Barrel_LOD2
+    4301276: Barrel_LOD3
+    4301278: EngineGlow1
+    4301280: EngineGlow2
+    4301282: EngineGlow3
+    4301284: EngineGlow4
+    4301286: EngineGlow1
+    4301288: EngineGlow2
+    4301290: EngineGlow3
+    4301292: EngineGlow4
+    4301294: Barrel
+    4301296: Barrel_LOD1
+    4301298: Barrel_LOD2
+    4301300: Barrel_LOD3
+    4301302: Barrel
+    4301304: Barrel_LOD1
+    4301306: Barrel_LOD2
+    4301308: Barrel_LOD3
+    4301310: Barrel
+    4301312: Barrel_LOD1
+    4301314: Barrel_LOD2
+    4301316: Barrel_LOD3
+    4301318: Barrel
+    4301320: Barrel_LOD1
+    4301322: Barrel_LOD2
+    4301324: Barrel_LOD3
+    4301326: Barrel
+    4301328: Barrel_LOD1
+    4301330: Barrel_LOD2
+    4301332: Barrel_LOD3
+    4301334: Barrel
+    4301336: Barrel_LOD1
+    4301338: Barrel_LOD2
+    4301340: Barrel_LOD3
+    4301342: Barrel
+    4301344: Barrel_LOD1
+    4301346: Barrel_LOD2
+    4301348: Barrel_LOD3
+    4301350: Barrel
+    4301352: Barrel_LOD1
+    4301354: Barrel_LOD2
+    4301356: Barrel_LOD3
+    4301358: Barrel
+    4301360: Barrel_LOD1
+    4301362: Barrel_LOD2
+    4301364: Barrel_LOD3
+    4301366: Barrel
+    4301368: Barrel_LOD1
+    4301370: Barrel_LOD2
+    4301372: Barrel_LOD3
+    4301374: Barrel
+    4301376: Barrel_LOD1
+    4301378: Barrel_LOD2
+    4301380: Barrel_LOD3
+    4301382: Barrel
+    4301384: Barrel_LOD1
+    4301386: Barrel_LOD2
+    4301388: Barrel_LOD3
+    4301390: pCube40
+    4301392: pCube39
+    4301394: CM_MainBody
+    4301396: BayDoor
+    4301398: BayDoor_LOD1
+    4301400: BayDoor_LOD2
+    4301402: BayDoor_LOD3
+    4301404: MainBody_LOD1
+    4301406: MainBody_LOD2
+    4301408: MainBody_LOD3
+    6400000: Barrel
+    6400002: Barrel 1
+    6400004: Barrel 10
+    6400006: Barrel 100
+    6400008: Barrel 101
+    6400010: Barrel 102
+    6400012: Barrel 103
+    6400014: Barrel 11
+    6400016: Barrel 12
+    6400018: Barrel 13
+    6400020: Barrel 14
+    6400022: Barrel 15
+    6400024: Barrel 16
+    6400026: Barrel 17
+    6400028: Barrel 18
+    6400030: Barrel 19
+    6400032: Barrel 2
+    6400034: Barrel 20
+    6400036: Barrel 21
+    6400038: Barrel 22
+    6400040: Barrel 23
+    6400042: Barrel 24
+    6400044: Barrel 25
+    6400046: Barrel 26
+    6400048: Barrel 27
+    6400050: Barrel 28
+    6400052: Barrel 29
+    6400054: Barrel 3
+    6400056: Barrel 30
+    6400058: Barrel 31
+    6400060: Barrel 32
+    6400062: Barrel 33
+    6400064: Barrel 34
+    6400066: Barrel 35
+    6400068: Barrel 36
+    6400070: Barrel 37
+    6400072: Barrel 38
+    6400074: Barrel 39
+    6400076: Barrel 4
+    6400078: Barrel 40
+    6400080: Barrel 41
+    6400082: Barrel 42
+    6400084: Barrel 43
+    6400086: Barrel 44
+    6400088: Barrel 45
+    6400090: Barrel 46
+    6400092: Barrel 47
+    6400094: Barrel 48
+    6400096: Barrel 49
+    6400098: Barrel 5
+    6400100: Barrel 50
+    6400102: Barrel 51
+    6400104: Barrel 52
+    6400106: Barrel 53
+    6400108: Barrel 54
+    6400110: Barrel 55
+    6400112: Barrel 56
+    6400114: Barrel 57
+    6400116: Barrel 58
+    6400118: Barrel 59
+    6400120: Barrel 6
+    6400122: Barrel 60
+    6400124: Barrel 61
+    6400126: Barrel 62
+    6400128: Barrel 63
+    6400130: Barrel 64
+    6400132: Barrel 65
+    6400134: Barrel 66
+    6400136: Barrel 67
+    6400138: Barrel 68
+    6400140: Barrel 69
+    6400142: Barrel 7
+    6400144: Barrel 70
+    6400146: Barrel 71
+    6400148: Barrel 72
+    6400150: Barrel 73
+    6400152: Barrel 74
+    6400154: Barrel 75
+    6400156: Barrel 76
+    6400158: Barrel 77
+    6400160: Barrel 78
+    6400162: Barrel 79
+    6400164: Barrel 8
+    6400166: Barrel 80
+    6400168: Barrel 81
+    6400170: Barrel 82
+    6400172: Barrel 83
+    6400174: Barrel 84
+    6400176: Barrel 85
+    6400178: Barrel 86
+    6400180: Barrel 87
+    6400182: Barrel 88
+    6400184: Barrel 89
+    6400186: Barrel 9
+    6400188: Barrel 90
+    6400190: Barrel 91
+    6400192: Barrel 92
+    6400194: Barrel 93
+    6400196: Barrel 94
+    6400198: Barrel 95
+    6400200: Barrel 96
+    6400202: Barrel 97
+    6400204: Barrel 98
+    6400206: Barrel 99
+    6400208: Barrel1
+    6400210: Barrel1 1
+    6400212: Barrel1 2
+    6400214: Barrel1 3
+    6400216: Barrel1 4
+    6400218: Barrel1 5
+    6400220: Barrel1 6
+    6400222: Barrel1 7
+    6400224: Barrel1 8
+    6400226: Barrel1_LOD1
+    6400228: Barrel1_LOD1 1
+    6400230: Barrel1_LOD1 2
+    6400232: Barrel1_LOD1 3
+    6400234: Barrel1_LOD1 4
+    6400236: Barrel1_LOD1 5
+    6400238: Barrel1_LOD1 6
+    6400240: Barrel1_LOD1 7
+    6400242: Barrel1_LOD1 8
+    6400244: Barrel1_LOD2
+    6400246: Barrel1_LOD2 1
+    6400248: Barrel1_LOD2 2
+    6400250: Barrel1_LOD2 3
+    6400252: Barrel1_LOD2 4
+    6400254: Barrel1_LOD2 5
+    6400256: Barrel1_LOD2 6
+    6400258: Barrel1_LOD2 7
+    6400260: Barrel1_LOD2 8
+    6400262: Barrel1_LOD3
+    6400264: Barrel1_LOD3 1
+    6400266: Barrel1_LOD3 2
+    6400268: Barrel1_LOD3 3
+    6400270: Barrel1_LOD3 4
+    6400272: Barrel1_LOD3 5
+    6400274: Barrel1_LOD3 6
+    6400276: Barrel1_LOD3 7
+    6400278: Barrel1_LOD3 8
+    6400280: Barrel2
+    6400282: Barrel2 1
+    6400284: Barrel2 2
+    6400286: Barrel2 3
+    6400288: Barrel2 4
+    6400290: Barrel2 5
+    6400292: Barrel2_LOD1
+    6400294: Barrel2_LOD1 1
+    6400296: Barrel2_LOD1 2
+    6400298: Barrel2_LOD1 3
+    6400300: Barrel2_LOD1 4
+    6400302: Barrel2_LOD1 5
+    6400304: Barrel2_LOD2
+    6400306: Barrel2_LOD2 1
+    6400308: Barrel2_LOD2 2
+    6400310: Barrel2_LOD2 3
+    6400312: Barrel2_LOD2 4
+    6400314: Barrel2_LOD2 5
+    6400316: Barrel2_LOD3
+    6400318: Barrel2_LOD3 1
+    6400320: Barrel2_LOD3 2
+    6400322: Barrel2_LOD3 3
+    6400324: Barrel2_LOD3 4
+    6400326: Barrel2_LOD3 5
+    6400328: Barrel_LOD1
+    6400330: Barrel_LOD1 1
+    6400332: Barrel_LOD1 10
+    6400334: Barrel_LOD1 100
+    6400336: Barrel_LOD1 101
+    6400338: Barrel_LOD1 102
+    6400340: Barrel_LOD1 103
+    6400342: Barrel_LOD1 11
+    6400344: Barrel_LOD1 12
+    6400346: Barrel_LOD1 13
+    6400348: Barrel_LOD1 14
+    6400350: Barrel_LOD1 15
+    6400352: Barrel_LOD1 16
+    6400354: Barrel_LOD1 17
+    6400356: Barrel_LOD1 18
+    6400358: Barrel_LOD1 19
+    6400360: Barrel_LOD1 2
+    6400362: Barrel_LOD1 20
+    6400364: Barrel_LOD1 21
+    6400366: Barrel_LOD1 22
+    6400368: Barrel_LOD1 23
+    6400370: Barrel_LOD1 24
+    6400372: Barrel_LOD1 25
+    6400374: Barrel_LOD1 26
+    6400376: Barrel_LOD1 27
+    6400378: Barrel_LOD1 28
+    6400380: Barrel_LOD1 29
+    6400382: Barrel_LOD1 3
+    6400384: Barrel_LOD1 30
+    6400386: Barrel_LOD1 31
+    6400388: Barrel_LOD1 32
+    6400390: Barrel_LOD1 33
+    6400392: Barrel_LOD1 34
+    6400394: Barrel_LOD1 35
+    6400396: Barrel_LOD1 36
+    6400398: Barrel_LOD1 37
+    6400400: Barrel_LOD1 38
+    6400402: Barrel_LOD1 39
+    6400404: Barrel_LOD1 4
+    6400406: Barrel_LOD1 40
+    6400408: Barrel_LOD1 41
+    6400410: Barrel_LOD1 42
+    6400412: Barrel_LOD1 43
+    6400414: Barrel_LOD1 44
+    6400416: Barrel_LOD1 45
+    6400418: Barrel_LOD1 46
+    6400420: Barrel_LOD1 47
+    6400422: Barrel_LOD1 48
+    6400424: Barrel_LOD1 49
+    6400426: Barrel_LOD1 5
+    6400428: Barrel_LOD1 50
+    6400430: Barrel_LOD1 51
+    6400432: Barrel_LOD1 52
+    6400434: Barrel_LOD1 53
+    6400436: Barrel_LOD1 54
+    6400438: Barrel_LOD1 55
+    6400440: Barrel_LOD1 56
+    6400442: Barrel_LOD1 57
+    6400444: Barrel_LOD1 58
+    6400446: Barrel_LOD1 59
+    6400448: Barrel_LOD1 6
+    6400450: Barrel_LOD1 60
+    6400452: Barrel_LOD1 61
+    6400454: Barrel_LOD1 62
+    6400456: Barrel_LOD1 63
+    6400458: Barrel_LOD1 64
+    6400460: Barrel_LOD1 65
+    6400462: Barrel_LOD1 66
+    6400464: Barrel_LOD1 67
+    6400466: Barrel_LOD1 68
+    6400468: Barrel_LOD1 69
+    6400470: Barrel_LOD1 7
+    6400472: Barrel_LOD1 70
+    6400474: Barrel_LOD1 71
+    6400476: Barrel_LOD1 72
+    6400478: Barrel_LOD1 73
+    6400480: Barrel_LOD1 74
+    6400482: Barrel_LOD1 75
+    6400484: Barrel_LOD1 76
+    6400486: Barrel_LOD1 77
+    6400488: Barrel_LOD1 78
+    6400490: Barrel_LOD1 79
+    6400492: Barrel_LOD1 8
+    6400494: Barrel_LOD1 80
+    6400496: Barrel_LOD1 81
+    6400498: Barrel_LOD1 82
+    6400500: Barrel_LOD1 83
+    6400502: Barrel_LOD1 84
+    6400504: Barrel_LOD1 85
+    6400506: Barrel_LOD1 86
+    6400508: Barrel_LOD1 87
+    6400510: Barrel_LOD1 88
+    6400512: Barrel_LOD1 89
+    6400514: Barrel_LOD1 9
+    6400516: Barrel_LOD1 90
+    6400518: Barrel_LOD1 91
+    6400520: Barrel_LOD1 92
+    6400522: Barrel_LOD1 93
+    6400524: Barrel_LOD1 94
+    6400526: Barrel_LOD1 95
+    6400528: Barrel_LOD1 96
+    6400530: Barrel_LOD1 97
+    6400532: Barrel_LOD1 98
+    6400534: Barrel_LOD1 99
+    6400536: Barrel_LOD2
+    6400538: Barrel_LOD2 1
+    6400540: Barrel_LOD2 10
+    6400542: Barrel_LOD2 100
+    6400544: Barrel_LOD2 101
+    6400546: Barrel_LOD2 102
+    6400548: Barrel_LOD2 103
+    6400550: Barrel_LOD2 11
+    6400552: Barrel_LOD2 12
+    6400554: Barrel_LOD2 13
+    6400556: Barrel_LOD2 14
+    6400558: Barrel_LOD2 15
+    6400560: Barrel_LOD2 16
+    6400562: Barrel_LOD2 17
+    6400564: Barrel_LOD2 18
+    6400566: Barrel_LOD2 19
+    6400568: Barrel_LOD2 2
+    6400570: Barrel_LOD2 20
+    6400572: Barrel_LOD2 21
+    6400574: Barrel_LOD2 22
+    6400576: Barrel_LOD2 23
+    6400578: Barrel_LOD2 24
+    6400580: Barrel_LOD2 25
+    6400582: Barrel_LOD2 26
+    6400584: Barrel_LOD2 27
+    6400586: Barrel_LOD2 28
+    6400588: Barrel_LOD2 29
+    6400590: Barrel_LOD2 3
+    6400592: Barrel_LOD2 30
+    6400594: Barrel_LOD2 31
+    6400596: Barrel_LOD2 32
+    6400598: Barrel_LOD2 33
+    6400600: Barrel_LOD2 34
+    6400602: Barrel_LOD2 35
+    6400604: Barrel_LOD2 36
+    6400606: Barrel_LOD2 37
+    6400608: Barrel_LOD2 38
+    6400610: Barrel_LOD2 39
+    6400612: Barrel_LOD2 4
+    6400614: Barrel_LOD2 40
+    6400616: Barrel_LOD2 41
+    6400618: Barrel_LOD2 42
+    6400620: Barrel_LOD2 43
+    6400622: Barrel_LOD2 44
+    6400624: Barrel_LOD2 45
+    6400626: Barrel_LOD2 46
+    6400628: Barrel_LOD2 47
+    6400630: Barrel_LOD2 48
+    6400632: Barrel_LOD2 49
+    6400634: Barrel_LOD2 5
+    6400636: Barrel_LOD2 50
+    6400638: Barrel_LOD2 51
+    6400640: Barrel_LOD2 52
+    6400642: Barrel_LOD2 53
+    6400644: Barrel_LOD2 54
+    6400646: Barrel_LOD2 55
+    6400648: Barrel_LOD2 56
+    6400650: Barrel_LOD2 57
+    6400652: Barrel_LOD2 58
+    6400654: Barrel_LOD2 59
+    6400656: Barrel_LOD2 6
+    6400658: Barrel_LOD2 60
+    6400660: Barrel_LOD2 61
+    6400662: Barrel_LOD2 62
+    6400664: Barrel_LOD2 63
+    6400666: Barrel_LOD2 64
+    6400668: Barrel_LOD2 65
+    6400670: Barrel_LOD2 66
+    6400672: Barrel_LOD2 67
+    6400674: Barrel_LOD2 68
+    6400676: Barrel_LOD2 69
+    6400678: Barrel_LOD2 7
+    6400680: Barrel_LOD2 70
+    6400682: Barrel_LOD2 71
+    6400684: Barrel_LOD2 72
+    6400686: Barrel_LOD2 73
+    6400688: Barrel_LOD2 74
+    6400690: Barrel_LOD2 75
+    6400692: Barrel_LOD2 76
+    6400694: Barrel_LOD2 77
+    6400696: Barrel_LOD2 78
+    6400698: Barrel_LOD2 79
+    6400700: Barrel_LOD2 8
+    6400702: Barrel_LOD2 80
+    6400704: Barrel_LOD2 81
+    6400706: Barrel_LOD2 82
+    6400708: Barrel_LOD2 83
+    6400710: Barrel_LOD2 84
+    6400712: Barrel_LOD2 85
+    6400714: Barrel_LOD2 86
+    6400716: Barrel_LOD2 87
+    6400718: Barrel_LOD2 88
+    6400720: Barrel_LOD2 89
+    6400722: Barrel_LOD2 9
+    6400724: Barrel_LOD2 90
+    6400726: Barrel_LOD2 91
+    6400728: Barrel_LOD2 92
+    6400730: Barrel_LOD2 93
+    6400732: Barrel_LOD2 94
+    6400734: Barrel_LOD2 95
+    6400736: Barrel_LOD2 96
+    6400738: Barrel_LOD2 97
+    6400740: Barrel_LOD2 98
+    6400742: Barrel_LOD2 99
+    6400744: Barrel_LOD3
+    6400746: Barrel_LOD3 1
+    6400748: Barrel_LOD3 10
+    6400750: Barrel_LOD3 100
+    6400752: Barrel_LOD3 101
+    6400754: Barrel_LOD3 102
+    6400756: Barrel_LOD3 103
+    6400758: Barrel_LOD3 11
+    6400760: Barrel_LOD3 12
+    6400762: Barrel_LOD3 13
+    6400764: Barrel_LOD3 14
+    6400766: Barrel_LOD3 15
+    6400768: Barrel_LOD3 16
+    6400770: Barrel_LOD3 17
+    6400772: Barrel_LOD3 18
+    6400774: Barrel_LOD3 19
+    6400776: Barrel_LOD3 2
+    6400778: Barrel_LOD3 20
+    6400780: Barrel_LOD3 21
+    6400782: Barrel_LOD3 22
+    6400784: Barrel_LOD3 23
+    6400786: Barrel_LOD3 24
+    6400788: Barrel_LOD3 25
+    6400790: Barrel_LOD3 26
+    6400792: Barrel_LOD3 27
+    6400794: Barrel_LOD3 28
+    6400796: Barrel_LOD3 29
+    6400798: Barrel_LOD3 3
+    6400800: Barrel_LOD3 30
+    6400802: Barrel_LOD3 31
+    6400804: Barrel_LOD3 32
+    6400806: Barrel_LOD3 33
+    6400808: Barrel_LOD3 34
+    6400810: Barrel_LOD3 35
+    6400812: Barrel_LOD3 36
+    6400814: Barrel_LOD3 37
+    6400816: Barrel_LOD3 38
+    6400818: Barrel_LOD3 39
+    6400820: Barrel_LOD3 4
+    6400822: Barrel_LOD3 40
+    6400824: Barrel_LOD3 41
+    6400826: Barrel_LOD3 42
+    6400828: Barrel_LOD3 43
+    6400830: Barrel_LOD3 44
+    6400832: Barrel_LOD3 45
+    6400834: Barrel_LOD3 46
+    6400836: Barrel_LOD3 47
+    6400838: Barrel_LOD3 48
+    6400840: Barrel_LOD3 49
+    6400842: Barrel_LOD3 5
+    6400844: Barrel_LOD3 50
+    6400846: Barrel_LOD3 51
+    6400848: Barrel_LOD3 52
+    6400850: Barrel_LOD3 53
+    6400852: Barrel_LOD3 54
+    6400854: Barrel_LOD3 55
+    6400856: Barrel_LOD3 56
+    6400858: Barrel_LOD3 57
+    6400860: Barrel_LOD3 58
+    6400862: Barrel_LOD3 59
+    6400864: Barrel_LOD3 6
+    6400866: Barrel_LOD3 60
+    6400868: Barrel_LOD3 61
+    6400870: Barrel_LOD3 62
+    6400872: Barrel_LOD3 63
+    6400874: Barrel_LOD3 64
+    6400876: Barrel_LOD3 65
+    6400878: Barrel_LOD3 66
+    6400880: Barrel_LOD3 67
+    6400882: Barrel_LOD3 68
+    6400884: Barrel_LOD3 69
+    6400886: Barrel_LOD3 7
+    6400888: Barrel_LOD3 70
+    6400890: Barrel_LOD3 71
+    6400892: Barrel_LOD3 72
+    6400894: Barrel_LOD3 73
+    6400896: Barrel_LOD3 74
+    6400898: Barrel_LOD3 75
+    6400900: Barrel_LOD3 76
+    6400902: Barrel_LOD3 77
+    6400904: Barrel_LOD3 78
+    6400906: Barrel_LOD3 79
+    6400908: Barrel_LOD3 8
+    6400910: Barrel_LOD3 80
+    6400912: Barrel_LOD3 81
+    6400914: Barrel_LOD3 82
+    6400916: Barrel_LOD3 83
+    6400918: Barrel_LOD3 84
+    6400920: Barrel_LOD3 85
+    6400922: Barrel_LOD3 86
+    6400924: Barrel_LOD3 87
+    6400926: Barrel_LOD3 88
+    6400928: Barrel_LOD3 89
+    6400930: Barrel_LOD3 9
+    6400932: Barrel_LOD3 90
+    6400934: Barrel_LOD3 91
+    6400936: Barrel_LOD3 92
+    6400938: Barrel_LOD3 93
+    6400940: Barrel_LOD3 94
+    6400942: Barrel_LOD3 95
+    6400944: Barrel_LOD3 96
+    6400946: Barrel_LOD3 97
+    6400948: Barrel_LOD3 98
+    6400950: Barrel_LOD3 99
+    6400952: BayDoor
+    6400954: BayDoor_LOD1
+    6400956: BayDoor_LOD2
+    6400958: BayDoor_LOD3
+    6400960: CM_MainBody
+    6400962: EngineGlow1
+    6400964: EngineGlow1 1
+    6400966: EngineGlow1 2
+    6400968: EngineGlow2
+    6400970: EngineGlow2 1
+    6400972: EngineGlow2 2
+    6400974: EngineGlow3
+    6400976: EngineGlow3 1
+    6400978: EngineGlow3 2
+    6400980: EngineGlow4
+    6400982: EngineGlow4 1
+    6400984: EngineGlow4 2
+    6400986: MainBody
+    6400988: MainBody_LOD1
+    6400990: MainBody_LOD2
+    6400992: MainBody_LOD3
+    6400994: path1
+    6400996: path2
+    6400998: pCube39
+    6401000: pCube40
+    6401002: polySurface243
+    6401004: polySurface270
+    6401006: polySurface274
+    6401008: polySurface278
+    6401010: polySurface279
+    6401012: polySurface293
+    6401014: polySurface294
+    6401016: polySurface295
+    6401018: polySurface334
+    6401020: polySurface335
+    6401022: polySurface338
+    6401024: polySurface341
+    6401026: polySurface342
+    6401028: polySurface355
+    6401030: polySurface356
+    6401032: polySurface357
+    6401034: polySurface381
+    6401036: polySurface384
+    6401038: polySurface385
+    6401040: polySurface408
+    6401042: polySurface411
+    6401044: polySurface458
+    6401046: polySurface503
+    6401048: polySurface504
+    6401050: polySurface505
+    6401052: polySurface506
+    6401054: polySurface571
+    6401056: polySurface571 1
+    6401058: polySurface571 2
+    6401060: polySurface571 3
+    6401062: polySurface571 4
+    6401064: polySurface571 5
+    6401066: polySurface571 6
+    6401068: polySurface571 7
+    6401070: polySurface571 8
+    6401072: polySurface571 9
+    6401074: polySurface573
+    6401076: polySurface574
+    6401078: polySurface638
+    6401080: polySurface644
+    6401082: S2Wpn
+    6401084: S2Wpn 1
+    6401086: S2Wpn 10
+    6401088: S2Wpn 11
+    6401090: S2Wpn 12
+    6401092: S2Wpn 13
+    6401094: S2Wpn 14
+    6401096: S2Wpn 15
+    6401098: S2Wpn 16
+    6401100: S2Wpn 17
+    6401102: S2Wpn 18
+    6401104: S2Wpn 19
+    6401106: S2Wpn 2
+    6401108: S2Wpn 20
+    6401110: S2Wpn 21
+    6401112: S2Wpn 22
+    6401114: S2Wpn 23
+    6401116: S2Wpn 24
+    6401118: S2Wpn 25
+    6401120: S2Wpn 3
+    6401122: S2Wpn 4
+    6401124: S2Wpn 5
+    6401126: S2Wpn 6
+    6401128: S2Wpn 7
+    6401130: S2Wpn 8
+    6401132: S2Wpn 9
+    6401134: S2Wpn_LOD1
+    6401136: S2Wpn_LOD1 1
+    6401138: S2Wpn_LOD1 10
+    6401140: S2Wpn_LOD1 11
+    6401142: S2Wpn_LOD1 12
+    6401144: S2Wpn_LOD1 13
+    6401146: S2Wpn_LOD1 14
+    6401148: S2Wpn_LOD1 15
+    6401150: S2Wpn_LOD1 16
+    6401152: S2Wpn_LOD1 17
+    6401154: S2Wpn_LOD1 18
+    6401156: S2Wpn_LOD1 19
+    6401158: S2Wpn_LOD1 2
+    6401160: S2Wpn_LOD1 20
+    6401162: S2Wpn_LOD1 21
+    6401164: S2Wpn_LOD1 22
+    6401166: S2Wpn_LOD1 23
+    6401168: S2Wpn_LOD1 24
+    6401170: S2Wpn_LOD1 25
+    6401172: S2Wpn_LOD1 3
+    6401174: S2Wpn_LOD1 4
+    6401176: S2Wpn_LOD1 5
+    6401178: S2Wpn_LOD1 6
+    6401180: S2Wpn_LOD1 7
+    6401182: S2Wpn_LOD1 8
+    6401184: S2Wpn_LOD1 9
+    6401186: S2Wpn_LOD2
+    6401188: S2Wpn_LOD2 1
+    6401190: S2Wpn_LOD2 10
+    6401192: S2Wpn_LOD2 11
+    6401194: S2Wpn_LOD2 12
+    6401196: S2Wpn_LOD2 13
+    6401198: S2Wpn_LOD2 14
+    6401200: S2Wpn_LOD2 15
+    6401202: S2Wpn_LOD2 16
+    6401204: S2Wpn_LOD2 17
+    6401206: S2Wpn_LOD2 18
+    6401208: S2Wpn_LOD2 19
+    6401210: S2Wpn_LOD2 2
+    6401212: S2Wpn_LOD2 20
+    6401214: S2Wpn_LOD2 21
+    6401216: S2Wpn_LOD2 22
+    6401218: S2Wpn_LOD2 23
+    6401220: S2Wpn_LOD2 24
+    6401222: S2Wpn_LOD2 25
+    6401224: S2Wpn_LOD2 3
+    6401226: S2Wpn_LOD2 4
+    6401228: S2Wpn_LOD2 5
+    6401230: S2Wpn_LOD2 6
+    6401232: S2Wpn_LOD2 7
+    6401234: S2Wpn_LOD2 8
+    6401236: S2Wpn_LOD2 9
+    6401238: S2Wpn_LOD3
+    6401240: S2Wpn_LOD3 1
+    6401242: S2Wpn_LOD3 10
+    6401244: S2Wpn_LOD3 11
+    6401246: S2Wpn_LOD3 12
+    6401248: S2Wpn_LOD3 13
+    6401250: S2Wpn_LOD3 14
+    6401252: S2Wpn_LOD3 15
+    6401254: S2Wpn_LOD3 16
+    6401256: S2Wpn_LOD3 17
+    6401258: S2Wpn_LOD3 18
+    6401260: S2Wpn_LOD3 19
+    6401262: S2Wpn_LOD3 2
+    6401264: S2Wpn_LOD3 20
+    6401266: S2Wpn_LOD3 21
+    6401268: S2Wpn_LOD3 22
+    6401270: S2Wpn_LOD3 23
+    6401272: S2Wpn_LOD3 24
+    6401274: S2Wpn_LOD3 25
+    6401276: S2Wpn_LOD3 3
+    6401278: S2Wpn_LOD3 4
+    6401280: S2Wpn_LOD3 5
+    6401282: S2Wpn_LOD3 6
+    6401284: S2Wpn_LOD3 7
+    6401286: S2Wpn_LOD3 8
+    6401288: S2Wpn_LOD3 9
+    6401290: SWpn
+    6401292: SWpn 1
+    6401294: SWpn 2
+    6401296: SWpn 3
+    6401298: SWpn 4
+    6401300: SWpn 5
+    6401302: SWpn 6
+    6401304: SWpn 7
+    6401306: SWpn 8
+    6401308: SWpn 9
+    6401310: SWpn_LOD1
+    6401312: SWpn_LOD1 1
+    6401314: SWpn_LOD1 2
+    6401316: SWpn_LOD1 3
+    6401318: SWpn_LOD1 4
+    6401320: SWpn_LOD1 5
+    6401322: SWpn_LOD1 6
+    6401324: SWpn_LOD1 7
+    6401326: SWpn_LOD1 8
+    6401328: SWpn_LOD1 9
+    6401330: SWpn_LOD2
+    6401332: SWpn_LOD2 1
+    6401334: SWpn_LOD2 2
+    6401336: SWpn_LOD2 3
+    6401338: SWpn_LOD2 4
+    6401340: SWpn_LOD2 5
+    6401342: SWpn_LOD2 6
+    6401344: SWpn_LOD2 7
+    6401346: SWpn_LOD2 8
+    6401348: SWpn_LOD2 9
+    6401350: SWpn_LOD3
+    6401352: SWpn_LOD3 1
+    6401354: SWpn_LOD3 2
+    6401356: SWpn_LOD3 3
+    6401358: SWpn_LOD3 4
+    6401360: SWpn_LOD3 5
+    6401362: SWpn_LOD3 6
+    6401364: SWpn_LOD3 7
+    6401366: SWpn_LOD3 8
+    6401368: SWpn_LOD3 9
+    6401370: Turret1
+    6401372: Turret1 1
+    6401374: Turret1 2
+    6401376: Turret1_LOD1
+    6401378: Turret1_LOD1 1
+    6401380: Turret1_LOD1 2
+    6401382: Turret1_LOD2
+    6401384: Turret1_LOD2 1
+    6401386: Turret1_LOD2 2
+    6401388: Turret1_LOD3
+    6401390: Turret1_LOD3 1
+    6401392: Turret1_LOD3 2
+    6401394: Turret2
+    6401396: Turret2 1
+    6401398: Turret2_LOD1
+    6401400: Turret2_LOD1 1
+    6401402: Turret2_LOD2
+    6401404: Turret2_LOD2 1
+    6401406: Turret2_LOD3
+    6401408: Turret2_LOD3 1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
